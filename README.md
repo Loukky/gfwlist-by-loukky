@@ -4,7 +4,7 @@ changed from <a href = "https://github.com/gfwlist/gfwlist"> gfwlist</a> and sel
 ~~GitHub: https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt~~  
 ~~如果上面的地址无法使用，可以使用下面的~~ (上面的地址已经被DNS污染，不建议使用)  
 ## Jsdelivr(可能会落后几个小时的版本):
-~~Jsdelivr(Cloudflare/Fastly):https://cdn.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt~~ (也已经被DNS污染，不建议使用)  
+~~Jsdelivr(Cloudflare/Fastly):https://cdn.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt~~ (部分地区已经被DNS污染，不建议使用)  
 Jsdelivr(gcore(实际上是Cloudflare)):https://gcore.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
 Jsdelivr(Fastly):https://fastly.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt **(推荐使用)**  
 ## 镜像站:  
