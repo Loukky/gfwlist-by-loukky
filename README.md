@@ -9,7 +9,7 @@ Jsdelivr(Fastly):https://fastly.jsdelivr.net/gh/bocchi810/loukky-gfwlist-pac@mas
 ## Jsdelivr(可能会落后几个小时): 
 Jsdelivr(gcore):https://gcore.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
 Jsdelivr(Fastly):https://fastly.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt **(推荐使用)**  
-Jsdelivr(服务器自建):https://jsd.proxy.aks.moe/gh/Loukky/gfwlist-by-loukky/master/gfwlist.txt  
+Jsdelivr(服务器自建):https://jsd.proxy.aks.moe/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt
 Jsdelivr(vercel自建):https://jsdelivr.pai233.top/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
 Jsdelivr(国内镜像1，有封禁风险):https://jsd.cdn.zzko.cn/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
 Jsdelivr(国内镜像2，有封禁风险):https://cdn.jsdmirror.com/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
