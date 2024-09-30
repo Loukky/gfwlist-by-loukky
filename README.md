@@ -33,3 +33,6 @@ Jsdelivr(国内镜像2，有封禁风险):https://cdn.jsdmirror.com/gh/Loukky/gf
 google.com:出现了1和3情况  
 **support.** google.com:出现了4情况  
 Telegram:出现了5情况
+## 项目 Star 数增长趋势
+
+[![Stargazers over time](https://starchart.cc/Loukky/gfwlist-by-loukky.svg?variant=adaptive)](https://starchart.cc/Loukky/gfwlist-by-loukky)
