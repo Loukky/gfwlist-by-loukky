@@ -1,6 +1,6 @@
 # gfwlist-by-loukky<br>
 changed from [GFWlist](https://github.com/gfwlist/gfwlist) and self use
-主要适配于[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+主要适配于[ZeroOmega](https://github.com/zero-peak/ZeroOmega)/[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 
 ## Pac规则（来自bocchi810,可能会落后几个小时）
 Jsdelivr(gcore(实际上是Cloudflare)):https://gcore.jsdelivr.net/gh/bocchi810/loukky-gfwlist-pac@master/gfwlist.json  
