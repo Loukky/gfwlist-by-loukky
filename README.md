@@ -21,6 +21,7 @@ Jsdelivr(国内镜像2，有封禁风险):https://cdn.jsdmirror.com/gh/Loukky/gf
 镜像站5:https://raw.kkgithub.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt  
 镜像站6:https://gh-proxy.com/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt  
 镜像站7:https://mirror.ghproxy.com/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt  
+镜像站8(国内镜像1，有封禁风险):https://gh.akass.cn/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt  
 ## 提示
 ### 发现了有以下情况的网站，并且没在此列表的，请开issues  
 1.国内访问出现ERR_CONNECTION_RESET错误的  
