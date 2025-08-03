@@ -18,8 +18,7 @@ use strict;
 use warnings;
 use Digest::MD5 qw(md5_base64);
 use File::stat;
-use POSIX qw(locale_h);
-use POSIX qw(strftime);
+use POSIX qw(locale_h strftime tzset);
 
 die "Usage: $^X $0 subscription.txt\n" unless @ARGV;
 
@@ -30,6 +29,8 @@ my $data = readFile($file);
 $data =~ s/^.*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n//gmi;
 
 # Update timestamp
+$ENV{TZ} = 'Asia/Shanghai';
+tzset();
 setlocale(LC_TIME, "C");
 my $timestamp = strftime("%a, %d %b %Y %H:%M:%S %z", localtime(stat($file)->mtime));
 $data =~ s/^!\s*Last Modified:.*$/! Last Modified: $timestamp/mi;
