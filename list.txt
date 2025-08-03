@@ -2086,7 +2086,6 @@
 
 
 ||flickr.com
-!--PS: staticflickr.com 及其子域可直连
 ||staticflickr.com
 
 ||flickriver.com
