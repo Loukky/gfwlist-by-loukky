@@ -5611,6 +5611,8 @@ ultrasurf
 ||doom9.org
 ||yangzhi.org
 ||appdefensealliance.dev
+||ldplayer.net
+||ldplayer.tw
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--4gq171p.com
