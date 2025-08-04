@@ -5093,7 +5093,6 @@ ultrasurf
 |*app.cloudcone.com
 ||kissjav.com
 ||thumbzilla.com
-!--|http*://apple.com/
 ||v2fly.org
 ||dot.ca.gov
 ||mydati.com
@@ -5119,9 +5118,7 @@ ultrasurf
 ||9to5*.com
 ||rule34.xxx
 ||play-asia.com
-||stats.wp.com
 !--/^https?:\/\/(s[\s\S]|i[\s\S]|c[\s\S]|stats).(wp|wordpress).com
-!--||*.wp.com
 ||tgstat.com
 ||hottg.com
 ||evchk.wikia.org
@@ -5231,7 +5228,6 @@ ultrasurf
 ||disk.yandex.*
 ||cc.com
 ||wealth.com.tw
-!--||rpglogs.com
 ||okx.com
 ||fast.com
 ||cdn.jsdelivr.net
@@ -5258,7 +5254,6 @@ ultrasurf
 ||mastodon.online
 ||business.page
 ||sensortower.com
-!!-||nyti.ms
 ||about.me
 ||relay.firefox.com
 ||send.firefox.com
@@ -5289,12 +5284,9 @@ ultrasurf
 ||podcast.app
 ||openstreetmap.org
 ||osm.tw
-!--||oraclecloud.com
 !--/^https?:\/\/(platform|api|chat).openai.com/
 ||openai.com
 ||vercel.app
-!--||battle.net
-!--@@||nydus.battle.net
 ||theb.ai
 ||bitchute.com
 ||kemono.party
@@ -5620,6 +5612,7 @@ ultrasurf
 ||wxw.moe
 ||wxw.cat
 ||opendesktop.org
+||imageglass.org
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--4gq171p.com
