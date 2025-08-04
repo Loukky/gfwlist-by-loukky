@@ -1,4 +1,8 @@
 [AutoProxy 0.2.9]
+! Expires: 6h
+! Title: GFWList4LL
+! GFWList with EVERYTHING included
+! Last Modified: 2025-08-04 14:36:05 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5000,6 +5004,12 @@ ultrasurf
 @@||storage.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
+@@||crashlyticsreports-pa.googleapis.com
+@@||emmapplecodevice.googleapis.com
+@@||fontfiles.googleapis.com
+@@||performanceparameters.googleapis.com
+@@||tac.googleapis.com
+@@||wear.googleapis.com
 @@||connectivitycheck.gstatic.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
