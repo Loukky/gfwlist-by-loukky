@@ -5613,6 +5613,7 @@ ultrasurf
 ||wxw.cat
 ||opendesktop.org
 ||imageglass.org
+||mainichi.jp
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--4gq171p.com
