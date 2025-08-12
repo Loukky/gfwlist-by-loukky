@@ -25,11 +25,6 @@
 ||d2pass.com
 ||deezer.com
 ||desipro.de
-||discord.com
-||discord.gg
-||discord.media
-||discordapp.com
-||discordapp.net
 ||dish.com
 ||dmhy.org
 ||dvdpac.com
@@ -1452,8 +1447,6 @@
 ||bwh1.net
 ||bwsj.hk
 ||bx.tl
-||blog.kangye.org
-
 !--------------------CC-------------------------
 ||c-est-simple.com
 ||c-span.org
@@ -1826,6 +1819,7 @@
 ||dcmilitary.com
 ||ddc.com.tw
 ||ddhw.info
+||ddns.net
 ||de-sci.org
 ||decodet.co
 ||deepdiscount.com
@@ -1852,6 +1846,11 @@
 ||dilber.se
 ||dipity.com
 ||directcreative.com
+||discord.com
+||discord.gg
+||discord.media
+||discordapp.com
+||discordapp.net
 ||discuss.com.hk
 ||discuss4u.com
 ||disp.cc
@@ -1862,6 +1861,7 @@
 ||djorz.com
 ||dlsite.com
 ||dlyoutube.com
+||dmc.nico
 ||dmcdn.net
 ||dmm.co.jp
 ||dmm.com
@@ -1934,7 +1934,6 @@
 ||dysfz.cc
 ||dzze.com
 ||gloryhole.com
-
 !--------------------EE-------------------------
 /twimg\.edgesuite\.net\/\/?appledaily/
 ||e-hentai.org
@@ -2287,9 +2286,6 @@
 ||fzh999.com
 ||fzh999.net
 ||fzlm.com
-||fourface.nodesnoop.com
-||saveliuxiaobo.com
-||staticflickr.com
 
 !--------------------GG-------------------------
 
@@ -2422,6 +2418,7 @@
 ||goo.gle
 ||goo.ne.jp
 ||gooday.xyz
+||gooddns.info
 ||goodreaders.com
 ||goodreads.com
 ||goodtv.com.tw
@@ -2432,6 +2429,7 @@
 ||gopetition.com
 ||goproxing.net
 ||gospelherald.com
+||gotdns.ch
 ||gotrusted.com
 ||grandtrial.org
 ||grangorz.org
@@ -2760,7 +2758,7 @@
 ||imageflea.com
 ||imagevenue.com
 ||imagezilla.net
-|imb.org
+||imb.org
 ||imgchili.net
 
 !--IMDB
@@ -2929,9 +2927,7 @@
 ||justpaste.it
 ||juyuange.org
 ||jyxf.net
-
 !--------------------KK-------------------------
-
 ||kadokawa.co.jp
 ||kagyu.org
 ||kagyu.org.za
@@ -2941,6 +2937,7 @@
 ||kagyuoffice.org.tw
 ||kakao.com
 ||kalachakralugano.org
+||blog.kangye.org
 ||kankan.today
 ||kannewyork.com
 ||kanshifang.com
@@ -3151,6 +3148,7 @@
 ||maiio.net
 ||mail-archive.com
 ||my.mail.ru
+||maildns.xyz
 ||mainichi.jp
 ||maiplus.com
 ||maizhong.org
@@ -3336,6 +3334,7 @@
 ||news.hk.msn.com
 ||mstdn.social
 ||mswe1.org
+||mtw.tl
 ||mtzfile.pw
 ||mubi.com
 ||muchosucko.com
@@ -3386,7 +3385,7 @@
 ||mytizi.com
 ||mywife.cc
 !--------------------NN-------------------------
-||dmc.nico
+
 ||nakido.com
 ||nakuz.com
 ||namgyal.org
@@ -3470,25 +3469,17 @@
 ||njuice.com
 ||nlfreevpn.com
 ||nnews.eu
-||nodeseek.com
-||notepad-plus-plus.org
-||notion.site
-||me.ns.ci
-||ntdsf.tv
-||nydailynews.com
-||nypost.com
-!--no-ip.com#NOIP
-||ddns.net/
-||gooddns.info
-||gotdns.ch
-||maildns.xyz
 ||no-ip.org
 ||nobel.se
 ||nobodycanstop.us
+||nodeseek.com
+||fourface.nodesnoop.com
 ||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
 ||nordvpn.com
+||notepad-plus-plus.org
+||notion.site
 ||novelasia.com
 ||news.now.com
 ||nownews.com
@@ -3497,14 +3488,9 @@
 ||npnt.me
 ||nradio.me
 ||nrk.no
+||me.ns.ci
 ||ntd.tv
-||opendn.xyz
-||servehttp.com
-||sytes.net
-||whodns.xyz
-||zapto.org
-
-!!--Orig:ntdtv.com
+||ntdsf.tv
 ||ntdtv.ca
 ||ntdtv.co.kr
 ||ntdtv.com
@@ -3524,12 +3510,13 @@
 ||nwtca.org
 ||nyaa.eu
 ||nyaa.si
+||nydailynews.com
 ||nydus.ca
 ||nylon-angel.com
 ||nylonstockingsonline.com
+||nypost.com
 ||nzchinese.com
 ||nzchinese.net.nz
-
 !--------------------OO-------------------------
 ||o3o.ca
 ||oaistatic.com
@@ -3578,13 +3565,13 @@
 ||openallweb.com
 ||opendemocracy.net
 ||opendesktop.org
+||opendn.xyz
 ||openervpn.in
 ||openleaks.org
 ||openstreetmap.org
 ||openvpn.net
 ||openwebster.com
 ||demo.opera-mini.net
-||my.opera.com
 ||organcare.org.tw
 ||organharvestinvestigation.net
 ||orgasm.com
@@ -3733,7 +3720,6 @@
 ||puffin.com
 ||punjab.gov.in
 ||punjab.gov.pk
-!--.planetsuzy.org
 ||playboyplus.com
 ||player.fm
 ||playno1.com
@@ -3796,7 +3782,6 @@
 ||puffinbrowser.com
 ||pureinsight.org
 ||pushchinawall.com
-||putty.org
 
 !-------------Posterous-----
 ||powerapple.com
@@ -3975,7 +3960,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||s-nbcnews.com
 ||s1heng.com
 ||s1s1s1.com
-|http://www.s4miniarchive.com
 ||s8forum.com
 ||cdn1.lp.saboom.com
 ||sacks.com
@@ -3995,6 +3979,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cn.sandscotaicentral.com
 ||sanmin.com.tw
 ||sapikachu.net
+||saveliuxiaobo.com
 ||savemedia.com
 ||savetibet.de
 ||savetibet.nl
@@ -4027,6 +4012,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||seju.life
 ||sendspace.com
 ||sensortower.com
+||servehttp.com
 ||sesawe.net
 ||sesawe.org
 ||setn.com
@@ -4068,6 +4054,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sspanel.org
 ||sstm.moe
 ||statearmor.org
+||staticflickr.com
 ||statsig.com
 ||stephaniered.com
 ||stheadline.com
@@ -4078,6 +4065,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||supjav.com
 ||surfshark.com
 ||swapspace.co
+||sytes.net
 !--IP of SexInSex
 67.220.91.15
 67.220.91.18
@@ -4132,7 +4120,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sijihuisuo.club
 ||sijihuisuo.com
 ||silkbook.com
-@@||simplecd.me
 ||simplecd.org
 ||sinchew.com.my
 ||singaporepools.com.sg
@@ -4219,7 +4206,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||soundofhope.org
 ||soupofmedia.com
 ||stboy.net
-!--.sourceforge.net
 ||sourcewadio.com
 ||southnews.com.tw
 ||sowers.org.hk
@@ -4357,7 +4343,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||twcomix.com
 ||twitch.tv
 ||typekit.net
-!--||taiwanembassy.org
 ||tbskkinabalu.page.tl
 ||taiwan-sex.com
 ||taiwanjustice.com
@@ -4407,7 +4392,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tcsovi.org
 ||tdm.com.mo
 ||teamamericany.com
-!--OVH
 ||teeniefuck.net
 ||teensinasia.com
 ||tenzinpalmo.com
@@ -4423,7 +4407,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||theinitium.com
 ||thenewslens.com
 ||thepiratebay.org
-!--||thepiratebay.se
 ||theporndude.com
 ||thespeeder.com
 ||thestandnews.com
@@ -4643,13 +4626,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tweetboard.com
 ||tweetboner.biz
 ||tweetcs.com
-
-!-- Operation discontinued
-!--||tweete.net
-||mtw.tl
 ||tweetedtimes.com
-!-- Operation discontinued
-!--tweetmeme.com
 ||tweetmylast.fm
 ||tweetphoto.com
 ||tweetrans.com
@@ -4712,8 +4689,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||txxx.com
 ||tycool.com
 ||typepad.com
-
-
 !--------------------UU-------------------------
 ||u9un.com
 ||ub0.cc
@@ -4781,7 +4756,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||usmc.mil
 ||usocctn.com
 ||ustream.tv
-!--||ustwrap.info
 ||uptodown.com
 ||usunitednews.com
 ||usus.cc
@@ -4911,6 +4885,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||vtunnel.com
 ||vyprvpn.com
 !--------------------WW-------------------------
+
 ||collateralmurder.com
 ||collateralmurder.org
 ||videopress.com
@@ -4985,6 +4960,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||whichav.video
 ||whippedass.com
 ||who.is
+||whodns.xyz
 ||whoer.net
 ||whotalking.com
 ||whylover.com
@@ -5086,7 +5062,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wwitv.com
 ||wxw.cat
 ||wxw.moe
-
 !--------------------XX-------------------------
 
 ||xfm.pp.ru
@@ -5240,6 +5215,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||zalmos.com
 ||zannel.com
 ||zaozon.com
+||zapto.org
 ||zdnet.com.tw
 ||zello.com
 ||zengjinyan.org
