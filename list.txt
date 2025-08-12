@@ -629,7 +629,6 @@
 ||google.tt
 ||google.vu
 ||google.ws
-@@||googleapis.cn
 ||googleapis.com
 ||googleapps.com
 ||googlearth.com
@@ -814,15 +813,6 @@
 ||telegram.org
 ||telegramdownload.com
 ||telesco.pe
-!!||fragment.com
-!!!---IP---
-
-!!---Twitch---
-!!||jtvnw.net
-||ttvnw.net
-||twitch.tv
-!--||twitchcdn.net
-!!||hls.live-video.net
 
 !!---Twitter---
 ||periscope.tv
@@ -953,6 +943,7 @@
 ||yimg.com
 ||ylive.jp
 !------------------Numerics---------------------
+||9to5*.com
 ||0rz.tw
 ||1-apple.com.tw
 ||1000giri.net
@@ -1023,7 +1014,6 @@
 ||8world.com
 ||91jinman.com
 ||9news.com.au
-||9to5*.com
 !--||4chan.org
 ||4everproxy.com
 ||4shared.com
@@ -1064,10 +1054,39 @@
 !--------------------AA-------------------------
 ||a5vpn.com
 ||aamacau.com
+||abc.com
+||abc.net.au
+||abchinese.com
+||ablwang.com
+||aboluowang.com
 ||about.me
+||aceros-de-hispania.com
+||acevpn.com
 ||acgbox.link
+||acgkj.com
+||acmedia365.com
+||acnw.com.au
+||actfortibet.org
+||actimes.com.au
+||activpn.com
+||adelaidebbs.com
 ||adguard-vpn.com
+||adpl.org.hk
+||adult-sex-games.com
+||adultfriendfinder.com
+||adultkeep.net
+||ae.org
+||af.mil
 ||agemys.net
+||ai-kan.net
+||ai-wen.net
+||aiph.net
+||airasia.com
+||airvpn.org
+||aisex.com
+@@||ait.org.tw
+||aiweiwei.com
+||aiweiweiblog.com
 ||foxnewsplayer-a.akamaihd.net
 ||akinator.com
 ||aljazeera.com
@@ -1082,7 +1101,9 @@
 ||appdefensealliance.dev
 ||appspot-preview.com
 ||archive.md
+||archive.ph
 ||archive.today
+||archiveofourown.org
 ||arunachalforests.gov.in
 ||asiatimes.com
 ||ask.com
@@ -1090,38 +1111,6 @@
 ||av01.tv
 ||a5.com.ru
 ||tibet.a.se
-!--|http://cdn*.abc.com/
-||abc.com
-||abc.net.au
-||abchinese.com
-||ablwang.com
-||aboluowang.com
-||aceros-de-hispania.com
-||acevpn.com
-||acgkj.com
-||acmedia365.com
-||acnw.com.au
-||actfortibet.org
-||actimes.com.au
-||activpn.com
-||adelaidebbs.com
-||adpl.org.hk
-||adult-sex-games.com
-||adultfriendfinder.com
-||adultkeep.net
-||ae.org
-||af.mil
-||ai-kan.net
-||ai-wen.net
-||aiph.net
-||airasia.com
-||airvpn.org
-||aisex.com
-@@||ait.org.tw
-||aiweiwei.com
-||aiweiweiblog.com
-||archive.ph
-||archiveofourown.org
 !!---Akamai---
 ||a248.e.akamai.net
 ||a771.dscq.akamai.net
@@ -1261,7 +1250,6 @@
 ||avyahoo.com
 ||azerbaycan.tv
 ||azerimix.com
-!--boxun.azurewebsites.net doesn't exist.
 ||azurewebsites.net
 
 !--------------------BB-------------------------
@@ -1392,20 +1380,10 @@
 ||bloomberg.cn
 ||bloomberg.com
 ||bloomberg.de
-||bnext.com.tw
-||bootstrapcdn.com
-||breached.to
-||bsky.app
-||bsky.social
-||btdig.com
-||business.page
-||businessweekly.com.tw
-||buzzsprout.com
-||blog.kangye.org
-!--403
 ||blueangellive.com
 ||bmfinn.com
 ||bnews.co
+||bnext.com.tw
 ||bod.asia
 ||bodog88.com
 ||bolehvpn.net
@@ -1416,6 +1394,7 @@
 ||book.com.tw
 ||bookepub.com
 ||books.com.tw
+||bootstrapcdn.com
 ||bot.nu
 ||botanwang.com
 ||bowenpress.com
@@ -1430,6 +1409,7 @@
 ||brandonhutchinson.com
 ||bravotube.net
 ||brazzers.com
+||breached.to
 ||break.com
 ||breakgfw.com
 ||breaking911.com
@@ -1442,8 +1422,11 @@
 ||brockbbs.com
 ||brucewang.net
 ||brutaltgp.com
+||bsky.app
+||bsky.social
 ||bt2mag.com
 ||btaia.com
+||btdig.com
 ||btdigg.org
 ||btku.me
 ||btku.org
@@ -1456,16 +1439,20 @@
 ||bullogger.com
 ||bunbunhk.com
 ||busayari.com
+||business.page
 ||businesstoday.com.tw
 ||businessweek.com
+||businessweekly.com.tw
 ||busytrade.com
 ||buugaa.com
 ||buzzhand.com
 ||buzzorange.com
+||buzzsprout.com
 ||bvpn.com
 ||bwh1.net
 ||bwsj.hk
 ||bx.tl
+||blog.kangye.org
 
 !--------------------CC-------------------------
 ||c-est-simple.com
@@ -1725,7 +1712,6 @@
 ||cochina.co
 ||cochina.org
 ||code1984.com
-|http://tosh.comedycentral.com
 ||comefromchina.com
 ||comic-mega.me
 ||commandarms.com
@@ -1765,8 +1751,7 @@
 ||ctfriend.net
 ||ctitv.com.tw
 ||cts.com.tw
-|http://library.usc.cuhk.edu.hk/
-|http://mjlsh.usc.cuhk.edu.hk/
+||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
 ||culture.tw
 ||cumlouder.com
@@ -1774,7 +1759,7 @@
 ||cusu.hk
 ||cutscenes.net
 ||cw.com.tw
-|http://forum.cyberctm.com
+||cyberctm.com
 ||cyberghostvpn.com
 ||cynscribe.com
 ||cytode.us
@@ -1844,38 +1829,24 @@
 ||de-sci.org
 ||decodet.co
 ||deepdiscount.com
-||detroitnews.com
-||devv.ai
-||digg.com
-||dmm.co.jp
-||dmm.com
-||docker.com
-||docker.io
-||domain.glass
-||doom9.org
-||douchi.space
-||duyaoss.com
-||dweb.link
-!--Origin:cdn-i30$_
-!--Exception: Homepage access without rst
-!--Keyword is $_
-.definebabe.com
+||definebabe.com
 ||democrats.org
 ||demosisto.hk
 ||destroy-china.jp
+||detroitnews.com
 ||deutsche-welle.de
 ||deviantart.com
 ||deviantart.net
 ||devio.us
 ||devpn.com
+||devv.ai
 ||dfas.mil
 ||dfn.org
 ||dharamsalanet.com
 ||dharmakara.net
 ||diaoyuislands.org
 ||difangwenge.org
-
-!--|http://digiland.tw/
+||digg.com
 ||digitalnomadsproject.org
 ||diigo.com
 ||dilber.se
@@ -1892,17 +1863,20 @@
 ||dlsite.com
 ||dlyoutube.com
 ||dmcdn.net
+||dmm.co.jp
+||dmm.com
 ||dns2go.com
 ||dnscrypt.org
 ||dnssec.net
+||docker.com
+||docker.io
 ||doctorvoice.org
-
-!--DogFartNetwork
 ||dogfartnetwork.com
 ||dojin.com
 ||dok-forum.net
 ||dolc.de
 ||dolf.org.hk
+||domain.glass
 ||domaintoday.com.au
 ||chinese.donga.com
 ||dongtaiwang.com
@@ -1911,10 +1885,12 @@
 ||donmai.us
 ||dontfilter.us
 ||dontmovetochina.com
+||doom9.org
 ||dorjeshugden.com
 ||dotplane.com
 ||dotsub.com
 ||dotvpn.com
+||douchi.space
 ||doujincafe.com
 ||dowei.org
 ||dphk.org
@@ -1946,10 +1922,12 @@
 ||duping.net
 ||dupola.net
 ||dushi.ca
+||duyaoss.com
 ||dw-world.com
 ||dw-world.de
 ||dw.com
 ||dw.de
+||dweb.link
 ||dwnews.com
 ||dwnews.net
 ||dynawebinc.com
@@ -2007,6 +1985,7 @@
 ||ellawine.org
 ||elpais.com
 ||eltondisney.com
+||embr.in
 ||emilylau.org.hk
 ||bitc.bme.emory.edu
 ||empfil.com
@@ -2015,15 +1994,6 @@
 ||emuparadise.me
 ||enanyang.my
 ||enca.com
-||eprice.com.hk
-||ethermine.org
-||etherscan.io
-||everipedia.org
-|*apps.evozi.com
-||exhentai.org
-||extrabux.com
-!--.enanyang.my/news/20170502/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E3%80%8A%E8%8B%B9%E6%9E%9C%E3%80%8B%E7%8B%AC%E5%AE%B6
-||embr.in
 ||enewstree.com
 ||enfal.de
 ||engadget.com
@@ -2051,6 +2021,7 @@
 ||epochweek.com
 ||epochweekly.com
 ||eporner.com
+||eprice.com.hk
 ||equinenow.com
 ||erabaru.net
 ||eracom.com.tw
@@ -2067,21 +2038,27 @@
 ||etaa.org.au
 ||etadult.com
 ||etaiwannews.com
+||ethermine.org
+||etherscan.io
 ||ettoday.net
 ||eu.org
 ||eucasino.com
 ||eulam.com
 ||eurekavpt.com
 ||euronews.com
+||everipedia.org
+|*apps.evozi.com
 ||evschool.net
 ||exchristian.hk
 ||excite.co.jp
+||exhentai.org
 ||exmormon.org
 ||expatshield.com
 ||expecthim.com
 ||experts-univers.com
 ||exploader.net
 ||expressvpn.com
+||extrabux.com
 ||extremetube.com
 ||eyevio.jp
 ||eyny.com
@@ -2154,6 +2131,7 @@
 ||freeproxylists.net
 ||friday.tw
 !--Fastly
+||ss*.4sqi.net
 ||fastly.net
 ||fastssh.com
 ||faststone.org
@@ -2202,9 +2180,6 @@
 ||firearmsworld.net
 ||fireofliberty.org
 ||firetweet.io
-||fourface.nodesnoop.com
-!--||flagfox.net
-||ss*.4sqi.net
 ||flagsonline.it
 ||fleshbot.com
 ||fleursdeslettres.com
@@ -2224,7 +2199,6 @@
 ||fooooo.com
 ||footwiball.com
 ||forum4hk.com
-pioneer-worker.forums-free.com
 ||fotile.me
 ||fourthinternational.org
 ||video.foxbusiness.com
@@ -2313,6 +2287,7 @@ pioneer-worker.forums-free.com
 ||fzh999.com
 ||fzh999.net
 ||fzlm.com
+||fourface.nodesnoop.com
 ||saveliuxiaobo.com
 ||staticflickr.com
 
@@ -2570,6 +2545,8 @@ pioneer-worker.forums-free.com
 ||house.gov
 ||hoyolab.com
 ||hrntt.org
+||ht.ly
+||htl.li
 ||huffpost.com
 ||huggingface.co
 ||huigui.tw
@@ -2871,6 +2848,7 @@ pioneer-worker.forums-free.com
 
 !--------------------JJ-------------------------
 *.javbus.*
+||jav*.com
 ||j.mp
 ||jable.tv
 ||jackjia.com
@@ -2880,7 +2858,6 @@ pioneer-worker.forums-free.com
 ||jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
-||jav*.com
 ||jav.com
 ||jav68.tv
 ||jav777.cc
@@ -2978,14 +2955,12 @@ pioneer-worker.forums-free.com
 ||kba-tx.org
 ||kebrum.com
 ||kechara.com
-.keepandshare.com/visit/visit_page.php?i=688154
 ||keezmovies.com
 ||kemono.party
 ||kendincos.net
 ||kenengba.com
 ||keontech.net
 ||kepard.com
-wiki.keso.cn/Home
 ||g.kfd.me
 ||wiki.kfd.me
 ||khabdha.org
@@ -3108,6 +3083,7 @@ wiki.keso.cn/Home
 ||liujianshu.com
 ||liuxiaobo.net
 ||liuxiaotong.com
+||onedrive.live.com
 |*parts.blog.livedoor.jp
 ||livedoor.jp
 ||liveleak.com
@@ -3197,6 +3173,7 @@ wiki.keso.cn/Home
 ||martinoei.com
 ||martsangkagyuofficial.org
 ||marxist.com
+||mash.to
 ||mashash.com
 ||maskedip.com
 ||mastodon.online
@@ -3215,6 +3192,7 @@ wiki.keso.cn/Home
 ||media.org.hk
 ||mediachinese.com
 ||mediafreakcity.com
+||mediawiki.org
 ||medicalnewstoday.com
 ||medium.com
 ||mee6.xyz
@@ -3408,7 +3386,6 @@ wiki.keso.cn/Home
 ||mytizi.com
 ||mywife.cc
 !--------------------NN-------------------------
-
 ||dmc.nico
 ||nakido.com
 ||nakuz.com
@@ -3554,11 +3531,6 @@ wiki.keso.cn/Home
 ||nzchinese.net.nz
 
 !--------------------OO-------------------------
-
-||ht.ly
-||htl.li
-||onedrive.live.com
-||mash.to
 ||o3o.ca
 ||oaistatic.com
 ||oaiusercontent.com
@@ -3968,7 +3940,6 @@ wiki.keso.cn/Home
 ||rlwlw.com
 ||rmjdw.com
 ||rmjdw132.info
-||v.rn*.xyz
 ||roadshow.hk
 ||roboforex.com
 ||rocket-inc.net
@@ -3977,7 +3948,6 @@ wiki.keso.cn/Home
 ||rosechina.net
 ||rotten.com
 ||rou.video
-||v.roucdn*.xyz
 ||roucdn.link
 ||rsf-chinese.org
 ||rsf.org
@@ -3996,6 +3966,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rutube.ru
 ||ruyiseek.com
 ||rxhj.net
+||v.rn*.xyz
+||v.roucdn*.xyz
 !--------------------SS-------------------------
 
 ||s-cute.com
@@ -4378,10 +4350,12 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||travelinkcard.com
 ||tron.network
 ||truthsocial.com
+||ttvnw.net
 ||tukaani.org
 ||tunsafe.com
 ||tvbs.com.tw
 ||twcomix.com
+||twitch.tv
 ||typekit.net
 !--||taiwanembassy.org
 ||tbskkinabalu.page.tl
@@ -4939,6 +4913,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 !--------------------WW-------------------------
 ||collateralmurder.com
 ||collateralmurder.org
+||videopress.com
+||w.wiki
 ||waffle1999.com
 ||wahas.com
 ||waigaobu.com
@@ -5014,53 +4990,39 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||whylover.com
 ||whyx.org
 ||evchk.wikia.org
+||wikibooks.org
+||wikidata.org
 ||wikileaks-forum.com
 ||wikileaks.ch
 ||wikileaks.com
 ||wikileaks.de
 ||wikileaks.org
 ||wikimapia.org
-||wikipedia-on-ipfs.org
-||wikiwand.com
-||wildammo.com
-||williamhill.com
-||wireguard.com
-||wixsite.com
-||wo3t.wordpress.com
-||work2icu.org
-||workers.dev
-||worldpopulationreview.com
-||wozy.in
-||wsimg.com
-||wxw.cat
-||wxw.moe
-!-------------Wikipedia Related-------------
-!!Emergency need only(IP/Port block usage)!!
-||mediawiki.org
-||w.wiki
-||wikibooks.org
-||wikidata.org
 ||wikimedia.org
 ||wikinews.org
+||wikipedia-on-ipfs.org
 ||wikipedia.org
 ||wikiquote.org
 ||wikisource.org
 ||wikiversity.org
 ||wikivoyage.org
+||wikiwand.com
 ||wiktionary.org
-!!! Starting with !! are previous rules replaced by:
-||videopress.com
+||wildammo.com
 ||casino.williamhill.com
 ||sports.williamhill.com
 ||vegas.williamhill.com
+||williamhill.com
 ||windscribe.com
 ||wingy.site
 ||winning11.com
 ||winwhispers.info
 ||wiredbytes.com
+||wireguard.com
 ||wisdompubs.org
 ||witnessleeteaching.com
 ||witopia.net
+||wixsite.com
 ||wjbk.org
 ||wn.com
 ||wnacg.com
@@ -5082,13 +5044,17 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||jobnewera.wordpress.com
 ||minghuiyw.wordpress.com
 ||sujiatun.wordpress.com
+||wo3t.wordpress.com
 ||wo3ttt.wordpress.com
 ||xijie.wordpress.com
+||work2icu.org
 ||workerdemo.org.hk
 ||workerempowerment.org
+||workers.dev
 ||workersthebig.net
 ||worldcat.org
 ||worldjournal.com
+||worldpopulationreview.com
 ||worldvpn.net
 ||wow-life.net
 ||wow.com
@@ -5098,11 +5064,12 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wowrk.com
 ||woxinghuiguo.com
 ||woyaolian.org
+||wozy.in
 ||wpoforum.com
 ||wqyd.org
 ||wrchina.org
 ||wretch.cc
-
+||wsimg.com
 ||wsj.com
 ||wsj.net
 ||wsjhk.com
@@ -5117,6 +5084,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wuw.red
 ||wuyanblog.com
 ||wwitv.com
+||wxw.cat
+||wxw.moe
 
 !--------------------XX-------------------------
 
@@ -5341,14 +5310,11 @@ phobos.apple.com*/video
 !#############Supplemental List End#############
 
 !################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-@@||chinaso.com
-@@||chinaz.com
 
 !---Some are powered by GuXiang (BGP), please comment off if
 !---you encounter connectivity issues.
 @@||adservice.google.com
+@@||googleapis.cn
 @@||imasdk.googleapis.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||c.admob.com
@@ -5403,7 +5369,6 @@ phobos.apple.com*/video
 @@||zhongsou.com
 !################Whitelist End##################
 !--------------------tiktok---------------------
-||p16-tiktokcdn-com.akamaized.net
 ||byteoversea.com
 ||ibytedtos.com
 ||muscdn.com
@@ -5426,6 +5391,6 @@ phobos.apple.com*/video
 ||xn--i2ru8q2qg.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 !--------------------Uncategorized---------------
-||disk.yandex.*
 ||z-lib.*
 ||z-library.*
+||disk.yandex.*
