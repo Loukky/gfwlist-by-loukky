@@ -43,10 +43,8 @@
 ||huluim.com
 ||hybrid-analysis.com
 ||cdn*.i-scmp.com
-||tw.iqiyi.com
 ||javlibrary.com
 ||tenor.com
-!||jcpenney.com
 ||jukujo-club.com
 ||juliepost.com
 ||kendatire.com
@@ -93,7 +91,6 @@
 ||dssott.com
 ||cdn.registerdisney.go.com
 ||disneyplus.com.ssl.sc.omtrdc.net
-!--||nr-data.net
 ||stackcommerce.net
 ||stacksocial.com
 !--We are confused as well
