@@ -904,6 +904,7 @@
 ||ablwang.com
 ||aboluowang.com
 ||about.me
+||abplive.com
 ||aceros-de-hispania.com
 ||acevpn.com
 ||acgbox.link
@@ -1840,6 +1841,7 @@
 ||edicypages.com
 ||edmontonchina.cn
 ||edoors.com
+||edrdg.org
 ||edubridge.com
 ||edupro.org
 ||eevpn.com
@@ -1995,6 +1997,7 @@
 ||fawanghuihui.org
 ||feedly.com
 ||feedx.net
+||financialexpress.com
 ||relay.firefox.com
 ||send.firefox.com
 ||firstpost.com
@@ -3336,6 +3339,7 @@
 ||newcenturynews.com
 ||newchen.com
 ||newgrounds.com
+||newindianexpress.com
 ||newipnow.com
 ||newlandmagazine.com.au
 ||newmitbbs.com
@@ -3362,6 +3366,7 @@
 ||nextmedia.com
 ||nexttv.com.tw
 ||nfjtyd.com
+||nftstorage.link
 ||co.ng.mil
 ||nga.mil
 ||ngensis.com
@@ -4000,12 +4005,14 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sspanel.org
 ||ssr.tools
 ||sstm.moe
+||standard.co.uk
 ||statearmor.org
 ||staticflickr.com
 ||statsig.com
 ||steemit.com
 ||stephaniered.com
 ||stheadline.com
+||storry.tv
 ||straitstimes.com
 ||stweetly.com
 ||substack.com
@@ -4334,6 +4341,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||thedalailamamovie.com
 ||theepochtimes.com
 ||thegly.com
+||thehansindia.com
 ||thehindu.com
 ||thehots.info
 ||thehousenews.com
