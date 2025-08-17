@@ -544,7 +544,6 @@
 ||igoogle.co.ma
 ||igoogle.co.uk
 ||igoogle.com
-||igoogle.com
 ||igoogle.de
 ||igoogle.dj
 ||igoogle.dk
