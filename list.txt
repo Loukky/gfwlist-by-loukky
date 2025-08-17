@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-08-17 23:26:57 GMT+8
+! Last Modified: 2025-08-17 23:30:01 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2999,6 +2999,7 @@
 ||lsmwebcast.com
 ||ltn.com.tw
 ||luckydesigner.space
+||ludepress.com
 ||luke54.com
 ||luke54.org
 ||lupm.org
