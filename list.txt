@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-08-04 14:36:05 GMT+8
+! Last Modified: 2025-08-17 23:26:57 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5028,6 +5028,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||xiaohexie.com
 ||xiaolan.me
 ||xiaoma.org
+||xicons.org
 ||xiezhua.com
 ||xihua.es
 ||xinbao.de
