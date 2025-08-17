@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-08-17 23:55:04 GMT+8
+! Last Modified: 2025-08-18 01:34:17 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -15,10 +15,35 @@
 ! https://github.com/Loukky/gfwlist-by-loukky/issues
 
 !---------403/451/520 & URL Redirects---------
-||cdn*.i-scmp.com
+||500px.com
+||500px.org
+||afreecatv.com
+||agnesb.fr
+||airitilibrary.com
+||abematv.akamaized.net
+||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
+||akiba-web.com
+||altrec.com
+||amazonvideo.com
 ||angela-merkel.de
+||angola.org
+||anthropic.com
+||apartmentratings.com
+||apartments.com
+||arena.taipei
+||assimp.org
+||athenaeizou.com
+||bankmobilevibe.com
+||banorte.com
+||beeg.com
+||blogjav.net
 ||booktopia.com.au
 ||boysmaster.com
+||assets.bwbx.io
+||bynet.co.il
+||byrut.org
+||carfax.com
 ||carfax.com
 ||centauro.com.br
 ||costco.com
@@ -44,6 +69,7 @@
 ||hulu.com
 ||huluim.com
 ||hybrid-analysis.com
+||cdn*.i-scmp.com
 ||javlibrary.com
 ||jukujo-club.com
 ||juliepost.com
@@ -55,6 +81,7 @@
 ||matome-plus.net
 ||metarthunter.com
 ||c.mi.com
+||miuipolska.pl
 ||mojim.com
 ||moodyz.com
 ||mos.ru
@@ -76,6 +103,8 @@
 ||omni7.jp
 ||pandora.com
 ||pandora.tv
+||piaotia.com
+||ptwxz.com
 ||riseup.net
 ||sadistic-v.com
 ||search.xxx
@@ -99,8 +128,10 @@
 ||vip-enterprise.com
 ||wanz-factory.com
 ||wowhead.com
+||wunderground.com
 ||zamimg.com
 ||zim.vn
+||zoominfo.com
 !--prime video
 ||aiv-cdn.net
 ||aiv-delivery.net
@@ -121,8 +152,6 @@
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-
-
 !##############General List Start###############
 !-------------------Pure IP---------------------
 14.102.250.18
@@ -133,7 +162,6 @@
 213.186.33.87
 50.7.31.230:8898
 69.65.19.160
-
 !---Digital Currency Exchange(CRYPTO)---
 ||aex.com
 ||allcoin.com
@@ -371,7 +399,6 @@
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
-@@|*.google-analytics.com
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -379,24 +406,19 @@
 ||adsense.com
 ||agoogleaday.com
 ||gogole.com
+@@|*.google-analytics.com
 ||google-analytics.com
 !||ampproject.org
 /^https?:\/\/[^\/]+blogspot\.(.*)/
-||http://ampproject.org
-||https://ampproject.org
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
-@@|https://cdn.ampproject.org/
-/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
-/^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 ||*.goog
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||*.google
 ||*.youtube
-@@||*.googleanalytics.com
-@@||*.googlesyndication.com
-||livemap*.waze.com
-||worldtiles*.waze.com
+||http://ampproject.org
+||https://ampproject.org
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
+@@|https://cdn.ampproject.org/
 @@||www.ampproject.org
 ||android.com
 ||androidify.com
@@ -411,6 +433,8 @@
 ||chrome.com
 ||chromecast.com
 ||chromercise.com
+/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+/^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 ||crbug.com
 ||crrev.com
 ||data-vocabulary.org
@@ -492,6 +516,7 @@
 ||google.tt
 ||google.vu
 ||google.ws
+@@||*.googleanalytics.com
 ||googleanalytics.com
 ||googleapis.com
 ||googleapps.com
@@ -516,6 +541,7 @@
 ||googleplus.com
 ||googlescholar.com
 ||googlesource.com
+@@||*.googlesyndication.com
 ||googlesyndication.com
 ||googleusercontent.com
 ||googlevideo.com
@@ -600,6 +626,8 @@
 ||tiltbrush.com
 ||urchin.com
 ||waymo.com
+||livemap*.waze.com
+||worldtiles*.waze.com
 ||web.dev
 ||webmproject.org
 ||webpkgcache.com
@@ -633,10 +661,10 @@
 !!---Steam---
 ||steamcommunity.com
 !!||steampowered.com
-|http://store.steampowered.com
 ||steambroadcast.akamaized.net
 ||api.steampowered.com
 ||login.steampowered.com
+|http://store.steampowered.com
 ||steamstatic.com
 !!---Telegram---
 !!!---Domain---
@@ -886,8 +914,6 @@
 ||9news.com.au
 
 !--------------------AA-------------------------
-||s3*.amazonaws.com
-||fbcdn*.akamaihd.net
 ||a5vpn.com
 ||aamacau.com
 ||abc.com
@@ -928,13 +954,11 @@
 ||akademiye.org
 ||a248.e.akamai.net
 ||a771.dscq.akamai.net
+||fbcdn*.akamaihd.net
 ||foxnewsplayer-a.akamaihd.net
 ||rthklive2-lh.akamaihd.net
 ||rfalive1.akacast.akamaistream.net
 ||voa-11.akacast.akamaistream.net
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
 ||akiba-online.com
 ||akinator.com
 ||akow.org
@@ -967,6 +991,7 @@
 ||alwaysdata.com
 ||alwaysvpn.com
 ||am730.com.hk
+||s3*.amazonaws.com
 ||ameba.jp
 ||share.america.gov
 ||americangreencard.com
@@ -1298,8 +1323,6 @@
 ||bwsj.hk
 ||bx.tl
 !--------------------CC-------------------------
-||chinesetalks.net/ch
-|*app.cloudcone.com
 ||c-est-simple.com
 ||c-span.org
 ||c-spanvideo.org
@@ -1468,6 +1491,7 @@
 ||chinesen.de
 ||chinesenews.net.au
 ||chinesepen.org
+||chinesetalks.net
 ||chineseupress.com
 ||chingcheong.com
 ||chinman.net
@@ -1522,6 +1546,7 @@
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
+|*app.cloudcone.com
 ||cloudfunctions.net
 ||cloudokyo.cloud
 ||club1069.com
@@ -1797,7 +1822,6 @@
 
 !--------------------EE-------------------------
 /twimg\.edgesuite\.net\/\/?appledaily/
-|*apps.evozi.com
 ||e-hentai.org
 ||e-hentaidb.com
 ||e-info.org.tw
@@ -1910,6 +1934,7 @@
 ||eurekavpt.com
 ||euronews.com
 ||everipedia.org
+|*apps.evozi.com
 ||evschool.net
 ||exchristian.hk
 ||excite.co.jp
@@ -2879,8 +2904,6 @@
 ||kyzyhello.com
 ||kzeng.info
 !--------------------LL-------------------------
-|*ocsp.int-x3.letsencrypt.org
-|*parts.blog.livedoor.jp
 ||la-forum.org
 ||labiennale.org
 ||ladbrokes.com
@@ -2917,6 +2940,7 @@
 ||lerosua.org
 ||lesoir.be
 ||letscorp.net
+|*ocsp.int-x3.letsencrypt.org
 ||ss.levyhsu.com
 ||lhakar.org
 ||lhasocialwork.org
@@ -2961,6 +2985,7 @@
 ||liuxiaotong.com
 ||onedrive.live.com
 ||livedoor.jp
+|*parts.blog.livedoor.jp
 ||liveleak.com
 ||livestation.com
 ||livestream.com
@@ -3765,10 +3790,6 @@
 ||qz.com
 
 !--------------------RR-------------------------
-|http://online.recoveryversion.org
-ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
-||v.rn*.xyz
-||v.roucdn*.xyz
 ||ra.gg
 ||radicalparty.org
 ||radioaustralia.net.au
@@ -3807,6 +3828,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||recordhistory.org
 ||recovery.org.tw
 ||recoveryversion.com.tw
+|http://online.recoveryversion.org
 ||redballoonsolidarity.org
 ||redchinacn.net
 ||redchinacn.org
@@ -3863,6 +3885,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rthk.org.hk
 ||rti.org.tw
 ||rtycminnesota.org
+ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rukor.org
 ||rule34.xxx
 ||runbtx.com
@@ -3871,6 +3894,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rutube.ru
 ||ruyiseek.com
 ||rxhj.net
+||v.rn*.xyz
+||v.roucdn*.xyz
 
 !--------------------SS-------------------------
 ||s-cute.com
@@ -4001,10 +4026,10 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sytes.net
 
 !--IP of SexInSex
-|http://*.sf.net
 67.220.91.15
 67.220.91.18
 67.220.91.23
+|http://*.sf.net
 ||sfileydy.com
 ||sfshibao.com
 ||sftindia.org
@@ -4620,7 +4645,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tycool.com
 ||typepad.com
 !--------------------UU-------------------------
-|http://hum*.uchicago.edu/faculty/ywang/history
 ||unblock.cn.com
 ||u15.info
 ||u9un.com
@@ -4631,6 +4655,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||srcf.ucam.org
 ||ucanews.com
 ||ucdc1998.org
+|http://hum*.uchicago.edu/faculty/ywang/history
 ||udn.com
 ||udn.com.tw
 ||udnbkk.com
@@ -5295,7 +5320,7 @@ phobos.apple.com*/video
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
-!--------------------Misc---------------
+!------------------Misc------------------
 ||z-lib.*
 ||z-library.*
 ||disk.yandex.*
