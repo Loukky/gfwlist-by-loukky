@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-08-18 01:34:17 GMT+8
+! Last Modified: 2025-08-19 15:50:39 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1707,6 +1707,8 @@
 ||definebabe.com
 ||democrats.org
 ||demosisto.hk
+||deno.com
+||deno.dev
 ||depositphotos.com
 ||destroy-china.jp
 ||detroitnews.com
@@ -2172,6 +2174,7 @@
 ||fuq.com
 ||furhhdl.org
 ||furinkan.com
+||furrybar.com
 ||futurechinaforum.org
 ||futuremessage.org
 ||fux.com
@@ -3703,6 +3706,7 @@
 ||prism-break.org
 ||prisoneralert.com
 ||privacybox.de
+||privacyguides.org
 ||private.com
 ||privateinternetaccess.com
 ||privatepaste.com
