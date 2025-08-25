@@ -2,7 +2,7 @@
 changed from [GFWlist](https://github.com/gfwlist/gfwlist) and self use
 主要适配于[ZeroOmega](https://github.com/zero-peak/ZeroOmega)/[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 # 文件说明
-[list.txt](https://github.com/Loukky/gfwlist-by-loukky/blob/master/list.txt) 使用明文方便对比列表的变化，
+[list.txt](https://github.com/Loukky/gfwlist-by-loukky/blob/master/list.txt) 使用明文方便对比列表的变化  
 [gfwlist.txt](https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/refs/heads/master/gfwlist.txt) 则是通过base64转码过后的列表，一般使用这个即可
 ## Pac规则（来自bocchi810）
 ### 转换过程中可能会丢失部分规则
