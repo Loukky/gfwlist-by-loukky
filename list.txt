@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-08-25 15:44:13 GMT+8
+! Last Modified: 2025-08-26 18:27:11 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -668,12 +668,15 @@
 ||steamstatic.com
 !!---Telegram---
 !!!---Domain---
+||cdn-telegram.org
 ||t.me
 ||updates.tdesktop.com
+||telega.one
 ||telegra.ph
 ||telegram.dog
 ||telegram.me
 ||telegram.org
+||telegram.space
 ||telegramdownload.com
 ||telesco.pe
 
@@ -1397,7 +1400,6 @@
 ||cdig.info
 ||cdjp.org
 ||cdn-apple.com
-||cdn-telegram.org
 ||cdnews.com.tw
 ||cdp1989.org
 ||cdp1998.org
@@ -2326,8 +2328,6 @@
 ||goodtv.com.tw
 ||goodtv.tv
 ||goofind.com
-||googlefiber.net
-||googlesile.com
 ||gopetition.com
 ||goproxing.net
 ||goregrish.com
@@ -5265,21 +5265,21 @@ phobos.apple.com*/video
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||c.admob.com
 @@||adtrafficquality.google
-@@||ggpht.cn
+||crashlytics.com
+@@||firebase-settings.crashlytics.com
 @@||http2.golang.org
 @@||www.google-analytics.com
-@@||google.cn
 @@||adservice.google.com
 @@||cache.pack.google.com
 @@||corp.google.com
 @@||dl.google.com
 @@||dl.l.google.com
 @@||pagead-googlehosted.l.google.com
+@@||safebrowsing-cache.google.com
 @@||ssl-google-analytics.l.google.com
 @@||tools.google.com
 @@||tools.l.google.com
 @@||www-googletagmanager.l.google.com
-@@||googleapis.cn
 @@||clientservices.googleapis.com
 @@||crashlyticsreports-pa.googleapis.com
 @@||emmapplecodevice.googleapis.com
@@ -5292,7 +5292,8 @@ phobos.apple.com*/video
 @@||tac.googleapis.com
 @@||update.googleapis.com
 @@||wear.googleapis.com
-@@||gstatic.cn
+||googlefiber.net
+||googlesile.com
 @@||checkin.gstatic.com
 @@||connectivitycheck.gstatic.com
 @@||csi.gstatic.com
