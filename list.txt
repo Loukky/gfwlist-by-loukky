@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-08-27 17:49:39 GMT+8
+! Last Modified: 2025-08-28 18:40:01 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -14,124 +14,6 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/Loukky/gfwlist-by-loukky/issues
 
-!---------403/451/520 & URL Redirects---------
-||500px.com
-||500px.org
-||afreecatv.com
-||agnesb.fr
-||airitilibrary.com
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
-||akiba-web.com
-||altrec.com
-||amazonvideo.com
-||angela-merkel.de
-||angola.org
-||anthropic.com
-||apartmentratings.com
-||apartments.com
-||arena.taipei
-||assimp.org
-||athenaeizou.com
-||bankmobilevibe.com
-||banorte.com
-||beeg.com
-||blogjav.net
-||booktopia.com.au
-||boysmaster.com
-||assets.bwbx.io
-||bynet.co.il
-||byrut.org
-||carfax.com
-||carfax.com
-||centauro.com.br
-||costco.com
-||counter.social
-||d2pass.com
-||deezer.com
-||desipro.de
-||dish.com
-||dmhy.org
-||dubox.com
-||dvdpac.com
-||expekt.com
-||extmatrix.com
-||fakku.net
-||flipboard.com
-||flitto.com
-||guo.media
-||hautelook.com
-||hautelookcdn.com
-||wego.here.com
-||gamer-cds.cdn.hinet.net
-||gamer2-cds.cdn.hinet.net
-||hulu.com
-||huluim.com
-||hybrid-analysis.com
-||cdn*.i-scmp.com
-||javlibrary.com
-||jukujo-club.com
-||juliepost.com
-||kendatire.com
-||kkbox.com
-||madonna-av.com
-||manta.com
-||matome-plus.com
-||matome-plus.net
-||metarthunter.com
-||c.mi.com
-||miuipolska.pl
-||mojim.com
-||moodyz.com
-||mos.ru
-||msha.gov
-||mvg.jp
-||mybet.com
-||nationwide.com
-||netflix.com
-||nflxext.com
-||nflximg.com
-||nflximg.net
-||nflxso.net
-||nflxvideo.net
-||nordstrom.com
-||nordstrommedia.com
-||nordstromrack.com
-||nudezz.com
-||nuuvem.com
-||omni7.jp
-||pandora.com
-||pandora.tv
-||piaotia.com
-||ptwxz.com
-||riseup.net
-||sadistic-v.com
-||search.xxx
-||shiksha.com
-||shiksha.ws
-||sm-miracle.com
-||spotify.com
-||superpages.com
-||switch1.jp
-||rcam.target.com
-||tenor.com
-||terabox.com
-||theguardian.com
-||thinkgeek.com
-||tma.co.jp
-||tracfone.com
-||tryheart.jp
-||twerkingbutt.com
-||uukanshu.com
-||vegasred.com
-||vip-enterprise.com
-||wanz-factory.com
-||wowhead.com
-||wunderground.com
-||zamimg.com
-||zim.vn
-||zoominfo.com
 !--prime video
 ||aiv-cdn.net
 ||aiv-delivery.net
@@ -387,6 +269,7 @@
 ||oculuscdn.com
 ||sl-reverse.com
 ||thefacebook.com
+||threads.com
 ||threads.net
 ||whatsapp.com
 ||whatsapp.net
@@ -467,6 +350,7 @@
 ||google.be
 ||google.bg
 ||google.ca
+||google.cat
 ||google.cd
 ||google.ci
 ||google.co.id
@@ -800,6 +684,8 @@
 ||4everproxy.com
 ||4gtv.tv
 ||4shared.com
+||500px.com
+||500px.org
 ||50webs.com
 ||51.ca
 ||51jav.org
@@ -817,6 +703,8 @@
 ||66.ca
 ||666kb.com
 ||69shu.com
+||69shuba.com
+||69shuba.cx
 ||6do.news
 ||6do.world
 ||6park.com
@@ -874,11 +762,14 @@
 ||adultkeep.net
 ||ae.org
 ||af.mil
+||afreecatv.com
 ||agemys.net
+||agnesb.fr
 ||ai-kan.net
 ||ai-wen.net
 ||aiph.net
 ||airasia.com
+||airitilibrary.com
 ||airvpn.org
 ||aisex.com
 ||ait.org.tw
@@ -892,7 +783,11 @@
 ||rthklive2-lh.akamaihd.net
 ||rfalive1.akacast.akamaistream.net
 ||voa-11.akacast.akamaistream.net
+||abematv.akamaized.net
+||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
 ||akiba-online.com
+||akiba-web.com
 ||akinator.com
 ||akow.org
 ||al-islam.com
@@ -921,6 +816,7 @@
 ||alljackpotscasino.com
 ||almasdarnews.com
 ||alphaporno.com
+||altrec.com
 ||alwaysdata.com
 ||alwaysvpn.com
 ||am730.com.hk
@@ -945,7 +841,9 @@
 ||androidcombo.com
 ||androidplus.co
 ||andygod.com
+||angela-merkel.de
 ||angelfire.com
+||angola.org
 ||animecrazy.net
 ||animeshippuuden.com
 ||animezilla.com
@@ -960,6 +858,7 @@
 ||anonymouse.org
 ||anpopo.com
 ||answering-islam.org
+||anthropic.com
 ||anti1984.com
 ||antichristendom.com
 ||antisocial.science
@@ -975,6 +874,8 @@
 ||aol.com
 ||aolnews.com
 ||aomiwang.com
+||apartmentratings.com
+||apartments.com
 ||apetube.com
 ||apigee.com
 ||apk-dl.com
@@ -1006,6 +907,7 @@
 ||archiveofourown.org
 ||arctosia.com
 ||areca-backup.org
+||arena.taipei
 ||arethusa.su
 ||arlingtoncemetery.mil
 ||army.mil
@@ -1028,10 +930,12 @@
 ||askynz.net
 ||asrockind.com
 ||assembla.com
+||assimp.org
 ||astrill.com
 ||atc.org.au
 ||atchinese.com
 ||atgfw.org
+||athenaeizou.com
 ||atlanta168.com
 ||atnext.com
 ||av-e-body.com
@@ -1077,8 +981,10 @@
 ||bangchen.net
 ||bangdream.space
 ||bangyoulater.com
+||bankmobilevibe.com
 ||bannedbook.org
 ||bannednews.org
+||banorte.com
 ||baramangaonline.com
 ||barenakedislam.com
 ||barton.de
@@ -1178,6 +1084,7 @@
 ||blogcity.me
 ||blogger.com
 ||blogimg.jp
+||blogjav.net
 ||bloglines.com
 ||bloglovin.com
 ||blogtd.net
@@ -1201,6 +1108,7 @@
 ||book.com.tw
 ||bookepub.com
 ||books.com.tw
+||booktopia.com.au
 ||bootstrapcdn.com
 ||bot.nu
 ||botanwang.com
@@ -1213,6 +1121,7 @@
 ||boyangu.com
 ||boyfriendtv.com
 ||boysfood.com
+||boysmaster.com
 ||brandonhutchinson.com
 ||bravotube.net
 ||brazzers.com
@@ -1257,10 +1166,13 @@
 ||buzzorange.com
 ||buzzsprout.com
 ||bvpn.com
+||assets.bwbx.io
 ||bwgyhw.com
 ||bwh1.net
 ||bwsj.hk
 ||bx.tl
+||bynet.co.il
+||byrut.org
 !--------------------CC-------------------------
 ||c-est-simple.com
 ||c-span.org
@@ -1292,6 +1204,7 @@
 ||captainfawcett.com
 ||carabinasypistolas.com
 ||cardinalkungfoundation.org
+||carfax.com
 ||cari.com.my
 ||caribbeancom.com
 ||carmotorshow.com
@@ -1348,6 +1261,7 @@
 ||cecc.gov
 ||celestiallight.org
 ||cenews.eu
+||centauro.com.br
 ||centralnation.com
 ||centurys.net
 ||cex.io
@@ -1532,7 +1446,9 @@
 ||corumcollege.com
 ||cos-moe.com
 ||cosplayjav.pl
+||costco.com
 ||cotweet.com
+||counter.social
 ||coursehero.com
 ||coze.com
 ||cpj.org
@@ -1581,6 +1497,7 @@
 ||d-fukyu.com
 ||d100.net
 ||d2bay.com
+||d2pass.com
 ||dabr.eu
 ||dabr.me
 ||dabr.mobi
@@ -1641,12 +1558,14 @@
 ||deck.ly
 ||decodet.co
 ||deepdiscount.com
+||deezer.com
 ||definebabe.com
 ||democrats.org
 ||demosisto.hk
 ||deno.com
 ||deno.dev
 ||depositphotos.com
+||desipro.de
 ||destroy-china.jp
 ||detroitnews.com
 ||deutsche-welle.de
@@ -1675,6 +1594,7 @@
 ||discordapp.net
 ||discuss.com.hk
 ||discuss4u.com
+||dish.com
 ||disp.cc
 ||disqus.com
 ||dit-inc.us
@@ -1685,6 +1605,7 @@
 ||dlyoutube.com
 ||dmc.nico
 ||dmcdn.net
+||dmhy.org
 ||dmm.co.jp
 ||dmm.com
 ||dns2go.com
@@ -1709,6 +1630,7 @@
 ||dontfilter.us
 ||dontmovetochina.com
 ||doom9.org
+||doosho.com
 ||dorjeshugden.com
 ||dotplane.com
 ||dotsub.com
@@ -1735,7 +1657,7 @@
 ||dtic.mil
 ||dtwang.org
 ||duanzhihu.com
-||duckdns.org
+||dubox.com
 ||duckduckgo.com
 ||duckmylife.com
 ||duga.jp
@@ -1747,6 +1669,7 @@
 ||dupola.net
 ||dushi.ca
 ||duyaoss.com
+||dvdpac.com
 ||dw-world.com
 ||dw-world.de
 ||dw.com
@@ -1881,9 +1804,11 @@
 ||exmormon.org
 ||expatshield.com
 ||expecthim.com
+||expekt.com
 ||experts-univers.com
 ||exploader.net
 ||expressvpn.com
+||extmatrix.com
 ||extrabux.com
 ||extremetube.com
 ||eyevio.jp
@@ -2011,6 +1936,8 @@
 ||flickr.com
 ||flickriver.com
 ||fling.com
+||flipboard.com
+||flitto.com
 ||flog.tw
 ||flyvpn.com
 ||flyzy2005.com
@@ -2300,6 +2227,7 @@
 ||guardster.com
 ||guishan.org
 ||gumroad.com
+||guo.media
 ||guruonline.hk
 ||gvm.com.tw
 ||gyalwarinpoche.com
@@ -2336,6 +2264,8 @@
 ||hardsextube.com
 ||harunyahya.com
 ||hasi.wang
+||hautelook.com
+||hautelookcdn.com
 ||have8.com
 ||hbo.com
 ||hcaptcha.com
@@ -2367,6 +2297,7 @@
 ||hentaitube.tv
 ||hentaivideoworld.com
 ||heqinglian.net
+||wego.here.com
 ||id.heroku.com
 ||herokuapp.com
 ||heungkongdiscuss.com
@@ -2400,6 +2331,8 @@
 ||himemix.com
 ||himemix.net
 ||hindustantimes.com
+||gamer-cds.cdn.hinet.net
+||gamer2-cds.cdn.hinet.net
 ||hinet.net
 ||hitomi.la
 ||hizb-ut-tahrir.info
@@ -2512,6 +2445,8 @@
 ||huigui.tw
 ||huiyi.in
 ||hulkshare.com
+||hulu.com
+||huluim.com
 ||humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
@@ -2526,6 +2461,7 @@
 ||hwadzan.tw
 ||hwayue.org.tw
 ||hxwk.org
+||hybrid-analysis.com
 ||ebook.hyread.com.tw
 ||hysteria.network
 
@@ -2533,6 +2469,7 @@
 ||ironbigfools.compython.net
 ||i-cable.com
 ||i-part.com.tw
+||cdn*.i-scmp.com
 ||i1.hk
 ||i2runner.com
 ||iamtopone.com
@@ -2701,6 +2638,7 @@
 ||javfree.me
 ||javhd.com
 ||javhip.com
+||javlibrary.com
 ||javmobile.net
 ||javmoo.com
 ||javseen.com
@@ -2749,6 +2687,8 @@
 ||fiddle.jshell.net
 ||jubushoushen.com
 ||juhuaren.com
+||jukujo-club.com
+||juliepost.com
 ||juliereyc.com
 ||june4commemoration.org
 ||junefourth-20.net
@@ -2790,6 +2730,7 @@
 ||kechara.com
 ||keezmovies.com
 ||kemono.party
+||kendatire.com
 ||kendincos.net
 ||kenengba.com
 ||keontech.net
@@ -2813,6 +2754,7 @@
 ||kissjav.com
 ||kiwi.kz
 ||kk-whys.co.jp
+||kkbox.com
 ||kmuh.org.tw
 ||knowledgerush.com
 ||knowyourmeme.com
@@ -2980,6 +2922,7 @@
 ||machbbs.com
 ||macrovpn.com
 ||macts.com.tw
+||madonna-av.com
 ||madou.club
 ||madrau.com
 ||madthumbs.com
@@ -3006,6 +2949,7 @@
 ||maniash.com
 ||mansion.com
 ||mansionpoker.com
+||manta.com
 ||maplew.com
 ||marc.info
 ||marguerite.su
@@ -3022,6 +2966,8 @@
 ||mastodon.social
 ||mathable.io
 ||mathiew-badimon.com
+||matome-plus.com
+||matome-plus.net
 ||matrix.org
 ||matters.news
 ||matters.town
@@ -3075,6 +3021,7 @@
 ||metacafe.com
 ||metacubex.one
 ||metart.com
+||metarthunter.com
 ||metro.taipei
 ||metrolife.ca
 ||metroradio.com.hk
@@ -3085,6 +3032,7 @@
 ||mgstage.com
 ||mh4u.org
 ||mhradio.org
+||c.mi.com
 ||michaelmarketl.com
 ||copilot.microsoft.com
 ||microvpn.com
@@ -3137,6 +3085,7 @@
 ||mitao.com.tw
 ||mitbbs.com
 ||mitbbsau.com
+||miuipolska.pl
 ||mixero.com
 ||mixpod.com
 ||mixx.com
@@ -3156,11 +3105,13 @@
 ||mog.com
 ||mohu.club
 ||mohu.rocks
+||mojim.com
 ||molihua.org
 ||momoshop.com.tw
 ||money-link.com.tw
 ||monitorchina.org
 ||monocloud.me
+||moodyz.com
 ||moomoo.com
 ||moonbbs.com
 ||moonbbs.info
@@ -3169,6 +3120,7 @@
 ||moresci.sale
 ||morningsun.org
 ||moroneta.com
+||mos.ru
 ||mosucloud.site
 ||motherless.com
 ||mousebreaker.com
@@ -3182,6 +3134,7 @@
 ||mrtweet.com
 ||msa-it.org
 ||msguancha.com
+||msha.gov
 ||news.hk.msn.com
 ||mstdn.social
 ||mswe1.org
@@ -3199,12 +3152,14 @@
 ||muslimvideo.com
 ||muzi.com
 ||muzi.net
+||mvg.jp
 ||my-formosa.com
 ||my-private-network.co.uk
 ||my-proxy.com
 ||myanniu.com
 ||myaudiocast.com
 ||mybbs.us
+||mybet.com
 ||myca168.com
 ||mycanadanow.com
 ||bbs.mychat.to
@@ -3248,6 +3203,7 @@
 ||narod.ru
 ||nat.moe
 ||national-lottery.co.uk
+||nationwide.com
 ||line.naver.jp
 ||navyfamily.navy.mil
 ||navyreserve.navy.mil
@@ -3266,6 +3222,7 @@
 ||go.nesnode.com
 ||netbirds.com
 ||netflav.com
+||netflix.com
 ||netme.cc
 ||netsneak.com
 ||network54.com
@@ -3306,6 +3263,11 @@
 ||nextmedia.com
 ||nexttv.com.tw
 ||nfjtyd.com
+||nflxext.com
+||nflximg.com
+||nflximg.net
+||nflxso.net
+||nflxvideo.net
 ||nftstorage.link
 ||co.ng.mil
 ||nga.mil
@@ -3334,6 +3296,9 @@
 ||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
+||nordstrom.com
+||nordstrommedia.com
+||nordstromrack.com
 ||nordvpn.com
 ||notepad-plus-plus.org
 ||notion.site
@@ -3359,8 +3324,10 @@
 ||ntdtvla.com
 ||ntrfun.com
 ||nubiles.net
+||nudezz.com
 ||nukistream.com
 ||nutaku.net
+||nuuvem.com
 ||nuvid.com
 ||nvdst.com
 ||nvquan.org
@@ -3405,6 +3372,7 @@
 ||old-cat.net
 ||olevod.com
 ||olympicwatch.org
+||omni7.jp
 ||omnitalk.com
 ||cling.omy.sg
 ||on.cc
@@ -3478,6 +3446,8 @@
 ||pandapow.co
 ||pandapow.net
 ||pandavpn-jp.com
+||pandora.com
+||pandora.tv
 ||panluan.net
 ||pao-pao.net
 ||paperb.us
@@ -3538,6 +3508,7 @@
 ||phprcdn.com
 ||phptutorial.net
 ||phuquocservices.com
+||piaotia.com
 ||picacomic.com
 ||picidae.net
 ||picturedip.com
@@ -3676,6 +3647,7 @@
 ||pttvan.org
 ||pttweb.cc
 ||pttyes.com
+||ptwxz.com
 ||pubu.com.tw
 ||puffin.com
 ||puffinbrowser.com
@@ -3797,6 +3769,7 @@
 ||rfi.my
 ||rigpa.org
 ||riku.me
+||riseup.net
 ||ritouki.jp
 ||ritter.vg
 ||rixcloud.com
@@ -3844,6 +3817,7 @@
 ||cdn1.lp.saboom.com
 ||sacks.com
 ||sacom.hk
+||sadistic-v.com
 ||sadpanda.us
 ||saeima.lv
 ||safeguarddefenders.com
@@ -3875,6 +3849,7 @@
 ||scribd.com
 ||seapuff.com
 ||domainhelp.search.com
+||search.xxx
 ||searchtruth.com
 ||secretchina.com
 ||secretsline.biz
@@ -3948,6 +3923,8 @@
 ||sherabgyaltsen.com
 ||shiatv.net
 ||shicheng.org
+||shiksha.com
+||shiksha.ws
 ||shipcamouflage.com
 ||shireyishunjian.com
 ||shitaotv.org
@@ -4008,6 +3985,7 @@
 ||slideshare.net
 ||forum.slime.com.tw
 ||slutload.com
+||sm-miracle.com
 ||sm3ha.ru
 ||smartdnsproxy.com
 ||app.smartmailcloud.com
@@ -4084,6 +4062,7 @@
 ||spiegel.de
 ||spike.com
 ||spotflux.com
+||spotify.com
 ||spring-plus.net
 ||sproutcore.com
 ||sproxy.info
@@ -4164,6 +4143,7 @@
 ||suoluo.org
 ||supchina.com
 ||superfreevpn.com
+||superpages.com
 ||supervpn.net
 ||superzooi.com
 ||supjav.com
@@ -4176,6 +4156,7 @@
 ||swapspace.co
 ||swissinfo.ch
 ||swissvpn.net
+||switch1.jp
 ||switchvpn.net
 ||sydneytoday.com
 ||sylfoundation.org
@@ -4226,6 +4207,7 @@
 ||taoism.net
 ||taolun.info
 ||tapatalk.com
+||rcam.target.com
 ||tascn.com.au
 ||taup.net
 ||taup.org.tw
@@ -4258,7 +4240,9 @@
 ||teeniefuck.net
 ||teensinasia.com
 ||teepr.com
+||tenor.com
 ||tenzinpalmo.com
+||terabox.com
 ||tew.org
 ||textnow.me
 ||tgstat.com
@@ -4272,6 +4256,7 @@
 ||thedalailamamovie.com
 ||theepochtimes.com
 ||thegly.com
+||theguardian.com
 ||thehansindia.com
 ||thehindu.com
 ||thehots.info
@@ -4292,6 +4277,7 @@
 ||thetibetpost.com
 ||thetvdb.com
 ||theync.com
+||thinkgeek.com
 ||thinkhk.com
 ||thinkingtaiwan.com
 ||thisav.com
@@ -4395,6 +4381,7 @@
 ||tineye.com
 ||tiny.cc
 ||tinychat.com
+||tma.co.jp
 ||tmagazine.com
 ||tmpp.org
 ||tnaflix.com
@@ -4429,6 +4416,7 @@
 ||toytractorshow.com
 ||tparents.org
 ||tpi.org.tw
+||tracfone.com
 ||tradingview.com
 ||traffichaus.com
 ||transparency.org
@@ -4444,6 +4432,7 @@
 ||truthontour.org
 ||truthsocial.com
 ||truveo.com
+||tryheart.jp
 ||tsctv.net
 ||tsemtulku.com
 ||tsquare.tv
@@ -4524,6 +4513,7 @@
 ||tweetymail.com
 ||tweez.net
 ||twelve.today
+||twerkingbutt.com
 ||twgreatdaily.com
 ||twibase.com
 ||twibble.de
@@ -4649,6 +4639,7 @@
 ||usus.cc
 ||utopianpal.com
 ||uu-gg.com
+||uukanshu.com
 ||uvwxyz.xyz
 ||uwants.com
 ||uwants.net
@@ -4704,6 +4695,7 @@
 ||vimeo.com
 ||vimeocdn.com
 ||vincnd.com
+||vip-enterprise.com
 ||virtualrealporn.com
 ||visibletweets.com
 ||tunnels.api.visualstudio.com
@@ -4799,6 +4791,7 @@
 ||wangruoshui.net
 ||wangruowang.org
 ||want-daily.com
+||wanz-factory.com
 ||wapedia.mobi
 ||waselpro.com
 ||washeng.net
@@ -4931,6 +4924,7 @@
 ||wow-life.net
 ||wow.com
 ||wowgirls.com
+||wowhead.com
 ||wowlegacy.ml
 ||wowporn.com
 ||wowrk.com
@@ -4953,6 +4947,7 @@
 ||wujie.net
 ||wujieliulan.com
 ||wukangrui.net
+||wunderground.com
 ||wuw.red
 ||wuyanblog.com
 ||wwitv.com
@@ -5112,6 +5107,7 @@
 ||zenmate.com.ru
 ||zacebook.com
 ||zalmos.com
+||zamimg.com
 ||zannel.com
 ||zaozon.com
 ||zapto.org
@@ -5144,6 +5140,7 @@
 ||zhuichaguoji.org
 ||zhujiget.com
 ||zi5.me
+||zim.vn
 ||zinio.com
 ||ziporn.com
 ||zippyshare.com
@@ -5154,6 +5151,7 @@
 ||zonghexinwen.com
 ||zonghexinwen.net
 ||zoogvpn.com
+||zoominfo.com
 ||zootool.com
 ||zorrovpn.com
 ||zpn.im
@@ -5212,6 +5210,8 @@
 @@||www.gstatic.com
 @@||c.pki.goog
 @@||crl.pki.goog
+@@||i.pki.goog
+@@||o.pki.goog
 @@||ocsp.pki.goog
 !-------------------Other--------------------
 
