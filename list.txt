@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-09-08 22:55:12 GMT+8
+! Last Modified: 2025-09-09 00:42:12 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1106,8 +1106,11 @@
 ||boobstagram.com
 ||book.com.tw
 ||bookepub.com
+||booklive.jp
+||bookmeter.com
 ||books.com.tw
 ||booktopia.com.au
+||bookwalker.jp
 ||bootstrapcdn.com
 ||bot.nu
 ||botanwang.com
@@ -2643,6 +2646,7 @@
 ||javmobile.net
 ||javmoo.com
 ||javseen.com
+||javtrailers.com
 ||javzz.com
 ||jbtalks.cc
 ||jdwsy.com
@@ -2760,6 +2764,7 @@
 ||knowledgerush.com
 ||knowyourmeme.com
 ||ko-fi.com
+||kobe-np.co.jp
 ||kobo.com
 ||kobobooks.com
 ||kompozer.net
@@ -3301,6 +3306,7 @@
 ||nordstrommedia.com
 ||nordstromrack.com
 ||nordvpn.com
+||note.com
 ||notepad-plus-plus.org
 ||notion.site
 ||novelasia.com
@@ -3368,6 +3374,7 @@
 ||ok.xxx
 ||okayfreedom.com
 ||okcoin.com
+||okinawatimes.co.jp
 ||okk.tw
 ||okx.com
 ||old-cat.net
@@ -4162,6 +4169,7 @@
 ||switchvpn.net
 ||sydneytoday.com
 ||sylfoundation.org
+||syosetu.com
 ||sytes.net
 ||sytes.net
 ||szbbs.net
@@ -4219,6 +4227,7 @@
 ||tbjyt.org
 ||tbrc.org
 ||tbs-rainbow.org
+||tbs.co.jp
 ||tbsec.org
 ||tbsn.org
 ||tbsseattle.org
