@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-09-05 14:15:21 GMT+8
+! Last Modified: 2025-09-08 22:55:12 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1435,6 +1435,7 @@
 ||communistcrimes.org
 ||communitychoicecu.com
 ||comparitech.com
+||ironbigfools.compython.net
 ||congyu.moe
 ||conoha.jp
 ||contactmagazine.net
@@ -1797,7 +1798,7 @@
 ||eurekavpt.com
 ||euronews.com
 ||everipedia.org
-|*apps.evozi.com
+||apps.evozi.com
 ||evschool.net
 ||exchristian.hk
 ||excite.co.jp
@@ -2467,7 +2468,7 @@
 ||hysteria.network
 
 !--------------------II-------------------------
-||ironbigfools.compython.net
+/^https?:\/\/(?:api\.)?ipify\.org/
 ||i-cable.com
 ||i-part.com.tw
 ||cdn*.i-scmp.com
@@ -2615,7 +2616,6 @@
 ||izihost.org
 ||izles.net
 ||izlesem.org
-
 !--------------------JJ-------------------------
 ||j.mp
 ||jable.tv
@@ -5064,6 +5064,7 @@
 ||yizhihongxing.com
 ||yobt.com
 ||yobt.tv
+||yodobashi.com
 ||yogichen.org
 ||yolasite.com
 ||yomiuri.co.jp
