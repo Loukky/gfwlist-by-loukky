@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-09-09 00:42:12 GMT+8
+! Last Modified: 2025-09-09 14:47:00 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3614,6 +3614,7 @@
 ||premproxy.com
 ||presentationzen.com
 ||presidentlee.tw
+||pressreader.com
 ||prestige-av.com
 ||prettyvirgin.com
 ||prism-break.org
