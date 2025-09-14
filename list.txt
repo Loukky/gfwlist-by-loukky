@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-09-12 01:22:12 GMT+8
+! Last Modified: 2025-09-14 16:38:30 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -277,27 +277,22 @@
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
+||*.goog
+||*.google
+||*.youtube
+/^https?:\/\/[^\/]+blogspot\.(.*)/
 ||1e100.net
 ||466453.com
 ||abc.xyz
 ||admob.com
 ||adsense.com
 ||agoogleaday.com
-||gogole.com
-@@|*.google-analytics.com
-||google-analytics.com
-||googlefiber.net
-!||ampproject.org
-/^https?:\/\/[^\/]+blogspot\.(.*)/
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-||*.goog
-||*.google
-||*.youtube
 |http://ampproject.org
 |https://ampproject.org
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org/
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@||www.ampproject.org
 ||android.com
 ||androidify.com
@@ -337,10 +332,13 @@
 ||gmodules.com
 ||goagle.de
 ||gogle.de
+||gogole.com
 ||golang.org
 ||goo.gl
 ||goo.gle
 ||googel.de
+@@|*.google-analytics.com
+||google-analytics.com
 ||google-base.de
 ||google.ae
 ||google.am
@@ -354,6 +352,7 @@
 ||google.cat
 ||google.cd
 ||google.ci
+||google.co
 ||google.co.id
 ||google.co.jp
 ||google.co.kr
@@ -409,6 +408,7 @@
 ||googlecommerce.com
 ||googledomains.com
 ||googledrive.com
+||googlefiber.net
 ||googlegroups.com
 ||googlehosted.com
 ||googleideas.com
@@ -524,7 +524,6 @@
 ||yt.be
 ||ytimg.com
 ||zynamics.com
-
 !!---NYTimes---
 ||nyt.com
 ||static01.nyt.com
@@ -4091,6 +4090,7 @@
 ||sstm.moe
 ||sstmlt.moe
 ||sstmlt.net
+||stackoverflow.com
 ||stage64.hk
 ||standard.co.uk
 ||standupfortibet.org
