@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-09-14 16:38:30 GMT+8
+! Last Modified: 2025-09-16 16:46:38 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1149,6 +1149,7 @@
 ||btdigg.org
 ||btku.me
 ||btku.org
+||btloader.com
 ||btspread.com
 ||btsynckeys.com
 ||budaedu.org
