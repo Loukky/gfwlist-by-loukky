@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-09-16 16:46:38 GMT+8
+! Last Modified: 2025-09-19 21:53:14 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4135,6 +4135,7 @@
 ||strongwindpress.com
 ||student.tw
 ||studentsforafreetibet.org
+||studybuddhism.com
 ||stupidvideos.com
 ||stweetly.com
 ||substack.com
