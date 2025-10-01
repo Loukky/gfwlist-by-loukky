@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-01 15:09:48 GMT+8
+! Last Modified: 2025-10-01 15:16:33 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -468,6 +468,7 @@
 ||xn--ngstr-lra8j.com
 ||youtu.be
 ||youtube-nocookie.com
+||youtube.co
 ||youtube.com
 ||youtubeeducation.com
 ||youtubegaming.com
