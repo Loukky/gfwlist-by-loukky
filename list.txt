@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-01 15:46:26 GMT+8
+! Last Modified: 2025-10-04 00:39:21 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -508,6 +508,7 @@
 ||telegram.space
 ||telegramdownload.com
 ||telesco.pe
+||tx.me
 
 !!---Twitter---
 ||periscope.tv
@@ -4517,10 +4518,9 @@
 ||twitmania.com
 ||twitoaster.com
 ||twitonmsn.com
-||tx.me
 ||typekit.net
 !--Same IP
-||blogs.tampabay.com
+||tampabay.com
 ||teenfucks.org
 ||turbotwitter.com
 ||tweepguide.com
