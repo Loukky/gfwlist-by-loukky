@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-06 21:48:20 GMT+8
+! Last Modified: 2025-10-07 01:37:00 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5163,7 +5163,6 @@
 @@||www.google-analytics.com
 @@||adservice.google.com
 @@||cache.pack.google.com
-@@||corp.google.com
 @@||dl.google.com
 @@||dl.l.google.com
 @@||pagead-googlehosted.l.google.com
