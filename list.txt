@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-05 20:10:51 GMT+8
+! Last Modified: 2025-10-06 21:48:20 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -904,6 +904,7 @@
 ||avfantasy.com
 ||avg.com
 ||avgle.com
+||avple.tv
 ||avyahoo.com
 ||azerbaycan.tv
 ||azerimix.com
