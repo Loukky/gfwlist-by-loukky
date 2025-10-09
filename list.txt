@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-07 01:37:00 GMT+8
+! Last Modified: 2025-10-09 17:29:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4001,6 +4001,7 @@
 ||sokmil.com
 ||solidaritetibet.org
 ||solidfiles.com
+||solscan.io
 ||somee.com
 ||sonicbbs.cc
 ||sonidodelaesperanza.org
