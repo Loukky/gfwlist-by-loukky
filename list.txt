@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-09 17:29:43 GMT+8
+! Last Modified: 2025-10-11 13:49:10 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1947,6 +1947,8 @@
 ||freefq.com
 ||freefuckvids.com
 ||freegao.com
+||freegpt.es
+||freegpt.tech
 ||freehongkong.org
 ||freeilhamtohti.org
 ||freekwonpyong.org
@@ -2486,6 +2488,7 @@
 ||imagezilla.net
 ||imago-images.com
 ||imb.org
+||img2go.com
 ||imgchili.net
 ||imgur.com
 ||imkev.com
