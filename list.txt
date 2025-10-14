@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-13 18:02:12 GMT+8
+! Last Modified: 2025-10-14 15:53:02 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -280,16 +280,16 @@
 !...GFWList doesn't intend to support typosquatting...
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-||*.goog
-||*.google
-||*.youtube
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 ||1e100.net
 ||466453.com
 ||abc.xyz
+||about.google
 ||admob.com
 ||adsense.com
+||agnss.goog
 ||agoogleaday.com
+||ai.google
 |http://ampproject.org
 |https://ampproject.org
 @@|https://cdn.ampproject.org/
@@ -300,25 +300,44 @@
 ||androidtv.com
 ||api.ai
 ||appspot.com
+||bg-call-donation-alpha.goog
+||bg-call-donation-canary.goog
+||bg-call-donation-dev.goog
+||bg-call-donation.goog
+||blog.google
 ||blogblog.com
 ||blogspot.com
 ||business.site
+||businessmessages.google
 ||c.gle
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
+||chromeenterprise.google
 ||chromercise.com
+||cloudpartnerservices.goog
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*youtube\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+||com.google
 ||crbug.com
 ||crrev.com
 ||data-vocabulary.org
 ||debug.com
+||deepmind.com
+||deepmind.google
 ||deja.com
+||design.google
 ||digisfera.com
+||diversity.google
 ||dmarcnetworks.com
+||dns.google
+||domains.google
+||enterprisedemo-google.com
+||enterprisedemogoogle.org
+||enterprisemarketingportal.google
 ||eurodasp.com
+||families.google
 ||feedburner.com
 ||firebaseio.com
 ||g-desktop.ru
@@ -333,12 +352,14 @@
 ||gmail.com
 ||gmodules.com
 ||goagle.de
+||gogle.com
 ||gogle.de
 ||gogole.com
 ||golang.org
 ||goo.gl
 ||goo.gle
 ||googel.de
+||googl.com
 @@|*.google-analytics.com
 ||google-analytics.com
 ||google-base.de
@@ -429,33 +450,48 @@
 ||googlevideo.com
 ||googleweblight.com
 ||googlezip.net
+||grow.google
 ||gstatic.com
 ||gvideo.de
 ||gvt0.com
 ||gwave.com
-||huaibinmall.com
 ||iam.soy
+||io.google
 ||itasoftware.com
+||labs.google
 ||mypicasa.com
 ||on2.com
+||opensource.google
 ||panoramio.com
 ||picasaweb.com
+||pki.goog
+||quantumai.google
 ||questvisual.com
 ||admin.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
 ||api.recaptcha.net
+||registry.google
+||research.google
+||safety.google
 ||savethedate.foo
 ||schema.org
+||share.google
+||simtransfer.goog
 ||sipml5.org
-||striek.com
+||skintone.google
+||sre.google
+||stories.google
 ||swbusdev.com
+||syndicatedsearch.goog
 ||synergyse.com
 ||teachparentstech.org
 ||tensorflow.org
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.goog
+||tv.google
 ||urchin.com
 ||waymo.com
 ||web.dev
@@ -475,7 +511,9 @@
 ||youtubekids.com
 ||yt.be
 ||ytimg.com
+||zdns.google
 ||zynamics.com
+
 !!---NYTimes---
 ||nyt.com
 ||static01.nyt.com
@@ -874,6 +912,7 @@
 ||asia-gaming.com
 ||asiaharvest.org
 ||asianews.it
+||asianfanfics.com
 ||asiansexdiary.com
 ||asiatgp.com
 ||asiatimes.com
