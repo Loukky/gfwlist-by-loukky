@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-14 15:53:02 GMT+8
+! Last Modified: 2025-10-15 15:09:44 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -42,54 +42,6 @@
 213.186.33.87
 50.7.31.230:8898
 69.65.19.160
-!---Digital Currency Exchange(CRYPTO)---
-||aex.com
-||allcoin.com
-||bcex.ca
-||bibox.com
-||big.one
-||binance.com
-||bitfinex.com
-||bithumb.com
-||bitmex.com
-||bitz.com
-||bnbstatic.com
-||bntrace.com
-||btc98.com
-||c2cx.com
-||chaoex.com
-||cobinhood.com
-||coinbene.com
-||coinegg.com
-||coinex.com
-||coingi.com
-||coinrail.co.kr
-||cointiger.com
-||coinut.com
-||discoins.com
-||dragonex.io
-||ebtcbank.com
-||exmo.com
-||fatbtc.com
-||gate.io
-||gatecoin.com
-||hbg.com
-||hitbtc.com
-||huobi.com
-||huobi.pro
-||huobipro.com
-||jex.com
-||kex.com
-||kucoin.com
-||lbank.info
-||livecoin.net
-||localbitcoins.com
-||mercatox.com
-||okex.com
-||otcbtc.com
-||xbtce.com
-||yobit.net
-||zb.com
 
 !---------------------Groups--------------------
 
@@ -486,6 +438,7 @@
 ||syndicatedsearch.goog
 ||synergyse.com
 ||teachparentstech.org
+||telephony.goog
 ||tensorflow.org
 ||tfhub.dev
 ||thinkwithgoogle.com
@@ -750,6 +703,7 @@
 ||adultfriendfinder.com
 ||adultkeep.net
 ||ae.org
+||aex.com
 ||af.mil
 ||afreecatv.com
 ||agemys.net
@@ -794,6 +748,7 @@
 ||aljazeera.com
 ||aljazeera.net
 ||alkasir.com
+||allcoin.com
 ||allconnected.co
 ||alldrawnsex.com
 ||allervpn.com
@@ -998,6 +953,7 @@
 ||bcast.co.nz
 ||bcc.com.tw
 ||bcchinese.net
+||bcex.ca
 ||bcmorning.com
 ||bcrncdn.com
 ||bdsmvideos.net
@@ -1035,8 +991,10 @@
 ||biantailajiao.com
 ||biantailajiao.in
 ||biblesforamerica.org
+||bibox.com
 ||bic2011.org
 ||bidswitch.net
+||big.one
 ||bigfools.com
 ||biggo.com.tw
 ||bigjapanesesex.com
@@ -1045,6 +1003,7 @@
 ||bigsound.org
 ||bilibili.tv
 ||biliworld.com
+||binance.com
 ||binance.us
 ||sydney.bing.com
 ||binux.me
@@ -1054,11 +1013,15 @@
 ||bit.ly
 ||bitchute.com
 ||bitcointalk.org
+||bitfinex.com
 ||bitget.com
+||bithumb.com
+||bitmex.com
 ||bitshare.com
 ||bitsnoop.com
 ||zh.bitterwinter.org
 ||bitvise.com
+||bitz.com
 ||bizhat.com
 ||bjnewlife.org
 ||bjs.org
@@ -1088,9 +1051,11 @@
 ||bloomberg.de
 ||blueangellive.com
 ||bmfinn.com
+||bnbstatic.com
 ||bnews.co
 ||bnext.com.tw
 ||bnn.co
+||bntrace.com
 ||bod.asia
 ||bodog88.com
 ||bolehvpn.net
@@ -1140,6 +1105,7 @@
 ||bt4g.org
 ||bt4gprx.com
 ||btaia.com
+||btc98.com
 ||btdig.com
 ||btdigg.org
 ||btku.me
@@ -1177,6 +1143,7 @@
 ||c-span.org
 ||c-spanvideo.org
 ||c100tibet.org
+||c2cx.com
 ||dot.ca.gov
 ||cableav.tv
 ||cachefly.com
@@ -1275,6 +1242,7 @@
 ||changsa.net
 ||channel8news.sg
 ||channelnewsasia.com
+||chaoex.com
 ||chapm25.com
 ||chatgpt.com
 ||chaturbate.com
@@ -1422,9 +1390,17 @@
 ||cnyes.com
 ||news.cnyes.com
 ||coat.co.jp
+||cobinhood.com
 ||cochina.co
 ||cochina.org
 ||code1984.com
+||coinbene.com
+||coinegg.com
+||coinex.com
+||coingi.com
+||coinrail.co.kr
+||cointiger.com
+||coinut.com
 ||collateralmurder.com
 ||collateralmurder.org
 ||comefromchina.com
@@ -1588,6 +1564,7 @@
 ||dilber.se
 ||dipity.com
 ||directcreative.com
+||discoins.com
 ||disconnect.me
 ||discord.com
 ||discord.gg
@@ -1643,6 +1620,7 @@
 ||dowei.org
 ||dphk.org
 ||dpp.org.tw
+||dragonex.io
 ||dragonsprings.org
 ||dreamamateurs.com
 ||drepung.org
@@ -1709,6 +1687,7 @@
 ||ebony-beauty.com
 ||ebookbrowse.com
 ||ebookee.com
+||ebtcbank.com
 ||ecfa.org.tw
 ||echofon.com
 ||ecimg.tw
@@ -1803,6 +1782,7 @@
 ||exchristian.hk
 ||excite.co.jp
 ||exhentai.org
+||exmo.com
 ||exmormon.org
 ||expatshield.com
 ||expecthim.com
@@ -1877,6 +1857,7 @@
 ||fastssh.com
 ||faststone.org
 ||fatakat-n.club
+||fatbtc.com
 ||favotter.net
 ||favstar.fm
 ||fawanghuihui.org
@@ -2080,6 +2061,8 @@
 ||gardennetworks.com
 ||garudalinux.org
 ||gate-project.com
+||gate.io
+||gatecoin.com
 ||gather.com
 ||gatherproxy.com
 ||gati.org.tw
@@ -2273,6 +2256,7 @@
 ||hautelook.com
 ||hautelookcdn.com
 ||have8.com
+||hbg.com
 ||hbo.com
 ||hcaptcha.com
 ||hclips.com
@@ -2340,6 +2324,7 @@
 ||gamer-cds.cdn.hinet.net
 ||gamer2-cds.cdn.hinet.net
 ||hinet.net
+||hitbtc.com
 ||hitomi.la
 ||hizb-ut-tahrir.info
 ||hizb-ut-tahrir.org
@@ -2456,7 +2441,10 @@
 ||humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
+||huobi.com
+||huobi.pro
 ||huobi.vc
+||huobipro.com
 ||huping.net
 ||hurgokbayrak.com
 ||hurriyet.com.tr
@@ -2653,6 +2641,7 @@
 ||javzz.com
 ||jbtalks.cc
 ||jdwsy.com
+||jex.com
 ||jfqu36.club
 ||jfqu37.xyz
 ||jiangweiping.com
@@ -2743,6 +2732,7 @@
 ||kenengba.com
 ||keontech.net
 ||kepard.com
+||kex.com
 ||g.kfd.me
 ||wiki.kfd.me
 ||khabdha.org
@@ -2782,6 +2772,7 @@
 ||ksdl.org
 ||ksnews.com.tw
 ||ktzhk.com
+||kucoin.com
 ||kui.name
 ||kurashsultan.com
 ||kurtmunger.com
@@ -2817,6 +2808,7 @@
 ||latelinenews.com
 ||latibet.org
 ||legaltech.law.com
+||lbank.info
 ||ldplayer.net
 ||ldplayer.tw
 ||le-vpn.com
@@ -2873,6 +2865,7 @@
 ||liuxiaobo.net
 ||liuxiaotong.com
 ||onedrive.live.com
+||livecoin.net
 ||livedoor.jp
 ||liveleak.com
 ||livestation.com
@@ -2886,6 +2879,7 @@
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
+||localbitcoins.com
 ||localdomain.ws
 ||localpresshk.com
 ||lockestek.com
@@ -3019,6 +3013,7 @@
 ||memrijttm.org
 ||mercari.com
 ||mercari.jp
+||mercatox.com
 ||mercdn.net
 ||mercyprophet.org
 ||mergersandinquisitions.org
@@ -3381,6 +3376,7 @@
 ||ok.xxx
 ||okayfreedom.com
 ||okcoin.com
+||okex.com
 ||okinawatimes.co.jp
 ||okk.tw
 ||okx.com
@@ -3427,6 +3423,7 @@
 ||orzistic.org
 ||osfoora.com
 ||osm.tw
+||otcbtc.com
 ||otnd.org
 ||ourdearamy.com
 ||oursogo.com
@@ -4993,6 +4990,7 @@
 ||xanga.com
 ||xbabe.com
 ||xbookcn.com
+||xbtce.com
 ||xcafe.in
 ||xchina.co
 ||xcity.jp
@@ -5090,6 +5088,7 @@
 ||yingsuoss.com
 ||yipub.com
 ||yizhihongxing.com
+||yobit.net
 ||yobt.com
 ||yobt.tv
 ||yodobashi.com
@@ -5146,6 +5145,7 @@
 ||zannel.com
 ||zaozon.com
 ||zapto.org
+||zb.com
 ||zdnet.com.tw
 ||zello.com
 ||zengjinyan.org
