@@ -40,7 +40,7 @@ jobs:
             echo "2. configure your text editor to use unix style line break."
             exit 1
           fi
-          echo "DATE=$(date)" >> $GITHUB_ENV
+          echo "DATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S GMT+8')" >> $GITHUB_ENV
 
       - name: convert to gfwlist.txt
         run: |
