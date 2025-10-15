@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-15 12:53:31 GMT+8
+! Last Modified: 2025-10-15 13:09:55 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2210,6 +2210,7 @@
 ||greenpeace.com.tw
 ||greenvpn.net
 ||greenvpn.org
+||grindr.com
 ||grok.com
 ||grotty-monday.com
 ||gstf.org
@@ -2632,6 +2633,7 @@
 ||japan-whores.com
 ||japantimes.co.jp
 ||jav.com
+||jav321.com
 ||jav68.tv
 ||jav777.cc
 ||javakiba.org
@@ -3374,6 +3376,7 @@
 ||oaiusercontent.com
 ||observechina.net
 ||obutu.com
+||obyte.org
 ||ocaspro.com
 ||occupytiananmen.com
 ||oclp.hk
@@ -3585,6 +3588,7 @@
 ||pmates.com
 ||pobieramy.top
 ||podcast.app
+||poe.com
 ||pokerstars.com
 ||pokerstars.net
 ||politicalchina.org
@@ -4014,6 +4018,7 @@
 ||slashine.onl
 ||sleazydream.com
 ||slickvpn.com
+||slides.com
 ||slideshare.net
 ||forum.slime.com.tw
 ||slutload.com
@@ -5031,6 +5036,7 @@
 ||xiaohexie.com
 ||xiaolan.me
 ||xiaoma.org
+||xiaomi.eu
 ||xicons.org
 ||xiezhua.com
 ||xihua.es
@@ -5079,6 +5085,7 @@
 !--------------------YY-------------------------
 ||yadi.sk
 ||yam.org.tw
+||yande.re
 ||disk.yandex.com
 ||disk.yandex.ru
 ||yanghengjun.com
