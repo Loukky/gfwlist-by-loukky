@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-15 08:23:43 GMT+8
+! Last Modified: 2025-10-15 09:39:36 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -689,6 +689,7 @@
 ||abplive.com
 ||aceros-de-hispania.com
 ||acevpn.com
+||acg.rip
 ||acgbox.link
 ||acgkj.com
 ||acmedia365.com
@@ -928,6 +929,7 @@
 ||bangbrosnetwork.com
 ||bangchen.net
 ||bangdream.space
+||bangumi.moe
 ||bangyoulater.com
 ||bankmobilevibe.com
 ||bannedbook.org
@@ -1832,6 +1834,7 @@
 ||familyfed.org
 ||famunion.com
 ||fan-qiang.com
+||fanbox.cc
 ||fandom.com
 ||fangbinxing.com
 ||fangeming.com
@@ -2253,6 +2256,7 @@
 ||hardsextube.com
 ||harunyahya.com
 ||hasi.wang
+||b.hatena.ne.jp
 ||hautelook.com
 ||hautelookcdn.com
 ||have8.com
@@ -2647,6 +2651,7 @@
 ||jiangweiping.com
 ||jiehua.cz
 ||jieshibaobao.com
+||jifangge.com
 ||jigglegifs.com
 ||jigong1024.com
 ||jigsy.com
