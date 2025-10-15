@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-15 10:31:08 GMT+8
+! Last Modified: 2025-10-15 11:03:32 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -446,6 +446,7 @@
 ||translate.goog
 ||tv.google
 ||urchin.com
+||usercontent.goog
 ||waymo.com
 ||web.dev
 ||webmproject.org
@@ -849,7 +850,6 @@
 ||archive.org
 ||archive.ph
 ||archive.today
-||archive.today
 ||archiveofourown.org
 ||arctosia.com
 ||areca-backup.org
@@ -1236,6 +1236,7 @@
 ||cex.io
 ||cfhks.org.hk
 ||cfos.de
+||cfsh99.com
 ||cftfc.com
 ||cgdepot.org
 ||cgst.edu
@@ -1365,6 +1366,7 @@
 ||clearharmony.net
 ||clearwisdom.net
 ||clickme.net
+||clipconverter.cc
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
@@ -1396,6 +1398,7 @@
 ||cochina.co
 ||cochina.org
 ||code1984.com
+||coinbase.com
 ||coinbene.com
 ||coinegg.com
 ||coinex.com
@@ -1773,7 +1776,6 @@
 ||ethermine.org
 ||etherscan.io
 ||ettoday.net
-||eu.org
 ||eucasino.com
 ||eulam.com
 ||eurekavpt.com
@@ -1953,6 +1955,7 @@
 ||free-proxy.cz
 ||free-ss.site
 ||free-ssh.com
+||free.com.tw
 ||free.fr
 ||free4u.com.ar
 ||freealim.com
@@ -2150,6 +2153,7 @@
 ||gnci.org.hk
 ||gnews.org
 ||go-pki.com
+||go-to-zlibrary.se
 ||go5.dev
 ||goagent.biz
 ||goagentplus.com
@@ -2378,6 +2382,7 @@
 ||hojemacau.com.mo
 ||holymountaincn.com
 ||holyspiritspeaks.org
+||home.saxo
 ||derekhsu.homeip.net
 ||homeperversion.com
 ||old.honeynet.org
@@ -2606,6 +2611,7 @@
 ||iverycd.com
 ||ivonblog.com
 ||ivpn.net
+||iwara.tv
 ||ixquick.com
 ||ixxx.com
 ||iyouport.com
@@ -2881,6 +2887,7 @@
 ||liwangyang.com
 ||lizhizhuangbi.com
 ||llss.me
+||lmarena.ai
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
@@ -3053,6 +3060,7 @@
 ||mihk.hk
 ||mihr.com
 ||mihua.org
+||mikanani.me
 ||mikocon.com
 ||milph.net
 ||milsurps.com
@@ -3973,6 +3981,7 @@
 ||singaporepools.com.sg
 ||singfortibet.com
 ||singlelogin.me
+||singlelogin.se
 ||singpao.com.hk
 ||singtao.ca
 ||singtao.com
@@ -4162,6 +4171,7 @@
 ||sun1911.com
 ||sunmedia.ca
 ||suno.ai
+||suno.com
 ||sunporno.com
 ||sunskyforum.com
 ||sunta.com.tw
@@ -4301,6 +4311,7 @@
 ||thestandard.com.hk
 ||thestandnews.com
 ||thestar.com
+||thetatoken.org
 ||thetibetcenter.org
 ||thetibetconnection.org
 ||thetibetmuseum.org
@@ -4422,6 +4433,7 @@
 ||tokyo-hot.com
 ||tokyo-porn-tube.com
 ||tokyocn.com
+||tomp3.cc
 ||tonyyan.net
 ||toodoc.com
 ||toonel.net
@@ -4569,6 +4581,7 @@
 ||twitoaster.com
 ||twitonmsn.com
 ||typekit.net
+||typeset.io
 !--Same IP
 ||tampabay.com
 ||teenfucks.org
@@ -4966,6 +4979,7 @@
 ||wqyd.org
 ||wrchina.org
 ||wretch.cc
+||writesonic.com
 ||wsimg.com
 ||wsj.com
 ||wsj.net
