@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-16 17:18:34 GMT+8
+! Last Modified: 2025-10-16 21:08:53 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -480,9 +480,8 @@
 ||nytstyle.com
 
 !!---Steam---
-||steamcommunity.com
-!!||steampowered.com
 ||steambroadcast.akamaized.net
+||steamcommunity.com
 ||api.steampowered.com
 ||login.steampowered.com
 |http://store.steampowered.com
@@ -567,6 +566,7 @@
 ||yahoosandbox.com
 ||yimg.com
 ||ylive.jp
+
 !------------------Numerics---------------------
 ||0rz.tw
 ||1-apple.com.tw
@@ -1141,6 +1141,7 @@
 ||bx.tl
 ||bynet.co.il
 ||byrut.org
+
 !--------------------CC-------------------------
 ||c-est-simple.com
 ||c-span.org
@@ -1475,7 +1476,6 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
-||cdpa.url.tw
 
 !--------------------DD-------------------------
 ||d-fukyu.com
@@ -1709,6 +1709,7 @@
 ||edupro.org
 ||eevpn.com
 ||efcc.org.hk
+||efksoft.com
 ||efreenews.com
 ||efukt.com
 ||eic-av.com
@@ -2622,6 +2623,7 @@
 ||izihost.org
 ||izles.net
 ||izlesem.org
+
 !--------------------JJ-------------------------
 ||j.mp
 ||jable.tv
@@ -2714,6 +2716,7 @@
 ||jw.org
 ||jwplayer.com
 ||jyxf.net
+
 !--------------------KK-------------------------
 ||kadokawa.co.jp
 ||kagyu.org
@@ -2799,6 +2802,7 @@
 ||kyoyue.com
 ||kyzyhello.com
 ||kzeng.info
+
 !--------------------LL-------------------------
 ||la-forum.org
 ||labiennale.org
@@ -3459,6 +3463,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+
 !--------------------PP-------------------------
 ||pachosting.com
 ||pacificpoker.com
@@ -3707,7 +3712,6 @@
 ||ss.pythonic.life
 
 !--------------------QQ-------------------------
-||efksoft.com
 ||qanote.com
 ||qgirl.com.tw
 ||qi-gong.me
@@ -4589,7 +4593,6 @@
 ||twitonmsn.com
 ||typekit.net
 ||typeset.io
-!--Same IP
 ||tampabay.com
 ||teenfucks.org
 ||turbotwitter.com
@@ -4617,6 +4620,7 @@
 ||txxx.com
 ||tycool.com
 ||typepad.com
+
 !--------------------UU-------------------------
 ||unblock.cn.com
 ||u15.info
@@ -5006,6 +5010,7 @@
 ||wwitv.com
 ||wxw.cat
 ||wxw.moe
+
 !--------------------XX-------------------------
 ||x-art.com
 ||x-berry.com
@@ -5083,6 +5088,7 @@
 ||xysblogs.org
 ||xyy69.com
 ||xyy69.info
+
 !--------------------YY-------------------------
 ||yadi.sk
 ||yam.org.tw
@@ -5230,9 +5236,7 @@
 ||zzcartoon.com
 ||zzcloud.me
 !##############General List End#################
-
 !################Whitelist Start################
-
 !---Some are powered by GuXiang (BGP), please comment off if
 !---you encounter connectivity issues.
 !--ISP cache works sometimes, verified at drpeng + gehua.
@@ -5276,7 +5280,6 @@
 @@||o.pki.goog
 @@||ocsp.pki.goog
 !-------------------Other--------------------
-
 !################Whitelist End##################
 !--------------------tiktok---------------------
 ||byteoversea.com
@@ -5291,6 +5294,7 @@
 ||tiktokv.us
 ||tiktokw.us
 ||ttwstatic.com
+
 !------------------IDN----------------------
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
@@ -5299,4 +5303,3 @@
 ||xn--i2ru8q2qg.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--u2u927b.com
-!------------------Misc------------------
