@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-18 15:07:11 GMT+8
+! Last Modified: 2025-10-18 21:49:22 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -550,6 +550,9 @@
 @@||yatsen.gov.tw
 @@||yda.gov.tw
 !!---edu.tw----
+||chardb.iis.sinica.edu.tw
+||xiaoxue.iis.sinica.edu.tw
+||class.tn.edu.tw
 ||eq.ccu.edu.tw
 ||heeact.edu.tw
 ||npm.edu.tw
@@ -3738,6 +3741,7 @@
 ||qwant.com
 ||qx.net
 ||qxbbs.org
+||qycz.org
 ||qz.com
 
 !--------------------RR-------------------------
