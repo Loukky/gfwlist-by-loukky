@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-18 06:47:52 GMT+8
+! Last Modified: 2025-10-18 06:58:39 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1121,6 +1121,7 @@
 ||buffered.com
 ||bullog.org
 ||bullogger.com
+||bumingbai.net
 ||bunbunhk.com
 ||busayari.com
 ||business.page
@@ -3817,6 +3818,7 @@
 ||rixcloud.us
 ||rlcdn.com
 ||rlwlw.com
+||rmbl.ws
 ||rmjdw.com
 ||rmjdw132.info
 ||v.rn*.xyz
@@ -3841,6 +3843,7 @@
 ||rtycminnesota.org
 ||rukor.org
 ||rule34.xxx
+||rumble.com
 ||runbtx.com
 ||ruten.com.tw
 ||rutracker.org
@@ -4120,6 +4123,7 @@
 ||sspro.ml
 ||ssr.tools
 ||ssrshare.com
+||ssrshare.us
 ||sss.camp
 ||sstm.moe
 ||sstmlt.moe
@@ -5072,6 +5076,8 @@
 ||xsden.info
 ||xsden.org
 ||xskywalker.com
+||xt.com
+||xt.pub
 ||xtube.com
 ||xuehua.us
 ||xuite.net
