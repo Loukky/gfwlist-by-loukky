@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-19 03:24:17 GMT+8
+! Last Modified: 2025-10-19 03:47:59 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -515,17 +515,21 @@
 !!---Taiwan---
 ||gov.tw
 @@||aftygh.gov.tw
+||arena.taipei
 @@||arte.gov.tw
 @@||cksmh.gov.tw
 @@||tacc.cwb.gov.tw
 @@||data.gov.tw
+||data.taipei
 @@||df.gov.tw
 @@||epa.gov.tw
 ||gov.taipei
 @@||hsinchu-cc.gov.tw
+||id.taipei
 @@||iner.gov.tw
 @@||kmseh.gov.tw
 @@||matsucc.gov.tw
+||metro.taipei
 @@||moda.gov.tw
 @@||moe.gov.tw
 @@||gsn.nat.gov.tw
@@ -543,6 +547,7 @@
 @@||nvri.gov.tw
 @@||gysd.nyc.gov.tw
 @@||post.gov.tw
+||service.taipei
 @@||stdtime.gov.tw
 @@||vghtc.gov.tw
 @@||vghtpe.gov.tw
@@ -726,6 +731,7 @@
 ||ait.org.tw
 ||aiweiwei.com
 ||aiweiweiblog.com
+||ajunews.com
 ||akademiye.org
 ||a248.e.akamai.net
 ||a771.dscq.akamai.net
@@ -858,7 +864,6 @@
 ||archiveofourown.org
 ||arctosia.com
 ||areca-backup.org
-||arena.taipei
 ||arethusa.su
 ||arlingtoncemetery.mil
 ||army.mil
@@ -891,6 +896,7 @@
 ||athenaeizou.com
 ||atlanta168.com
 ||atnext.com
+||atvnewsonline.com
 ||av.com
 ||av.movie
 ||av-e-body.com
@@ -1534,7 +1540,6 @@
 ||darktoy.net
 ||dashlane.com
 ||dastrassi.org
-||data.taipei
 ||social.datalabour.com
 ||daum.net
 ||david-kilgour.com
@@ -2045,6 +2050,7 @@
 ||fuyindiantai.org
 ||fuyu.org.tw
 ||fw.cm
+||fx168news.com
 ||fxcm-chinese.com
 ||fzh999.com
 ||fzh999.net
@@ -2257,6 +2263,7 @@
 ||hackthatphone.net
 ||hahlo.com
 ||haiwaikan.com
+||haiwaiwai.com
 ||hakkatv.org.tw
 ||halktv.com.tr
 ||handcraftedsoftware.org
@@ -2502,7 +2509,6 @@
 ||icl-fi.org
 ||icoco.com
 ||icu-project.org
-||id.taipei
 ||idaiwan.com
 ||idemocracy.asia
 ||idiomconnection.com
@@ -2748,6 +2754,7 @@
 ||karmapa.org
 ||karmapa-teachings.org
 ||kba-tx.org
+||kbs.co.kr
 ||kebrum.com
 ||kechara.com
 ||keezmovies.com
@@ -2797,6 +2804,7 @@
 ||ksdl.org
 ||ksnews.com.tw
 ||ktzhk.com
+||kuai.media
 ||kucoin.com
 ||kui.name
 ||kurashsultan.com
@@ -3058,7 +3066,6 @@
 ||metacubex.one
 ||metart.com
 ||metarthunter.com
-||metro.taipei
 ||metrolife.ca
 ||metroradio.com.hk
 ||mewe.com
@@ -3920,7 +3927,6 @@
 ||sendspace.com
 ||sensortower.com
 ||servehttp.com
-||service.taipei
 ||sesawe.net
 ||sesawe.org
 ||setn.com
@@ -5133,7 +5139,6 @@
 ||yespornplease.com
 ||yeyeclub.com
 ||yhcw.net
-||yibada.com
 ||yibaochina.com
 ||yidio.com
 ||yigeni.com
