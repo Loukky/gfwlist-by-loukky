@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-18 23:42:12 GMT+8
+! Last Modified: 2025-10-19 03:24:17 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -182,9 +182,9 @@
 !!---DynDNS---
 !###https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names/
 ||blogdns.org
+||dyndns.org
 ||dyndns-ip.com
 ||dyndns-pics.com
-||dyndns.org
 ||from-pr.com
 ||from-sd.com
 ||is-a-hunter.com
@@ -205,8 +205,8 @@
 ||facebook.nl
 ||facebook.se
 ||facebookmail.com
-@@||about.fb.com
 ||fb.com
+@@||about.fb.com
 ||fb.gg
 ||fb.me
 ||fb.watch
@@ -230,13 +230,12 @@
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
-/^https?:\/\/[^\/]+blogspot\.(.*)/
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*youtube\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+/^https?:\/\/[^\/]+blogspot\.(.*)/
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -248,6 +247,7 @@
 ||ai.google
 |http://ampproject.org
 |https://ampproject.org
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org/
 @@||www.ampproject.org
 ||android.com
@@ -255,10 +255,10 @@
 ||androidtv.com
 ||api.ai
 ||appspot.com
+||bg-call-donation.goog
 ||bg-call-donation-alpha.goog
 ||bg-call-donation-canary.goog
 ||bg-call-donation-dev.goog
-||bg-call-donation.goog
 ||blog.google
 ||blogblog.com
 ||blogspot.com
@@ -292,8 +292,8 @@
 ||families.google
 ||feedburner.com
 ||firebaseio.com
-||g-desktop.ru
 ||g.co
+||g-desktop.ru
 ||gcr.io
 ||get.app
 ||get.dev
@@ -312,9 +312,6 @@
 ||goo.gle
 ||googel.de
 ||googl.com
-@@||*.google-analytics.com
-||google-analytics.com
-||google-base.de
 ||google.ae
 ||google.am
 ||google.as
@@ -370,8 +367,11 @@
 ||google.tt
 ||google.vu
 ||google.ws
-@@||*.googleanalytics.com
+||google-analytics.com
+@@||*.google-analytics.com
+||google-base.de
 ||googleanalytics.com
+@@||*.googleanalytics.com
 ||googleapis.com
 ||googleapps.com
 ||googlearth.com
@@ -396,8 +396,8 @@
 ||googleplus.com
 ||googlescholar.com
 ||googlesource.com
-@@||*.googlesyndication.com
 ||googlesyndication.com
+@@||*.googlesyndication.com
 ||googleusercontent.com
 ||googlevideo.com
 ||googleweblight.com
@@ -420,9 +420,9 @@
 ||quantumai.google
 ||questvisual.com
 ||admin.recaptcha.net
+||api.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
-||api.recaptcha.net
 ||registry.google
 ||research.google
 ||safety.google
@@ -458,8 +458,8 @@
 ||withyoutube.com
 ||xn--ngstr-lra8j.com
 ||youtu.be
-||youtube-nocookie.com
 ||youtube.com
+||youtube-nocookie.com
 ||youtubeeducation.com
 ||youtubegaming.com
 ||youtubekids.com
@@ -513,6 +513,7 @@
 ||vine.co
 
 !!---Taiwan---
+||gov.tw
 @@||aftygh.gov.tw
 @@||arte.gov.tw
 @@||cksmh.gov.tw
@@ -521,7 +522,6 @@
 @@||df.gov.tw
 @@||epa.gov.tw
 ||gov.taipei
-||gov.tw
 @@||hsinchu-cc.gov.tw
 @@||iner.gov.tw
 @@||kmseh.gov.tw
@@ -715,9 +715,9 @@
 ||afreecatv.com
 ||agemys.net
 ||agnesb.fr
+||ai.ls
 ||ai-kan.net
 ||ai-wen.net
-||ai.ls
 ||aiph.net
 ||airasia.com
 ||airitilibrary.com
@@ -830,8 +830,8 @@
 ||apartments.com
 ||apetube.com
 ||apigee.com
-||apk-dl.com
 ||apk.tw
+||apk-dl.com
 ||apkcombo.com
 ||apkmirror.com
 ||apkmonk.com
@@ -891,9 +891,9 @@
 ||athenaeizou.com
 ||atlanta168.com
 ||atnext.com
-||av-e-body.com
 ||av.com
 ||av.movie
+||av-e-body.com
 ||av01.tv
 ||avaaz.org
 ||avbody.tv
@@ -1398,8 +1398,8 @@
 ||wiki.cnitter.com
 ||cnpolitics.org
 ||cnproxy.com
-||blog.cnyes.com
 ||cnyes.com
+||blog.cnyes.com
 ||news.cnyes.com
 ||coat.co.jp
 ||cobinhood.com
@@ -1508,10 +1508,10 @@
 ||dajiyuan.com
 ||dajiyuan.de
 ||dajiyuan.eu
-||dalailama-archives.org
 ||dalailama.com
 ||dalailama.mn
 ||dalailama.ru
+||dalailama-archives.org
 ||dalailama80.org
 ||dalailamacenter.org
 ||dalailamafellows.org
@@ -1534,6 +1534,7 @@
 ||darktoy.net
 ||dashlane.com
 ||dastrassi.org
+||data.taipei
 ||social.datalabour.com
 ||daum.net
 ||david-kilgour.com
@@ -1662,10 +1663,10 @@
 ||dushi.ca
 ||duyaoss.com
 ||dvdpac.com
-||dw-world.com
-||dw-world.de
 ||dw.com
 ||dw.de
+||dw-world.com
+||dw-world.de
 ||dweb.link
 ||dwnews.com
 ||dwnews.net
@@ -1689,8 +1690,8 @@
 ||eastern-ark.com
 ||easternlightning.org
 ||eastturkestan.com
-||eastturkistan-gov.org
 ||eastturkistan.net
+||eastturkistan-gov.org
 ||eastturkistancc.org
 ||eastturkistangovernmentinexile.us
 ||easyca.ca
@@ -1747,8 +1748,6 @@
 ||entnt.com
 ||episcopalchurch.org
 ||epochhk.com
-||epochtimes-bg.com
-||epochtimes-romania.com
 ||epochtimes.co.il
 ||epochtimes.co.kr
 ||epochtimes.com
@@ -1760,6 +1759,8 @@
 ||epochtimes.jp
 ||epochtimes.ru
 ||epochtimes.se
+||epochtimes-bg.com
+||epochtimes-romania.com
 ||epochtimestr.com
 ||epochweek.com
 ||epochweekly.com
@@ -1826,12 +1827,12 @@
 ||falunart.org
 ||falunau.org
 ||falunaz.net
+||falundafa.org
 ||falundafa-dc.org
 ||falundafa-florida.org
 ||falundafa-nc.org
 ||falundafa-pa.net
 ||falundafa-sacramento.org
-||falundafa.org
 ||falundafamuseum.org
 ||falungong.club
 ||falungong.de
@@ -1940,8 +1941,8 @@
 ||cn.fmnnow.com
 ||fochk.org
 ||focusvpn.com
-||fofg-europe.net
 ||fofg.org
+||fofg-europe.net
 ||fofldfradio.org
 ||fooooo.com
 ||footwiball.com
@@ -1952,19 +1953,19 @@
 ||fourthinternational.org
 ||video.foxbusiness.com
 ||foxgay.com
-||fpmt-osel.org
 ||fpmt.org
 ||fpmt.tw
+||fpmt-osel.org
 ||fqok.org
 ||fqrouter.com
 ||freakshare.com
+||free.com.tw
+||free.fr
 ||free-gate.org
 ||free-hada-now.org
 ||free-proxy.cz
 ||free-ss.site
 ||free-ssh.com
-||free.com.tw
-||free.fr
 ||free4u.com.ar
 ||freealim.com
 ||freebearblog.org
@@ -2012,8 +2013,8 @@
 ||freeyoutubeproxy.net
 ||friday.tw
 ||frienddy.com
-||friendfeed-media.com
 ||friendfeed.com
+||friendfeed-media.com
 ||friendfinder.com
 ||friends-of-tibet.org
 ||friendsoftibet.org
@@ -2074,8 +2075,8 @@
 ||gaozhisheng.org
 ||gardennetworks.com
 ||garudalinux.org
-||gate-project.com
 ||gate.io
+||gate-project.com
 ||gatecoin.com
 ||gather.com
 ||gatherproxy.com
@@ -2338,9 +2339,9 @@
 ||himemix.com
 ||himemix.net
 ||hindustantimes.com
+||hinet.net
 ||gamer-cds.cdn.hinet.net
 ||gamer2-cds.cdn.hinet.net
-||hinet.net
 ||hitbtc.com
 ||hitomi.la
 ||hizb-ut-tahrir.info
@@ -2478,6 +2479,7 @@
 ||hysteria.network
 
 !--------------------II-------------------------
+||idv.tw
 /^https?:\/\/(?:api\.)?ipify\.org/
 ||i-cable.com
 ||i-part.com.tw
@@ -2500,15 +2502,14 @@
 ||icl-fi.org
 ||icoco.com
 ||icu-project.org
+||id.taipei
 ||idaiwan.com
 ||idemocracy.asia
 ||idiomconnection.com
 ||idreamx.com
-||idv.tw
 ||ieasy5.com
 ||ied2k.net
 ||ienergy1.com
-||if.ttt
 ||ifanqiang.com
 ||ifcss.org
 ||ifjc.org
@@ -2541,8 +2542,8 @@
 ||immoral.jp
 ||impact.org.au
 ||impp.mn
-||in-disguise.com
 ||in.com
+||in-disguise.com
 ||in99.org
 ||incapdns.net
 ||incloak.com
@@ -2629,6 +2630,7 @@
 ||izihost.org
 ||izles.net
 ||izlesem.org
+||if.ttt
 
 !--------------------JJ-------------------------
 ||j.mp
@@ -2743,8 +2745,8 @@
 ||kaotic.com
 ||karayou.com
 ||karkhung.com
-||karmapa-teachings.org
 ||karmapa.org
+||karmapa-teachings.org
 ||kba-tx.org
 ||kebrum.com
 ||kechara.com
@@ -2863,9 +2865,9 @@
 ||lilaoshibushinilaoshi.com
 ||limelight.moe
 ||limiao.net
+||line.me
 ||line-apps.com
 ||line-scdn.net
-||line.me
 ||linglingfa.com
 ||lingualeo.com
 ||link-o-rama.com
@@ -2959,9 +2961,9 @@
 ||magic-net.info
 ||mahabodhi.org
 ||maiio.net
-||mail-archive.com
 ||cloud.mail.ru
 ||my.mail.ru
+||mail-archive.com
 ||cdn-images.mailchimp.com
 ||maildns.xyz
 ||mainichi.jp
@@ -3084,11 +3086,11 @@
 ||mimivv.com
 ||mindrolling.org
 ||mingdemedia.org
+||minghui.or.kr
+||minghui.org
 ||minghui-a.org
 ||minghui-b.org
 ||minghui-school.org
-||minghui.or.kr
-||minghui.org
 ||mingjinglishi.com
 ||mingjingnews.com
 ||mingjingtimes.com
@@ -3341,8 +3343,8 @@
 ||notepad-plus-plus.org
 ||notion.site
 ||novelasia.com
-||news.now.com
 ||now.com
+||news.now.com
 ||nownews.com
 ||noypf.com
 ||npa.go.jp
@@ -3429,8 +3431,8 @@
 ||onmoon.com
 ||onmoon.net
 ||onthehunt.com
-||open-assistant.io
 ||open.com.hk
+||open-assistant.io
 ||openai.com
 ||openallweb.com
 ||opendemocracy.net
@@ -3836,11 +3838,11 @@
 ||rosechina.net
 ||rotten.com
 ||rou.video
-||v.roucdn*.xyz
 ||roucdn.link
+||v.roucdn*.xyz
 ||rsdlmonitor.com
-||rsf-chinese.org
 ||rsf.org
+||rsf-chinese.org
 ||rsgamen.org
 ||phosphation13.rssing.com
 ||rthk.hk
@@ -3918,13 +3920,14 @@
 ||sendspace.com
 ||sensortower.com
 ||servehttp.com
+||service.taipei
 ||sesawe.net
 ||sesawe.org
 ||setn.com
 ||settv.com.tw
 ||sevenload.com
-||sex-11.com
 ||sex.com
+||sex-11.com
 ||sex3.com
 ||sex8.cc
 ||sexandsubmission.com
@@ -3943,12 +3946,12 @@
 ||shadeyouvpn.com
 ||shadow.ma
 ||shadowsky.xyz
-||shadowsocks-r.com
 ||shadowsocks.asia
 ||shadowsocks.be
 ||shadowsocks.com
 ||shadowsocks.com.hk
 ||shadowsocks.org
+||shadowsocks-r.com
 ||shafaqna.com
 ||shambalapost.com
 ||shambhalasun.com
@@ -4156,8 +4159,8 @@
 ||stepchina.com
 ||stephaniered.com
 ||ny.stgloballink.com
-||hd.stheadline.com
 ||stheadline.com
+||hd.stheadline.com
 ||sthoo.com
 ||stickam.com
 ||stickeraction.com
@@ -4184,8 +4187,8 @@
 ||stweetly.com
 ||substack.com
 ||successfn.com
-||panamapapers.sueddeutsche.de
 ||sueddeutsche.de
+||panamapapers.sueddeutsche.de
 ||sugarsync.com
 ||sugobbs.com
 ||suissl.com
@@ -4279,8 +4282,8 @@
 ||tbi.org.hk
 ||tbjyt.org
 ||tbrc.org
-||tbs-rainbow.org
 ||tbs.co.jp
+||tbs-rainbow.org
 ||tbsec.org
 ||tbsn.org
 ||tbsseattle.org
@@ -4363,12 +4366,6 @@
 ||tianti.io
 ||tiantibooks.org
 ||tianzhu.org
-||tibet-envoy.eu
-||tibet-foundation.org
-||tibet-house-trust.co.uk
-||tibet-info.net
-||tibet-initiative.de
-||tibet-munich.de
 ||tibet.at
 ||tibet.ca
 ||tibet.com
@@ -4379,11 +4376,17 @@
 ||tibet.org.tw
 ||tibet.sk
 ||tibet.to
+||tibet-envoy.eu
+||tibet-foundation.org
+||tibet-house-trust.co.uk
+||tibet-info.net
+||tibet-initiative.de
+||tibet-munich.de
 ||tibet3rdpole.org
 ||tibetaction.net
 ||tibetaid.org
-||tibetan-alliance.org
 ||tibetan.fr
+||tibetan-alliance.org
 ||tibetanaidproject.org
 ||tibetanarts.org
 ||tibetanbuddhistinstitute.org
@@ -4711,9 +4714,9 @@
 ||uvwxyz.xyz
 ||uwants.com
 ||uwants.net
+||uyghur.co.uk
 ||uyghur-archive.com
 ||uyghur-j.org
-||uyghur.co.uk
 ||uyghuramerican.org
 ||uyghurcanadiansociety.org
 ||uyghurcongress.org
@@ -4924,16 +4927,16 @@
 ||evchk.wikia.org
 ||wikibooks.org
 ||wikidata.org
-||wikileaks-forum.com
 ||wikileaks.ch
 ||wikileaks.com
 ||wikileaks.de
 ||wikileaks.org
+||wikileaks-forum.com
 ||wikimapia.org
 ||wikimedia.org
 ||wikinews.org
-||wikipedia-on-ipfs.org
 ||wikipedia.org
+||wikipedia-on-ipfs.org
 ||wikiquote.org
 ||wikisource.org
 ||wikiversity.org
@@ -4941,10 +4944,10 @@
 ||wikiwand.com
 ||wiktionary.org
 ||wildammo.com
+||williamhill.com
 ||casino.williamhill.com
 ||sports.williamhill.com
 ||vegas.williamhill.com
-||williamhill.com
 ||windscribe.com
 ||wingy.site
 ||winning11.com
@@ -4990,8 +4993,8 @@
 ||worldjournal.com
 ||worldpopulationreview.com
 ||worldvpn.net
-||wow-life.net
 ||wow.com
+||wow-life.net
 ||wowgirls.com
 ||wowhead.com
 ||wowlegacy.ml
@@ -5025,11 +5028,11 @@
 ||wxw.moe
 
 !--------------------XX-------------------------
+||x.ai
+||x.com
 ||x-art.com
 ||x-berry.com
 ||x-wall.org
-||x.ai
-||x.com
 ||x1949x.com
 ||x365x.com
 ||xaislam.com
@@ -5075,8 +5078,8 @@
 ||xlfmwz.info
 ||xm.com
 ||xmonk.net
-||xnxx-cdn.com
 ||xnxx.com
+||xnxx-cdn.com
 ||xpdo.net
 ||xrentdvd.com
 ||xsden.info
@@ -5089,9 +5092,9 @@
 ||xuite.net
 ||xuzhiyong.net
 ||xvideo.cc
-||xvideos-cdn.com
 ||xvideos.com
 ||xvideos.es
+||xvideos-cdn.com
 ||xvideos2.com
 ||xxlmovies.com
 ||xxx.com
@@ -5122,8 +5125,8 @@
 ||yecl.net
 ||yeeyi.com
 ||yegle.net
-||yes-news.com
 ||yes.xxx
+||yes-news.com
 ||yes123.com.tw
 ||yesasia.com
 ||yesasia.com.hk
@@ -5148,8 +5151,8 @@
 ||yomiuri.co.jp
 ||yong.hu
 ||yorkbbs.ca
-||you-get.org
 ||you.com
+||you-get.org
 ||youjizz.com
 ||youlucky.com
 ||youmaker.com
@@ -5260,7 +5263,6 @@
 ||crashlytics.com
 @@||firebase-settings.crashlytics.com
 @@||http2.golang.org
-@@||www.google-analytics.com
 @@||adservice.google.com
 @@||cache.pack.google.com
 @@||dl.google.com
@@ -5271,6 +5273,7 @@
 @@||tools.google.com
 @@||tools.l.google.com
 @@||www-googletagmanager.l.google.com
+@@||www.google-analytics.com
 @@||clientservices.googleapis.com
 @@||crashlyticsreports-pa.googleapis.com
 @@||emmapplecodevice.googleapis.com
@@ -5302,9 +5305,9 @@
 ||muscdn.com
 ||musical.ly
 ||tiktok.com
+||tiktokcdn.com
 ||tiktokcdn-eu.com
 ||tiktokcdn-us.com
-||tiktokcdn.com
 ||tiktokv.com
 ||tiktokv.us
 ||tiktokw.us
