@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-20 00:21:04 GMT+8
+! Last Modified: 2025-10-20 00:50:13 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1245,7 +1245,6 @@
 ||cdnews.com.tw
 ||cdns.com.tw
 ||cdp1989.org
-||cdp1998.org
 ||cdp2006.org
 ||cdpeu.org
 ||cdpusa.org
@@ -1279,7 +1278,6 @@
 ||chenpokong.com
 ||chenpokong.net
 ||chhongbi.org
-||chicagoncmtv.com
 ||china-review.com.ua
 ||china-week.com
 ||china101.com
@@ -1492,6 +1490,7 @@
 ||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
 ||culture.tw
+@@||event.culture.tw
 ||cumlouder.com
 ||cuntcrack.com
 ||curvefish.com
@@ -2940,7 +2939,6 @@
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
-||loc.gov
 ||localbitcoins.com
 ||localdomain.ws
 ||localpresshk.com
