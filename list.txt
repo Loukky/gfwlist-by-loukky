@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-20 02:04:53 GMT+8
+! Last Modified: 2025-10-20 02:10:01 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1489,6 +1489,7 @@
 ||ctwant.com
 ||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
+||searchapi.culture.tw
 ||tcmb.culture.tw
 ||tcmbdata.culture.tw
 ||tcmbfile.culture.tw
