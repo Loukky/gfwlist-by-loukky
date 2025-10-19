@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-19 16:28:58 GMT+8
+! Last Modified: 2025-10-19 19:03:35 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4898,6 +4898,7 @@
 ||webwarper.net
 ||weebly.com
 ||wefightcensorship.org
+||us.weibo.com
 ||weiboleak.com
 ||weihuo.org
 ||weijingsheng.org
@@ -5312,6 +5313,7 @@
 !--------------------tiktok---------------------
 ||byteoversea.com
 ||ibytedtos.com
+||lifeattiktok.com
 ||muscdn.com
 ||musical.ly
 ||tiktok.com
