@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-19 20:16:39 GMT+8
+! Last Modified: 2025-10-20 00:21:04 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -530,6 +530,7 @@
 @@||kmseh.gov.tw
 @@||matsucc.gov.tw
 ||metro.taipei
+@@||moc.gov.tw
 @@||moda.gov.tw
 @@||moe.gov.tw
 @@||gsn.nat.gov.tw
@@ -559,6 +560,7 @@
 ||heeact.edu.tw
 ||mbct.mlc.edu.tw
 ||npm.edu.tw
+||nqu.edu.tw
 ||cbs.ntu.edu.tw
 ||gcc.ntu.edu.tw
 ||char.iis.sinica.edu.tw
@@ -834,6 +836,7 @@
 ||aol.ca
 ||aol.co.uk
 ||aol.com
+||aolcdn.com
 ||aolnews.com
 ||aomiwang.com
 ||apartmentratings.com
@@ -988,6 +991,7 @@
 ||beric.me
 ||berlintwitterwall.com
 ||berm.co.nz
+||berrraka.com
 ||bestforchina.org
 ||bestgore.com
 ||bestpornstardb.com
@@ -1178,6 +1182,7 @@
 ||calgarychinese.ca
 ||calgarychinese.com
 ||cam4.com
+||cambridge-hotel.com.tw
 ||camfrog.com
 ||cams.com
 ||cams.org.sg
@@ -1238,6 +1243,7 @@
 ||cdjp.org
 ||cdn-apple.com
 ||cdnews.com.tw
+||cdns.com.tw
 ||cdp1989.org
 ||cdp1998.org
 ||cdp2006.org
@@ -1285,6 +1291,7 @@
 ||chinaaid.org
 ||chinaaid.us
 ||chinachange.org
+||chinachristiantimes.com
 ||chinacitynews.be
 ||chinacomments.org
 ||chinadialogue.net
@@ -1339,10 +1346,12 @@
 ||chinman.net
 ||chithu.org
 ||chn.chosun.com
+||cn.chosun.com
 ||cnnews.chosun.com
 ||chped.com
 ||chrdnet.com
 ||christianfreedom.org
+||christianpost.com
 ||christianstudy.com
 ||christiantimes.org.hk
 ||christusrex.org
@@ -1473,6 +1482,7 @@
 ||csw.org.uk
 ||ct.org.tw
 ||ctao.org
+||ctee.com.tw
 ||ctfriend.net
 ||ctinets.com
 ||ctinews.com
@@ -1488,6 +1498,7 @@
 ||cusu.hk
 ||cutscenes.net
 ||cw.com.tw
+||cwgv.com.tw
 ||cyberctm.com
 ||cyberghostvpn.com
 ||cynscribe.com
@@ -1541,7 +1552,6 @@
 ||dalianmeng.org
 ||daliulian.org
 ||danke4china.net
-||danwei.org
 ||daolan.net
 ||daozhongxing.org
 ||darktoy.net
@@ -1563,7 +1573,6 @@
 ||deepdiscount.com
 ||deezer.com
 ||definebabe.com
-||democrats.org
 ||demosisto.hk
 ||deno.com
 ||deno.dev
@@ -1585,6 +1594,7 @@
 ||diaoyuislands.org
 ||difangwenge.org
 ||digg.com
+||digitalarchives.tw
 ||digitalnomadsproject.org
 ||diigo.com
 ||dilber.se
@@ -1655,7 +1665,6 @@
 ||api.dropboxapi.com
 ||notify.dropboxapi.com
 ||dropboxusercontent.com
-||drsunacademy.com
 ||drtuber.com
 ||dscn.info
 ||dstk.dk
@@ -1742,7 +1751,6 @@
 ||elpais.com
 ||eltondisney.com
 ||embr.in
-||emilylau.org.hk
 ||bitc.bme.emory.edu
 ||empfil.com
 ||emule-ed2k.com
@@ -1925,7 +1933,7 @@
 ||filthdump.com
 ||financialexpress.com
 ||finchvpn.com
-||findbook.tw
+||findbooks.info
 ||findmespot.com
 ||findresultsquick.com
 ||findyoutube.com
@@ -2009,6 +2017,7 @@
 ||freenet-china.org
 ||freenetproject.org
 ||freenewscn.com
+||freenuts.com
 ||freeones.com
 ||freeopenvpn.com
 ||freeoz.org
@@ -2210,13 +2219,14 @@
 ||goodtv.com.tw
 ||goodtv.tv
 ||goofind.com
-||gopetition.com
 ||goproxing.net
 ||goregrish.com
 ||gospelherald.com
+||gospelherald.com.hk
 ||gotdns.ch
 ||gotporn.com
 ||gotrusted.com
+||govbooks.com.tw
 ||grandtrial.org
 ||grangorz.org
 ||graphis.ne.jp
@@ -2461,6 +2471,7 @@
 ||huangyiyu.com
 ||huaren.us
 ||huaren4us.com
+||huarenjie.com
 ||huashangnews.com
 ||huaxia-news.com
 ||huaxiabao.org
@@ -2528,7 +2539,6 @@
 ||ieasy5.com
 ||ied2k.net
 ||ienergy1.com
-||ifanqiang.com
 ||ifcss.org
 ||ifjc.org
 ||ift.tt
@@ -2930,6 +2940,7 @@
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
+||loc.gov
 ||localbitcoins.com
 ||localdomain.ws
 ||localpresshk.com
@@ -2938,7 +2949,6 @@
 ||logiqx.com
 ||secure.logmein.com
 ||londonchinese.ca
-||longhair.hk
 ||longmusic.com
 ||longtermly.net
 ||lookpic.com
@@ -3073,6 +3083,7 @@
 ||meridian-trust.org
 ||meripet.biz
 ||meripet.com
+||merit-times.com
 ||merit-times.com.tw
 ||merlinblog.xyz
 ||meshrep.com
@@ -3138,6 +3149,7 @@
 ||mirrorbooks.com
 ||mirrormedia.com.tw
 ||mirrormedia.mg
+||mirrormediagroup.com
 ||missav.com
 ||missav.ws
 ||mist.vip
@@ -3282,6 +3294,7 @@
 ||ndtv.com
 ||ned.org
 ||nengcard.com
+||neo.com.tw
 ||go.nesnode.com
 ||netbirds.com
 ||netflav.com
@@ -3442,7 +3455,6 @@
 ||olympicwatch.org
 ||omni7.jp
 ||omnitalk.com
-||cling.omy.sg
 ||on.cc
 ||one.one.one.one
 ||onejav.com
@@ -3537,7 +3549,7 @@
 ||patreon.com
 ||patreonusercontent.com
 ||paxful.com
-||video.pbs.org
+||pbs.org
 ||pbwiki.com
 ||pbxes.com
 ||pbxes.org
@@ -3642,6 +3654,7 @@
 ||popvote.hk
 ||popyard.com
 ||popyard.org
+||popyard.space
 ||porn.biz
 ||porn.com
 ||porn2.com
@@ -3859,6 +3872,7 @@
 ||v.rn*.xyz
 ||roadshow.hk
 ||roboforex.com
+||roc-taiwan.org
 ||rocket-inc.net
 ||rojo.com
 ||rolia.net
@@ -3941,6 +3955,7 @@
 ||seed4.me
 ||seehua.com
 ||seesmic.com
+||sef.org.tw
 ||sehuatang.net
 ||sehuatang.org
 ||sejie.com
@@ -4042,6 +4057,7 @@
 ||sinonet.ca
 ||sinopitt.info
 ||sinoquebec.com
+||sinovision.net
 ||sis.xxx
 ||sis001.com
 ||sis001.us
@@ -4057,6 +4073,7 @@
 ||skybet.com
 ||skyking.com.tw
 ||skykiwi.com
+||skylinktv.us
 ||skyvegas.com
 ||skyxvpn.com
 ||slandr.net
@@ -4127,6 +4144,7 @@
 ||soundofhope.kr
 ||soundofhope.org
 ||soundon.fm
+||soup-dev.com
 ||soupofmedia.com
 ||sourcewadio.com
 ||south-plus.net
@@ -4274,11 +4292,13 @@
 ||tagwalk.com
 ||taipeisociety.org
 ||taipeitimes.com
+||taiwan.net.tw
 ||taiwan-sex.com
 ||taiwanbible.com
 ||taiwancon.com
 ||taiwandaily.net
 ||taiwandc.org
+||taiwanembassy.org
 ||taiwanjustice.com
 ||taiwanjustice.net
 ||taiwankiss.com
@@ -4286,6 +4306,7 @@
 ||taiwannation.com.tw
 ||taiwanncf.org.tw
 ||taiwannews.com.tw
+||taiwanstay.net.tw
 ||taiwantp.net
 ||taiwantt.org.tw
 ||taiwanus.net
@@ -4324,6 +4345,7 @@
 ||tccwonline.org
 ||tcewf.org
 ||tchrd.org
+||tcmm.com.tw
 ||tcnynj.org
 ||tcpspeed.co
 ||tcpspeed.com
@@ -4339,6 +4361,7 @@
 ||teeniefuck.net
 ||teensinasia.com
 ||teepr.com
+||teldap.tw
 ||tenor.com
 ||tenzinpalmo.com
 ||terabox.com
@@ -4392,7 +4415,6 @@
 ||tiananmenduizhi.com
 ||tiananmenmother.org
 ||tiananmenuniv.com
-||tiananmenuniv.net
 ||tiandixing.org
 ||tianti.io
 ||tiantibooks.org
@@ -4475,6 +4497,7 @@
 ||tibettimes.net
 ||tibetwrites.org
 ||ticket.com.tw
+||tier.org.tw
 ||tigervpn.com
 ||timdir.com
 ||time.com
@@ -4600,9 +4623,7 @@
 ||twapperkeeper.com
 ||twaud.io
 ||twavi.com
-||twbbs.net.tw
 ||twbbs.org
-||twbbs.tw
 ||twblogger.com
 ||twcomix.com
 ||tweepguide.com
@@ -4732,6 +4753,7 @@
 ||urbandictionary.com
 ||urlparser.com
 ||us.to
+||usagm.gov
 ||usaip.eu
 ||dalailama.usc.edu
 ||usefreevpn.com
@@ -4826,6 +4848,7 @@
 ||vocn.tv
 ||voi.id
 ||vot.org
+||votetw.com
 ||vovo2000.com
 ||vox.com
 ||voxer.com
@@ -5114,6 +5137,7 @@
 ||xlfmtalk.com
 ||xlfmwz.info
 ||xm.com
+||xmart.tw
 ||xmonk.net
 ||xnxx.com
 ||xnxx-cdn.com
@@ -5157,6 +5181,7 @@
 ||yasukuni.or.jp
 ||yayabay.com
 ||news.ycombinator.com
+||ycrc.com.tw
 ||ydy.com
 ||yeahteentube.com
 ||yecl.net
