@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-19 19:03:35 GMT+8
+! Last Modified: 2025-10-19 20:16:39 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -676,6 +676,7 @@
 ||85st.com
 ||881903.com
 ||888.com
+||8964museum.com
 ||8news.com.tw
 ||8world.com
 ||8z1.net
@@ -774,6 +775,7 @@
 ||alliance.org.hk
 ||allinfa.com
 ||alljackpotscasino.com
+||allmovie.com
 ||almasdarnews.com
 ||alphaporno.com
 ||altrec.com
@@ -1360,6 +1362,7 @@
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
+||circle19.org
 ||circlethebayfortibet.org
 ||cirosantilli.com
 ||citizencn.com
@@ -1472,6 +1475,7 @@
 ||ctao.org
 ||ctfriend.net
 ||ctinets.com
+||ctinews.com
 ||ctitv.com.tw
 ||cts.com.tw
 ||ctwant.com
@@ -1564,6 +1568,7 @@
 ||deno.com
 ||deno.dev
 ||depositphotos.com
+||derpibooru.org
 ||desipro.de
 ||destroy-china.jp
 ||detroitnews.com
@@ -1922,6 +1927,7 @@
 ||finchvpn.com
 ||findbook.tw
 ||findmespot.com
+||findresultsquick.com
 ||findyoutube.com
 ||findyoutube.net
 ||fingerdaily.com
@@ -1944,6 +1950,7 @@
 ||flipboard.com
 ||flitto.com
 ||flog.tw
+||flowhongkong.net
 ||flyvpn.com
 ||flyzy2005.com
 ||cn.fmnnow.com
@@ -2208,6 +2215,7 @@
 ||goregrish.com
 ||gospelherald.com
 ||gotdns.ch
+||gotporn.com
 ||gotrusted.com
 ||grandtrial.org
 ||grangorz.org
@@ -2270,6 +2278,7 @@
 ||hakkatv.org.tw
 ||halktv.com.tr
 ||handcraftedsoftware.org
+||handelsblatt.com
 ||hanime.tv
 ||hanime1.me
 ||hanminzu.org
@@ -2543,6 +2552,7 @@
 ||imagezilla.net
 ||imago-images.com
 ||imb.org
+||imds-api.com
 ||img2go.com
 ||imgchili.net
 ||imgur.com
@@ -2753,6 +2763,7 @@
 ||kanzhongguo.eu
 ||kaotic.com
 ||karayou.com
+||kards.com
 ||karkhung.com
 ||karmapa.org
 ||karmapa-teachings.org
@@ -2834,6 +2845,7 @@
 ||www.lamenhu.com
 ||lamnia.co.uk
 ||lamrim.com
+||lantern.io
 ||lantosfoundation.org
 ||laogai.org
 ||laomiu.com
@@ -3065,6 +3077,7 @@
 ||merlinblog.xyz
 ||meshrep.com
 ||mesotw.com
+||meta.ai
 ||metacafe.com
 ||metacubex.one
 ||metart.com
@@ -3240,6 +3253,7 @@
 ||mywife.cc
 
 !--------------------NN-------------------------
+||n-tv.de
 ||nakido.com
 ||nakuz.com
 ||namgyal.org
@@ -3556,6 +3570,7 @@
 ||perfectvpn.net
 ||perplexity.ai
 ||persecutionblog.com
+||persgroep.net
 ||persiankitty.com
 ||pfd.org.hk
 ||phapluan.org
@@ -3787,6 +3802,7 @@
 ||ratx.com
 ||rawgit.com
 ||rawgithub.com
+||rawstory.com
 ||razyboard.com
 ||rb.gy
 ||rcinet.ca
@@ -3851,6 +3867,7 @@
 ||rou.video
 ||roucdn.link
 ||v.roucdn*.xyz
+||rri.ro
 ||rsdlmonitor.com
 ||rsf.org
 ||rsf-chinese.org
@@ -4068,6 +4085,7 @@
 ||soav.com
 ||soc.mil
 ||social.edu.ci
+||socialism.hk
 ||socks-proxy.net
 ||sockscap64.com
 ||sockslist.net
@@ -4183,6 +4201,7 @@
 ||stormmediagroup.com
 ||storry.tv
 ||straitstimes.com
+||straitstimes.com.sg
 ||stranabg.com
 ||straplessdildo.com
 ||streamable.com
@@ -4254,6 +4273,7 @@
 ||tagwa.org.au
 ||tagwalk.com
 ||taipeisociety.org
+||taipeitimes.com
 ||taiwan-sex.com
 ||taiwanbible.com
 ||taiwancon.com
@@ -4313,6 +4333,7 @@
 ||teamamericany.com
 ||techcrunch.com
 ||technews.tw
+||technorati.com
 ||teddysun.com
 ||teenfucks.org
 ||teeniefuck.net
@@ -4519,6 +4540,7 @@
 ||tsctv.net
 ||tsemtulku.com
 ||tsquare.tv
+||tssdnews.com.tw
 ||tsu.org.tw
 ||tt1069.com
 ||tttan.com
@@ -4570,6 +4592,7 @@
 ||tvider.com
 ||tvmost.com.hk
 ||tvplayvideos.com
+||tvr.ro
 ||tvunetworks.com
 ||tw-blog.com
 ||tw01.org
@@ -4728,6 +4751,7 @@
 ||uyghur.co.uk
 ||uyghur-archive.com
 ||uyghur-j.org
+||uyghuraa.org
 ||uyghuramerican.org
 ||uyghurcanadiansociety.org
 ||uyghurcongress.org
@@ -4900,6 +4924,7 @@
 ||wefightcensorship.org
 ||us.weibo.com
 ||weiboleak.com
+||weights.com
 ||weihuo.org
 ||weijingsheng.org
 ||weiming.info
