@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-20 00:50:13 GMT+8
+! Last Modified: 2025-10-20 01:33:38 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1489,8 +1489,7 @@
 ||ctwant.com
 ||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
-||culture.tw
-@@||event.culture.tw
+||tcmb.culture.tw
 ||cumlouder.com
 ||cuntcrack.com
 ||curvefish.com
@@ -2939,6 +2938,7 @@
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
+||readsopac.loc.gov
 ||localbitcoins.com
 ||localdomain.ws
 ||localpresshk.com
@@ -4305,6 +4305,7 @@
 ||taiwanncf.org.tw
 ||taiwannews.com.tw
 ||taiwanstay.net.tw
+||taiwantoday.tw
 ||taiwantp.net
 ||taiwantt.org.tw
 ||taiwanus.net
