@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-19 03:47:59 GMT+8
+! Last Modified: 2025-10-19 15:06:47 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -557,9 +557,11 @@
 !!---edu.tw----
 ||eq.ccu.edu.tw
 ||heeact.edu.tw
+||mbct.mlc.edu.tw
 ||npm.edu.tw
 ||cbs.ntu.edu.tw
 ||gcc.ntu.edu.tw
+||char.iis.sinica.edu.tw
 ||chardb.iis.sinica.edu.tw
 ||xiaoxue.iis.sinica.edu.tw
 ||class.tn.edu.tw
@@ -916,7 +918,6 @@
 ||azerimix.com
 ||azurewebsites.net
 ||a5.com.ru
-||tibet.a.se
 
 !--------------------BB-------------------------
 ||b-cdn.net
@@ -4372,6 +4373,7 @@
 ||tianti.io
 ||tiantibooks.org
 ||tianzhu.org
+||tibet.a.se
 ||tibet.at
 ||tibet.ca
 ||tibet.com
