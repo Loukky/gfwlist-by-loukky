@@ -64,6 +64,9 @@ jobs:
 
             // 关闭 issue：移除 unconfirmed 标签并添加 fixed 标签
             else if (action === "closed") {
+              const reason = issue.closed_reason; // "completed", "not_planned", "duplicate" 或 undefined
+
+              // 移除 unconfirmed 标签
               try {
                 await github.rest.issues.removeLabel({
                   owner: context.repo.owner,
@@ -75,15 +78,18 @@ jobs:
                 console.log("Remove label (maybe not present):", e.message || e);
               }
 
-              try {
-                await github.rest.issues.addLabels({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issueNumber,
-                  labels: ["fixed"]
-                });
-              } catch (e) {
-                console.log("Add label error (ignored):", e.message || e);
+              // 仅在真正完成修复时添加 fixed 标签
+              if (reason === "completed") {
+                try {
+                  await github.rest.issues.addLabels({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issueNumber,
+                    labels: ["fixed"]
+                  });
+                } catch (e) {
+                  console.log("Add label error (ignored):", e.message || e);
+                }
               }
             }
 
