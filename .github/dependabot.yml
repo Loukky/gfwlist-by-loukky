@@ -3,4 +3,8 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+      timezone: "Asia/Shanghai"
+      time: "07:00"
+    pull-request-branch-name:
+      separator: "-"
