@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Auto manage issue lifecycle
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
