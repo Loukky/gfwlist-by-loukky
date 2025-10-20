@@ -24,28 +24,30 @@ jobs:
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
-                    body: `感谢你提交 Issue！
+                    body: [
+                      "感谢你提交 Issue！",
+                      "",
+                      "请注意：",
+                      "- 该域名或网站已在多个网络环境下测试不能打开，但是境外主机却能打开；",
+                      "- 建议附上 dig/ping/mtr/curl 等测试截图或结果，方便我们复现问题；",
+                      "- 建议反馈时提供：网址 + 现象 + 您的 ISP + 其他帮助提示或看法；",
+                      "- 标题栏仅填写相关地址，不建议把所有内容都写在标题；",
+                      "- 如果有补充内容，请在我们回复前编辑修改；已回复的 Issue，请留言告诉我们修改内容，以避免遗漏。",
+                      "",
+                      "---",
+                      "",
+                      "Hi! Thanks for submitting an issue.",
+                      "",
+                      "Please note:",
+                      "- The domain or site has been tested from multiple networks and cannot be accessed in China, but is accessible from overseas;",
+                      "- It’s recommended to attach dig/ping/mtr/curl results or screenshots for reference;",
+                      "- When reporting, please provide: URL + symptom + your ISP + other helpful tips or comments;",
+                      "- Only include the relevant address in the title; don’t try to put all information in the title;",
+                      "- If you have additional information, edit it before we reply; for issues we have already replied to, leave a comment to notify us of changes to avoid missing updates.",
+                      "",
+                      "Thank you for helping us keep the list accurate!"
+                    ].join("\n")
 
-                    请注意：
-                    - 该域名或网站已在多个网络环境下测试不能打开，但是境外主机却能打开；
-                    - 建议附上 dig/ping/mtr/curl 等测试截图或结果，方便我们复现问题；
-                    - 建议反馈时提供：网址 + 现象 + 您的 ISP + 其他帮助提示或看法；
-                    - 标题栏仅填写相关地址，不建议把所有内容都写在标题；
-                    - 如果有补充内容，请在我们回复前编辑修改；已回复的 Issue，请留言告诉我们修改内容，以避免遗漏。
-
-                    ---
-
-                    Hi! Thanks for submitting an issue.
-
-                    Please note:
-                    - The domain or site has been tested from multiple networks and cannot be accessed in China, but is accessible from overseas;
-                    - It’s recommended to attach dig/ping/mtr/curl results or screenshots for reference;
-                    - When reporting, please provide: URL + symptom + your ISP + other helpful tips or comments;
-                    - Only include the relevant address in the title; don’t try to put all information in the title;
-                    - If you have additional information, edit it before we reply; for issues we have already replied to, leave a comment to notify us of changes to avoid missing updates.
-
-                    Thank you for helping us keep the list accurate!
-                    `
                     });
 
               try {
@@ -91,11 +93,13 @@ jobs:
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
-                body: ` 此 Issue 已重新开启，请确认该域名或网站是否仍被屏蔽。
-
-                ---
-
-                 This issue has been reopened. Please confirm if the domain or site is still blocked.`
+                body: [
+                "此 Issue 已重新开启，请确认该域名或网站是否仍被屏蔽。",
+                "",
+                "---",
+                "",
+                "This issue has been reopened. Please confirm if the domain or site is still blocked."
+                ].join("\n")
               });
 
               try {
