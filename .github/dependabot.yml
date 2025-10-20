@@ -8,3 +8,4 @@ updates:
       time: "07:00"
     pull-request-branch-name:
       separator: "-"
+    target-branch: "master"
