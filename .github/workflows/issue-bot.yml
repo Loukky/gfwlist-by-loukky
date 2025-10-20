@@ -26,7 +26,7 @@ jobs:
                 "请在反馈前确认以下几点：",
                 "- ✅ 该域名或网站已在多个网络环境下（例如移动/联通/电信、境外网络）测试，确实被 GFW 屏蔽；",
                 "- 🧩 如果只是暂时性访问异常，请先多次测试确认；",
-                "- 🌐 建议附上 dig/ping/mtr 等测试截图或结果，以便我们复现问题。",
+                "- 🌐 建议附上 dig/ping/mtr/curl 等测试截图或结果，以便我们复现问题。",
                 "",
                 "---",
                 "",
@@ -36,7 +36,7 @@ jobs:
                 "Before reporting, please make sure:",
                 "- ✅ The domain or site has been tested from multiple networks (e.g., China Mobile/Unicom/Telecom and abroad) and is truly blocked by GFW;",
                 "- 🧩 If it’s only a temporary connection failure, please double-check it several times;",
-                "- 🌐 It’s recommended to attach dig/ping/mtr results or screenshots for reference.",
+                "- 🌐 It’s recommended to attach dig/ping/mtr/curl results or screenshots for reference.",
                 "",
                 "Thank you for helping us keep the GFWList accurate! 🙏"
               ].join("\n");
