@@ -2,7 +2,7 @@ name: Issue Auto Management
 
 on:
   issues:
-    types: [opened, closed]
+    types: [opened, closed, reopened]
 
 jobs:
   handle-issues:
@@ -15,33 +15,31 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const issue = context.payload.issue;
+            const action = context.payload.action;
             const issueNumber = issue.number;
 
-            // === 1️⃣ 新建 Issue ===
-            if (context.payload.action === "opened") {
-              console.log(`New issue #${issueNumber} detected.`);
-
-              // 自动回复
-              const message = `
-👋 感谢你提交 Issue！
-
-请在反馈前确认以下几点：
-- ✅ 该域名或网站已在多个网络环境下（例如移动/联通/电信、境外网络）测试，确实被 GFW 屏蔽；
-- 🧩 如果只是暂时性访问异常，请先多次测试确认；
-- 🌐 建议附上 dig/ping/mtr 等测试截图或结果，以便我们复现问题。
-
----
-
-**English:**
-Hi! Thanks for submitting an issue.
-
-Before reporting, please make sure:
-- ✅ The domain or site has been tested from multiple networks (e.g., China Mobile/Unicom/Telecom and abroad) and is truly blocked by GFW;
-- 🧩 If it’s only a temporary connection failure, please double-check it several times;
-- 🌐 It’s recommended to attach dig/ping/mtr results or screenshots for reference.
-
-Thank you for helping us keep the GFWList accurate! 🙏
-`;
+            // 新建 issue：回复并打 unconfirmed 标签
+            if (action === "opened") {
+              const message = [
+                "感谢你提交 Issue！",
+                "",
+                "请在反馈前确认以下几点：",
+                "- ✅ 该域名或网站已在多个网络环境下（例如移动/联通/电信、境外网络）测试，确实被 GFW 屏蔽；",
+                "- 🧩 如果只是暂时性访问异常，请先多次测试确认；",
+                "- 🌐 建议附上 dig/ping/mtr 等测试截图或结果，以便我们复现问题。",
+                "",
+                "---",
+                "",
+                "English:",
+                "Hi! Thanks for submitting an issue.",
+                "",
+                "Before reporting, please make sure:",
+                "- ✅ The domain or site has been tested from multiple networks (e.g., China Mobile/Unicom/Telecom and abroad) and is truly blocked by GFW;",
+                "- 🧩 If it’s only a temporary connection failure, please double-check it several times;",
+                "- 🌐 It’s recommended to attach dig/ping/mtr results or screenshots for reference.",
+                "",
+                "Thank you for helping us keep the GFWList accurate! 🙏"
+              ].join("\n");
 
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
@@ -50,28 +48,45 @@ Thank you for helping us keep the GFWList accurate! 🙏
                 body: message
               });
 
-              // 添加 unconfirmed 标签
-              await github.rest.issues.addLabels({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issueNumber,
-                labels: ["unconfirmed"]
-              });
+              // 添加 unconfirmed 标签（如果已有则忽略错误）
+              try {
+                await github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issueNumber,
+                  labels: ["unconfirmed"]
+                });
+              } catch (e) {
+                // 忽略已存在标签等错误
+                console.log("Add label error (ignored):", e.message || e);
+              }
             }
 
-            // === 2️⃣ Issue 被关闭 ===
-            else if (context.payload.action === "closed") {
-              console.log(`Issue #${issueNumber} closed.`);
-
-              // 如果 issue 是被真正关闭（不是重新打开）
-              if (!issue.state_reason || issue.state_reason !== "reopened") {
+            // 关闭 issue：添加 fixed 标签
+            else if (action === "closed") {
+              try {
                 await github.rest.issues.addLabels({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   issue_number: issueNumber,
                   labels: ["fixed"]
                 });
+              } catch (e) {
+                console.log("Add label error (ignored):", e.message || e);
+              }
+            }
 
-                console.log(`Added 'fixed' label to issue #${issueNumber}.`);
+            // 重新打开 issue：移除 fixed 标签（如果存在）
+            else if (action === "reopened") {
+              try {
+                await github.rest.issues.removeLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issueNumber,
+                  name: "fixed"
+                });
+              } catch (e) {
+                // 如果标签不存在会报 404，忽略
+                console.log("Remove label (maybe not present):", e.message || e);
               }
             }
