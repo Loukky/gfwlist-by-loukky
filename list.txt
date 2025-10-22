@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-20 19:46:18 GMT+8
+! Last Modified: 2025-10-22 20:53:01 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1628,6 +1628,7 @@
 ||dnssec.net
 ||docker.com
 ||docker.io
+||dockerstatus.com
 ||doctorvoice.org
 ||documentingreality.com
 ||dogfartnetwork.com
