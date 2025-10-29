@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-30 00:46:50 GMT+8
+! Last Modified: 2025-10-30 03:16:23 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -269,6 +269,7 @@
 ||chrome.com
 ||chromecast.com
 ||chromeenterprise.google
+||chromeos.google
 ||chromercise.com
 ||cloudpartnerservices.goog
 ||com.google
@@ -295,6 +296,7 @@
 ||g.co
 ||g-desktop.ru
 ||gcr.io
+||gemini.google
 ||get.app
 ||get.dev
 ||get.how
@@ -407,16 +409,19 @@
 ||gvideo.de
 ||gvt0.com
 ||gwave.com
+||health.google
 ||iam.soy
 ||io.google
 ||itasoftware.com
 ||labs.google
 ||mypicasa.com
+||notebooklm.google
 ||on2.com
 ||opensource.google
 ||panoramio.com
 ||picasaweb.com
 ||pki.goog
+||play.google
 ||quantumai.google
 ||questvisual.com
 ||admin.recaptcha.net
@@ -429,6 +434,7 @@
 ||savethedate.foo
 ||schema.org
 ||share.google
+||sidewalklabs.com
 ||simtransfer.goog
 ||sipml5.org
 ||skintone.google
@@ -587,6 +593,7 @@
 ||10beasts.net
 ||10conditionsoflove.com
 ||10musume.com
+||i.111666.best
 ||123rf.com
 ||12bet.com
 ||1337x.to
@@ -614,6 +621,7 @@
 ||1bao.org
 ||1eew.com
 ||1lib.domains
+||1lib.sk
 ||1pondo.tv
 ||2-hand.info
 ||2008xianzhang.info
@@ -4273,6 +4281,7 @@
 ||suyangg.com
 ||svsfx.com
 ||swapspace.co
+||swiffy.co.za
 ||swissinfo.ch
 ||swissvpn.net
 ||switch1.jp
@@ -5263,7 +5272,9 @@
 !--------------------ZZ-------------------------
 ||zenmate.com.ru
 ||z-lib.fm
+||z-lib.fo
 ||z-lib.gd
+||z-lib.gl
 ||z-library.ec
 ||z-library.sk
 ||zacebook.com
