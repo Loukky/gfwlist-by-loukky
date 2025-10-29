@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-22 20:53:01 GMT+8
+! Last Modified: 2025-10-30 00:46:50 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -696,6 +696,7 @@
 !--------------------AA-------------------------
 ||a5vpn.com
 ||aamacau.com
+||aastocks.com
 ||abc.com
 ||abc.net.au
 ||abebooks.com
@@ -2221,6 +2222,7 @@
 ||goodreads.com
 ||goodtv.com.tw
 ||goodtv.tv
+||goody25.com
 ||goofind.com
 ||goproxing.net
 ||goregrish.com
@@ -2409,6 +2411,7 @@
 ||hklft.com
 ||hklts.org.hk
 ||hkmap.live
+||hkong.hk
 ||hkpeanut.com
 ||hkptu.org
 ||hkreadingcity.net
@@ -4805,6 +4808,7 @@
 ||vansky.com
 ||vaticannews.va
 ||vatn.org
+||vct.news
 ||vegasred.com
 ||velkaepocha.sk
 ||venchina.com
