@@ -21,7 +21,15 @@ jobs:
         uses: actions/ai-inference@v1
         with:
           prompt: |
-            Summarize the following GitHub issue in one paragraph:
+            Please summarize the following GitHub issue in one paragraph, using both Chinese and English.
+            Please output in the following format:
+
+            **English Summary**
+            <English summary here>
+
+            **中文总结**
+            <中文总结内容>
+            
             Title: ${{ github.event.issue.title }}
             Body: ${{ github.event.issue.body }}
 
