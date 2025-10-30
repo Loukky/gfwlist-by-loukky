@@ -18,7 +18,7 @@ jobs:
 
       - name: Run AI inference
         id: inference
-        uses: actions/ai-inference@v1
+        uses: actions/ai-inference@v2
         with:
           prompt: |
             Please summarize the following GitHub issue in one paragraph, using both Chinese and English.
