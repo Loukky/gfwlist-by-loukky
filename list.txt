@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-10-30 03:34:26 GMT+8
+! Last Modified: 2025-11-02 03:59:50 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3163,6 +3163,7 @@
 ||mirrormedia.com.tw
 ||mirrormedia.mg
 ||mirrormediagroup.com
+||missav.ai
 ||missav.com
 ||missav.ws
 ||mist.vip
@@ -3656,6 +3657,7 @@
 ||plusbb.com
 ||pmatehunter.com
 ||pmates.com
+||po18.tw
 ||pobieramy.top
 ||podcast.app
 ||poe.com
