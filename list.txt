@@ -1705,7 +1705,6 @@
 ||dynawebinc.com
 ||dysfz.cc
 ||dzze.com
-||gloryhole.com
 
 !--------------------EE-------------------------
 /twimg\.edgesuite\.net\/\/?appledaily/
@@ -1761,7 +1760,6 @@
 ||elpais.com
 ||eltondisney.com
 ||embr.in
-||bitc.bme.emory.edu
 ||empfil.com
 ||emule-ed2k.com
 ||emulefans.com
@@ -3397,7 +3395,6 @@
 ||notion.site
 ||novelasia.com
 ||now.com
-||news.now.com
 ||nownews.com
 ||noypf.com
 ||npa.go.jp
@@ -3706,7 +3703,6 @@
 ||powerapple.com
 ||powerphoto.org
 ||pp.ru
-||xfm.pp.ru
 ||prayforchina.net
 ||premeforwindows7.com
 ||premproxy.com
@@ -3764,7 +3760,6 @@
 ||punjab.gov.pk
 ||punyu.com
 ||api.pureapk.com
-||pureinsight.org
 ||pureinsight.org
 ||purevpn.com
 ||purplelotus.org
@@ -4287,7 +4282,6 @@
 ||sydneytoday.com
 ||sylfoundation.org
 ||syosetu.com
-||sytes.net
 ||sytes.net
 ||sz.de
 ||szbbs.net
