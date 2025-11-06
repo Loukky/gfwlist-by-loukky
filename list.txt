@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-11-06 01:50:26 GMT+8
+! Last Modified: 2025-11-06 15:14:49 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1056,6 +1056,7 @@
 ||bjnewlife.org
 ||bjs.org
 ||bjzc.org
+||bktai.com
 ||bl-doujinsouko.com
 ||blackvpn.com
 ||blewpass.com
