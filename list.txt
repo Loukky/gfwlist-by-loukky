@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-11-15 00:37:53 GMT+8
+! Last Modified: 2025-11-15 16:55:47 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -654,6 +654,7 @@
 ||500px.org
 ||50webs.com
 ||51.ca
+||51cg1.com
 ||51jav.org
 ||51luoben.com
 ||5278.cc
@@ -1251,7 +1252,6 @@
 ||cdef.org
 ||cdig.info
 ||cdjp.org
-||cdn-apple.com
 ||cdnews.com.tw
 ||cdns.com.tw
 ||cdp1989.org
