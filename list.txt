@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-11-19 21:04:06 GMT+8
+! Last Modified: 2025-11-19 21:15:51 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1419,7 +1419,6 @@
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
-||cloudflarestatus.com
 ||cloudfunctions.net
 ||cloudokyo.cloud
 ||club1069.com
@@ -5422,3 +5421,5 @@
 ||xn--i2ru8q2qg.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--u2u927b.com
+!------------------Misc------------------
+/^https?:\/\/cloudflarestatus\.com/
