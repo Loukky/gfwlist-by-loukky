@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-11-19 12:50:10 GMT+8
+! Last Modified: 2025-11-19 19:56:13 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -253,6 +253,7 @@
 ||android.com
 ||androidify.com
 ||androidtv.com
+||antigravity.google
 ||api.ai
 ||appspot.com
 ||bg-call-donation.goog
@@ -272,6 +273,7 @@
 ||chromeos.google
 ||chromercise.com
 ||cloudpartnerservices.goog
+||colab.google
 ||com.google
 ||crbug.com
 ||crrev.com
@@ -286,6 +288,7 @@
 ||dmarcnetworks.com
 ||dns.google
 ||domains.google
+||doodles.google
 ||enterprisedemo-google.com
 ||enterprisedemogoogle.org
 ||enterprisemarketingportal.google
@@ -414,6 +417,7 @@
 ||io.google
 ||itasoftware.com
 ||labs.google
+||lens.google
 ||mypicasa.com
 ||notebooklm.google
 ||on2.com
@@ -433,6 +437,7 @@
 ||safety.google
 ||savethedate.foo
 ||schema.org
+||search.google
 ||share.google
 ||sidewalklabs.com
 ||simtransfer.goog
@@ -440,6 +445,7 @@
 ||skintone.google
 ||sre.google
 ||stories.google
+||sustainability.google
 ||swbusdev.com
 ||syndicatedsearch.goog
 ||synergyse.com
@@ -453,6 +459,7 @@
 ||tv.google
 ||urchin.com
 ||usercontent.goog
+||wallet.google
 ||waymo.com
 ||web.dev
 ||webmproject.org
@@ -836,7 +843,6 @@
 ||anthropic.com
 ||anti1984.com
 ||antichristendom.com
-||antigravity.google
 ||antisocial.science
 ||antiwave.net
 ||anyporn.com
@@ -2908,6 +2914,7 @@
 ||liaowangxizang.net
 ||liberal.org.hk
 ||libertytimes.com.tw
+||library-access.sk
 ||libraryinformationtechnology.com
 ||lidecheng.com
 ||lighten.org.tw
