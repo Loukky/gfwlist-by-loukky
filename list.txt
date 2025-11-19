@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-11-19 19:56:13 GMT+8
+! Last Modified: 2025-11-19 21:04:06 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -263,6 +263,7 @@
 ||blog.google
 ||blogblog.com
 ||blogspot.com
+||built-in.google
 ||business.site
 ||businessmessages.google
 ||c.gle
@@ -276,6 +277,7 @@
 ||colab.google
 ||com.google
 ||crbug.com
+||crisisresponse.google
 ||crrev.com
 ||data-vocabulary.org
 ||debug.com
@@ -417,6 +419,7 @@
 ||io.google
 ||itasoftware.com
 ||labs.google
+||learning.google
 ||lens.google
 ||mypicasa.com
 ||notebooklm.google
@@ -426,6 +429,7 @@
 ||picasaweb.com
 ||pki.goog
 ||play.google
+||publicpolicy.google
 ||quantumai.google
 ||questvisual.com
 ||admin.recaptcha.net
@@ -456,6 +460,7 @@
 ||thinkwithgoogle.com
 ||tiltbrush.com
 ||translate.goog
+||transparency.google
 ||tv.google
 ||urchin.com
 ||usercontent.goog
@@ -1414,6 +1419,7 @@
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
+||cloudflarestatus.com
 ||cloudfunctions.net
 ||cloudokyo.cloud
 ||club1069.com
