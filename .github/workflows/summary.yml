@@ -30,8 +30,11 @@ jobs:
             **中文总结**
             <中文总结内容>
             
-            Title: ${{ github.event.issue.title }}
-            Body: ${{ github.event.issue.body }}
+            Issue Title:
+            "${{ github.event.issue.title }}"
+
+            Issue Body:
+            "${{ github.event.issue.body || '(No description provided)' }}"
 
       - name: Comment with AI summary
         run: |
