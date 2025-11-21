@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-11-20 16:40:34 GMT+8
+! Last Modified: 2025-11-21 22:27:34 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4266,6 +4266,7 @@
 ||stranabg.com
 ||straplessdildo.com
 ||streamable.com
+||streamate.com
 ||streema.com
 ||strikingly.com
 ||strongvpn.com
@@ -4304,6 +4305,7 @@
 ||surfshark.com
 ||suyangg.com
 ||svsfx.com
+||swag.live
 ||swapspace.co
 ||swiffy.co.za
 ||swissinfo.ch
