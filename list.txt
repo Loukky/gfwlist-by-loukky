@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-12-19 18:29:45 GMT+8
+! Last Modified: 2025-12-22 21:43:37 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -486,17 +486,6 @@
 ||zdns.google
 ||zynamics.com
 
-!!---NYTimes---
-||nyt.com
-||static01.nyt.com
-||nytchina.com
-||nytcn.me
-||nytco.com
-||nyti.ms
-||nytimes.com
-||nytimg.com
-||nytstyle.com
-
 !!---Steam---
 ||steambroadcast.akamaized.net
 ||steamcommunity.com
@@ -504,6 +493,7 @@
 ||login.steampowered.com
 |http://store.steampowered.com
 ||steamstatic.com
+
 !!---Telegram---
 !!!---Domain---
 ||cdn-telegram.org
@@ -518,17 +508,6 @@
 ||telegramdownload.com
 ||telesco.pe
 ||tx.me
-
-!!---Twitter---
-||periscope.tv
-||pscp.tv
-||t.co
-||tweetdeck.com
-||twimg.com
-||twitpic.com
-||twitter.com
-||twitter.jp
-||vine.co
 
 !!---Taiwan---
 ||gov.tw
@@ -2279,6 +2258,7 @@
 ||greenvpn.org
 ||grindr.com
 ||grok.com
+||grokipedia.com
 ||grotty-monday.com
 ||gstf.org
 ||gts-vpn.com
@@ -3463,6 +3443,15 @@
 ||nylon-angel.com
 ||nylonstockingsonline.com
 ||nypost.com
+||nyt.com
+||static01.nyt.com
+||nytchina.com
+||nytcn.me
+||nytco.com
+||nyti.ms
+||nytimes.com
+||nytimg.com
+||nytstyle.com
 ||nzchinese.com
 ||nzchinese.net.nz
 
@@ -3627,6 +3616,7 @@
 ||percy.in
 ||perfectgirls.net
 ||perfectvpn.net
+||periscope.tv
 ||perplexity.ai
 ||persecutionblog.com
 ||persgroep.net
@@ -3771,6 +3761,7 @@
 ||proxytunnel.net
 ||prozz.net
 ||psblog.name
+||pscp.tv
 ||psiphon.ca
 ||psiphon3.com
 ||psiphontoday.com
@@ -4325,6 +4316,7 @@
 ||siteks.uk.to
 
 !--------------------TT-------------------------
+||t.co
 ||t35.com
 ||t35hosting.com
 ||t66y.com
@@ -4683,6 +4675,7 @@
 ||tweetboard.com
 ||tweetboner.biz
 ||tweetcs.com
+||tweetdeck.com
 ||tweetedtimes.com
 ||tweetmylast.fm
 ||tweetphoto.com
@@ -4704,6 +4697,7 @@
 ||twifan.com
 ||twilog.org
 ||twimbow.com
+||twimg.com
 ||twindexx.com
 ||twip.me
 ||twipple.jp
@@ -4718,7 +4712,10 @@
 ||twitmania.com
 ||twitoaster.com
 ||twitonmsn.com
+||twitpic.com
 ||twittbot.net
+||twitter.com
+||twitter.jp
 ||twitter4j.org
 ||twittercounter.com
 ||twitterfeed.com
@@ -4874,6 +4871,7 @@
 ||vimeo.com
 ||vimeocdn.com
 ||vincnd.com
+||vine.co
 ||vip-enterprise.com
 ||virtualrealporn.com
 ||visibletweets.com
