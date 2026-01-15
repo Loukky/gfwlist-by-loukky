@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2025-12-22 21:43:37 GMT+8
+! Last Modified: 2026-01-16 01:01:48 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -245,6 +245,7 @@
 ||agnss.goog
 ||agoogleaday.com
 ||ai.google
+||ai.studio
 |http://ampproject.org
 |https://ampproject.org
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
@@ -829,6 +830,7 @@
 ||antichristendom.com
 ||antisocial.science
 ||antiwave.net
+||anuneko.com
 ||anyporn.com
 ||anysex.com
 ||aobo.com.au
@@ -1580,8 +1582,6 @@
 ||deezer.com
 ||definebabe.com
 ||demosisto.hk
-||deno.com
-||deno.dev
 ||depositphotos.com
 ||derpibooru.org
 ||desipro.de
@@ -2246,6 +2246,7 @@
 ||great-firewall.com
 ||great-roc.org
 ||greatfire.org
+||greatfirevpn.com
 ||greatfirewall.biz
 ||greatfirewallofchina.org
 ||greatroc.org
@@ -2544,6 +2545,7 @@
 ||icoco.com
 ||icu-project.org
 ||idaiwan.com
+||idcflare.com
 ||idemocracy.asia
 ||idiomconnection.com
 ||idreamx.com
@@ -2709,6 +2711,7 @@
 ||jex.com
 ||jfqu36.club
 ||jfqu37.xyz
+||jhelab.org
 ||jiangweiping.com
 ||jiehua.cz
 ||jieshibaobao.com
@@ -2975,6 +2978,7 @@
 ||lotuslight.org.hk
 ||lotuslight.org.tw
 ||loukky.com
+||lovart.ai
 ||lpsg.com
 ||lrfz.com
 ||lrip.org
@@ -3318,6 +3322,7 @@
 ||ned.org
 ||nengcard.com
 ||neo.com.tw
+||nephobox.com
 ||go.nesnode.com
 ||netbirds.com
 ||netflav.com
@@ -3504,6 +3509,8 @@
 ||onmoon.com
 ||onmoon.net
 ||onthehunt.com
+||ooni.io
+||ooni.org
 ||open.com.hk
 ||open-assistant.io
 ||openai.com
@@ -3599,6 +3606,7 @@
 ||pcstore.com.tw
 ||pct.org.tw
 ||pdproxy.com
+||pdst.fm
 ||peacefire.org
 ||peacehall.com
 ||peeasian.com
@@ -3632,6 +3640,7 @@
 ||piaotia.com
 ||picacomic.com
 ||picidae.net
+||picsart.com
 ||picturedip.com
 ||picturesocial.com
 ||pimg.tw
@@ -3678,6 +3687,7 @@
 ||pmates.com
 ||po18.tw
 ||pobieramy.top
+||static.pocketcasts.com
 ||podcast.app
 ||poe.com
 ||pokerstars.com
@@ -3827,9 +3837,11 @@
 !--------------------RR-------------------------
 ||ra.gg
 ||radicalparty.org
+||radio.co
 ||radio-canada.ca
 ||radioaustralia.net.au
 ||radiohilight.net
+||radiojar.com
 ||opml.radiotime.com
 ||radiovaticana.org
 ||rael.org
@@ -4237,6 +4249,7 @@
 ||statsig.com
 ||statueofdemocracy.org
 ||stboy.net
+||steamladder.com
 ||steemit.com
 ||steganos.com
 ||steganos.net
@@ -4786,6 +4799,7 @@
 ||untraceable.us
 ||unwire.hk
 ||uocn.org
+||up.audio
 ||tor.updatestar.com
 ||upholdjustice.org
 ||upload4u.info
@@ -5045,6 +5059,7 @@
 ||wikipedia-on-ipfs.org
 ||wikiquote.org
 ||wikisource.org
+||wikiunblocked.org
 ||wikiversity.org
 ||wikivoyage.org
 ||wikiwand.com
@@ -5144,6 +5159,7 @@
 ||xbookcn.com
 ||xbtce.com
 ||xcafe.in
+||xcancel.com
 ||xchina.co
 ||xcity.jp
 ||xcritic.com
