@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-01-16 01:01:48 GMT+8
+! Last Modified: 2026-01-17 15:46:23 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -815,7 +815,10 @@
 ||animeshippuuden.com
 ||animezilla.com
 ||aniscartujo.com
+||annas-archive.in
+||annas-archive.li
 ||annas-archive.org
+||annas-archive.pm
 ||annas-archive.se
 ||anobii.com
 ||anontext.com
