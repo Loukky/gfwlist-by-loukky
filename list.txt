@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-08 21:43:21 GMT+8
+! Last Modified: 2026-02-08 21:47:37 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2466,6 +2466,7 @@
 ||house.gov
 ||hoxx.com
 ||bbs-api-os.hoyolab.com
+||bbs-api-os-static.hoyolab.com
 ||www.hoyolab.com
 ||hqcdp.org
 ||hqjapanesesex.com
