@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-08 21:47:37 GMT+8
+! Last Modified: 2026-02-11 15:39:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3289,6 +3289,9 @@
 ||mymediarom.com
 ||mymusic.net.tw
 ||myparagliding.com
+||access.mypikpak.com
+||api-drive.mypikpak.com
+||access.mypikpak.net
 ||mypopescu.com
 ||myradio.hk
 ||myreadingmanga.info
@@ -3650,6 +3653,8 @@
 ||picsart.com
 ||picturedip.com
 ||picturesocial.com
+||access.pikpak.me
+||access.pikpakdrive.com
 ||pimg.tw
 ||pin-cong.com
 ||pincong.rocks
