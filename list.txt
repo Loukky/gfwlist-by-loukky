@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-14 22:16:05 GMT+8
+! Last Modified: 2026-02-15 01:59:18 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -231,13 +231,14 @@
 |http://ampproject.org
 |https://ampproject.org
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
-@@|https://cdn.ampproject.org/
+@@|https://cdn.ampproject.org
 @@||www.ampproject.org
 ||android.com
 ||androidify.com
 ||androidtv.com
 ||antigravity.google
 ||api.ai
+||apigee.com
 ||appspot.com
 ||bg-call-donation.goog
 ||bg-call-donation-alpha.goog
@@ -257,7 +258,10 @@
 ||chromeos.google
 ||chromercise.com
 ||chromestatus.com
+/^https?:\/\/chronicle\.security/
+||cloud.run
 ||cloudpartnerservices.goog
+||cloudskillsboost.google
 ||colab.google
 ||crbug.com
 ||crisisresponse.google
@@ -503,6 +507,7 @@
 ||googleblog.com
 ||googlebot.com
 ||googlechinawebmaster.com
+/^https?:\/\/googlecloudcommunity\.com/
 ||googlecode.com
 ||googlecommerce.com
 ||googledomains.com
@@ -552,6 +557,7 @@
 ||panoramio.com
 ||picasa.com
 ||picasaweb.com
+||pittpatt.com
 ||pki.goog
 ||play.google
 ||publicpolicy.google
@@ -952,7 +958,6 @@
 ||apartmentratings.com
 ||apartments.com
 ||apetube.com
-||apigee.com
 ||apk.tw
 ||apk-dl.com
 ||apkcombo.com
@@ -2160,6 +2165,7 @@
 ||glock.com
 ||gloryhole.com
 ||glorystar.me
+||gmgn.ai
 ||gmiddle.com
 ||gmiddle.net
 ||gmll.org
@@ -4620,6 +4626,7 @@
 ||wahas.com
 ||waikeung.org
 ||wailaike.net
+||walletconnect.org
 ||wallhaven.cc
 ||wallmama.com
 ||wallproxy.com
