@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-11 23:20:34 GMT+8
+! Last Modified: 2026-02-14 21:49:32 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -13,6 +13,10 @@
 ! contact us regarding URL submission / removal,
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/Loukky/gfwlist-by-loukky/issues
+
+!##############General List Start###############
+
+!---------------------Groups--------------------
 
 !--prime video
 ||aiv-cdn.net
@@ -31,23 +35,6 @@
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-!##############General List Start###############
-!-------------------Pure IP---------------------
-14.102.250.18
-14.102.250.19
-163.29.207.130
-174.142.105.153
-213.186.33.19
-213.186.33.87
-50.7.31.230:8898
-69.65.19.160
-
-!---------------------Groups--------------------
-
-!!--IP of SexInSex
-67.220.91.15
-67.220.91.18
-67.220.91.23
 !!---AvMoo---
 ||avmo.pw
 ||avmoo.com
@@ -271,7 +258,6 @@
 ||chromercise.com
 ||cloudpartnerservices.goog
 ||colab.google
-||com.google
 ||crbug.com
 ||crisisresponse.google
 ||crrev.com
@@ -506,11 +492,9 @@
 ||google.tt
 ||google.vu
 ||google.ws
-||google-analytics.com
-@@||*.google-analytics.com
+/^https?:\/\/google-analytics\.com/
 ||google-base.de
-||googleanalytics.com
-@@||*.googleanalytics.com
+/^https?:\/\/googleanalytics\.com/
 ||googleapis.com
 ||googleapps.com
 ||googlearth.com
@@ -537,8 +521,7 @@
 ||googleplus.com
 ||googlescholar.com
 ||googlesource.com
-||googlesyndication.com
-@@||*.googlesyndication.com
+/^https?:\/\/googlesyndication\.com/
 ||googleusercontent.com
 ||googlevideo.com
 ||googleweblight.com
@@ -560,6 +543,7 @@
 ||localhost.com
 ||madewithcode.com
 ||mypicasa.com
+||nic.youtube
 ||notebooklm.google
 ||on2.com
 ||opensource.google
@@ -614,6 +598,7 @@
 ||withgoogle.com
 ||withyoutube.com
 ||xn--ngstr-lra8j.com
+||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||youtu.be
 ||youtube.com
 ||youtube-nocookie.com
@@ -912,7 +897,7 @@
 ||am730.com.hk
 ||amazon.co.jp
 ||payments-jp.amazon.com
-||s3*.amazonaws.com
+/^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/
 ||ameba.jp
 ||share.america.gov
 ||americangreencard.com
@@ -1487,7 +1472,6 @@
 ||coat.co.jp
 ||cobinhood.com
 ||cochina.co
-||cochina.org
 ||coinbase.com
 ||coinbene.com
 ||coinegg.com
@@ -1714,6 +1698,7 @@
 ||dtiblog.com
 ||dtic.mil
 ||dubox.com
+||duckdns.org
 ||duckduckgo.com
 ||duckmylife.com
 ||dudupro.com
@@ -2772,7 +2757,6 @@
 ||lastcombat.com
 ||lastfm.es
 ||latelinenews.com
-||latibet.org
 ||lbank.info
 ||ldplayer.net
 ||ldplayer.tw
@@ -2877,7 +2861,6 @@
 ||lvhai.org
 ||lvv2.com
 ||lyfhk.net
-||lzmtnews.org
 
 !--------------------MM-------------------------
 ||m-team.cc
@@ -4367,7 +4350,6 @@
 ||tvboxnow.com
 ||tvbs.com.tw
 ||tvider.com
-||tvmost.com.hk
 ||tvplayvideos.com
 ||tvr.ro
 ||tvunetworks.com
@@ -4991,7 +4973,6 @@
 ||zpn.im
 ||zsrhao.com
 ||zuo.la
-||zuobiao.me
 ||zuola.com
 ||zvereff.com
 ||zyxel.com
@@ -5066,5 +5047,4 @@
 ||xn--90wwvt03e.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
-||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--u2u927b.com
