@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-15 12:19:06 GMT+8
+! Last Modified: 2026-02-17 15:19:37 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2152,6 +2152,7 @@
 ||github.com
 ||github.io
 ||githubassets.com
+||githubcopilot.com
 ||githubusercontent.com
 ||about.gitlab.com
 ||gizlen.net
