@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-17 15:19:37 GMT+8
+! Last Modified: 2026-02-19 11:47:24 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -813,6 +813,7 @@
 ||91cg1.com
 ||91jinman.com
 ||91porn.com
+||91porny.com
 ||91vps.club
 ||991.com
 ||99cn.info
