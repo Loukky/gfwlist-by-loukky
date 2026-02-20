@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-20 01:29:48 GMT+8
+! Last Modified: 2026-02-20 14:31:44 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2226,6 +2226,7 @@
 ||grok.com
 ||grokipedia.com
 ||grotty-monday.com
+||gstc.com.tw
 ||gstf.org
 ||gts-vpn.com
 ||guaguass.com
@@ -2862,6 +2863,7 @@
 ||lrip.org
 ||lsd.org.hk
 ||lsforum.net
+||lshosp.com.tw
 ||lsm.org
 ||lsmchinese.org
 ||lsmkorean.org
