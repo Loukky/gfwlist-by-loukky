@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-23 01:10:31 GMT+8
+! Last Modified: 2026-02-23 01:13:25 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3378,6 +3378,7 @@
 ||onestore.co.kr
 ||onion.city
 ||onion666.com
+||onkakao.net
 ||onlinecha.com
 ||onlineyoutube.com
 ||onlytweets.com
