@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-22 12:56:50 GMT+8
+! Last Modified: 2026-02-22 13:42:34 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1451,6 +1451,7 @@
 ||civitai.com
 ||ck101.com
 ||clarionproject.org
+||www.clashverge.dev
 ||claude.ai
 ||clb.org.hk
 ||clearharmony.net
@@ -3075,6 +3076,7 @@
 ||moresci.sale
 ||morningsun.org
 ||mos.ru
+||mosavi.io
 ||motherless.com
 ||mousebreaker.com
 ||movements.org
@@ -3274,6 +3276,7 @@
 ||nvquan.org
 ||nvtongzhisheng.org
 ||nwtca.org
+||assets.nxtrace.org
 ||nyaa.eu
 ||nyaa.si
 ||sukebei.nyaa.si
@@ -3340,6 +3343,7 @@
 ||open.com.hk
 ||open-assistant.io
 ||openai.com
+||opencritic.com
 ||opendemocracy.net
 ||opendesktop.org
 ||opendn.xyz
