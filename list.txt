@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-22 13:42:34 GMT+8
+! Last Modified: 2026-02-22 13:59:14 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1106,7 +1106,6 @@
 ||bestvpnanalysis.com
 ||bestvpnserver.com
 ||bestvpnservice.com
-||bestvpnusa.com
 ||bet365.com
 ||betfair.com
 ||betternet.co
@@ -2004,8 +2003,6 @@
 ||freebrowser.org
 ||freechina.net
 ||freechina.news
-||freechinaforum.org
-||freechinaweibo.com
 ||freedl.org
 ||freedomhongkong.org
 ||freedomhouse.org
@@ -2196,7 +2193,6 @@
 ||goldbetsports.com
 ||goldenfrog.com
 ||goldjizz.com
-||goldstep.net
 ||gongm.in
 ||goo.ne.jp
 ||goodreaders.com
@@ -2465,7 +2461,6 @@
 ||i-cable.com
 ||i-part.com.tw
 ||i1.hk
-||iamtopone.com
 ||iask.ca
 ||iav19.com
 ||iblist.com
@@ -2858,7 +2853,6 @@
 ||longmusic.com
 ||longtermly.net
 ||lookpic.com
-||looktoronto.com
 ||loongese.com
 ||lorenzetti.com.br
 ||lotuslight.org.tw
@@ -2952,6 +2946,7 @@
 ||medicalnewstoday.com
 ||medium.com
 ||mee6.xyz
+||meee.com.tw
 ||meetav.com
 ||mefeedia.com
 ||meforum.org
@@ -3981,7 +3976,6 @@
 ||sspanel.net
 ||sspanel.org
 ||ssr.tools
-||ssrshare.com
 ||ssrshare.us
 ||sstm.moe
 ||sstmlt.moe
