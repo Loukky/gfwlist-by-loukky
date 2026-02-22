@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-22 14:01:51 GMT+8
+! Last Modified: 2026-02-23 01:10:31 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -209,6 +209,7 @@
 ||thefacebook.com
 ||threads.com
 ||threads.net
+||wa.me
 ||whatsapp.com
 ||whatsapp.net
 
@@ -223,7 +224,9 @@
 ||abc.xyz
 ||about.google
 ||admob.com
+@@||c.admob.com
 ||adsense.com
+@@||adtrafficquality.google
 ||agnss.goog
 ||agoogleaday.com
 ||ai.google
@@ -264,6 +267,9 @@
 ||cloudpartnerservices.goog
 ||cloudskillsboost.google
 ||colab.google
+||crashlytics.com
+@@||firebase-settings.crashlytics.com
+@@||update.crashlytics.com
 ||crbug.com
 ||crisisresponse.google
 ||crrev.com
@@ -306,6 +312,7 @@
 ||gogle.de
 ||gogole.com
 ||golang.org
+@@||http2.golang.org
 ||goo.gl
 ||goo.gle
 ||googel.de
@@ -361,6 +368,19 @@
 ||google.co.zm
 ||google.co.zw
 ||google.com
+@@||adservice.google.com
+@@||cache-management-prod.google.com
+@@||cache.pack.google.com
+@@||dg-meta.video.google.com
+@@||dl.google.com
+@@||download.mlcc.google.com
+@@||download.tensorflow.google.com
+@@||redirector.c.chat.google.com
+@@||redirector.c.mail.google.com
+@@||redirector.c.pack.google.com
+@@||redirector.c.play.google.com
+@@||safebrowsing-cache.google.com
+@@||tools.google.com
 ||google.com.af
 ||google.com.ag
 ||google.com.ar
@@ -500,9 +520,22 @@
 ||google.vu
 ||google.ws
 /^https?:\/\/google-analytics\.com/
+@@||www.google-analytics.com
 ||google-base.de
 /^https?:\/\/googleanalytics\.com/
 ||googleapis.com
+@@||clientservices.googleapis.com
+@@||crashlyticsreports-pa.googleapis.com
+@@||emmapplecodevice.googleapis.com
+@@||fontfiles.googleapis.com
+@@||fonts.googleapis.com
+@@||imasdk.googleapis.com
+@@||performanceparameters.googleapis.com
+@@||safebrowsing.googleapis.com
+@@||storage.googleapis.com
+@@||tac.googleapis.com
+@@||update.googleapis.com
+@@||wear.googleapis.com
 ||googleapps.com
 ||googlearth.com
 ||googleartproject.com
@@ -539,6 +572,12 @@
 ||gooogle.com
 ||grow.google
 ||gstatic.com
+@@||checkin.gstatic.com
+@@||connectivitycheck.gstatic.com
+@@||csi.gstatic.com
+@@||fonts.gstatic.com
+@@||ssl.gstatic.com
+@@||www.gstatic.com
 ||gvideo.de
 ||gvt0.com
 ||gwave.com
@@ -561,6 +600,11 @@
 ||picasaweb.com
 ||pittpatt.com
 ||pki.goog
+@@||c.pki.goog
+@@||crl.pki.goog
+@@||i.pki.goog
+@@||o.pki.goog
+@@||ocsp.pki.goog
 ||play.google
 ||publicpolicy.google
 ||quantumai.google
@@ -619,6 +663,7 @@
 ||ytimg.com
 ||zdns.google
 ||zynamics.com
+
 
 !!---Steam---
 ||steambroadcast.akamaized.net
@@ -1010,6 +1055,7 @@
 ||askstudent.com
 ||asrockind.com
 ||assembla.com
+||assembly.go.kr
 ||assimp.org
 ||astrill.com
 ||atc.org.au
@@ -1680,6 +1726,7 @@
 ||domain.glass
 ||domaintoday.com.au
 ||chinese.donga.com
+||dongjak.go.kr
 ||dongtaiwang.com
 ||dongtaiwang.net
 ||dongyangjing.com
@@ -2682,6 +2729,7 @@
 ||kagyuoffice.org
 ||kagyuoffice.org.tw
 ||kakao.com
+||kakaocdn.net
 ||kannewyork.com
 ||kanshifang.com
 ||kantie.org
@@ -3136,6 +3184,7 @@
 
 !--------------------NN-------------------------
 ||n-tv.de
+||nabo.go.kr
 ||nakido.com
 ||nakuz.com
 ||namgyal.org
@@ -3146,6 +3195,7 @@
 ||naol.ca
 ||naol.cc
 ||narod.ru
+||nars.go.kr
 ||nat.moe
 ||national-lottery.co.uk
 ||nationwide.com
@@ -5002,51 +5052,7 @@
 ||zzcartoon.com
 ||zzcloud.me
 !##############General List End#################
-!################Whitelist Start################
-!---Some are powered by GuXiang (BGP), please comment off if
-!---you encounter connectivity issues.
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||c.admob.com
-@@||adtrafficquality.google
-||crashlytics.com
-@@||firebase-settings.crashlytics.com
-@@||http2.golang.org
-@@||adservice.google.com
-@@||cache.pack.google.com
-@@||dl.google.com
-@@||dl.l.google.com
-@@||pagead-googlehosted.l.google.com
-@@||safebrowsing-cache.google.com
-@@||ssl-google-analytics.l.google.com
-@@||tools.google.com
-@@||tools.l.google.com
-@@||www-googletagmanager.l.google.com
-@@||www.google-analytics.com
-@@||clientservices.googleapis.com
-@@||crashlyticsreports-pa.googleapis.com
-@@||emmapplecodevice.googleapis.com
-@@||fontfiles.googleapis.com
-@@||fonts.googleapis.com
-@@||imasdk.googleapis.com
-@@||performanceparameters.googleapis.com
-@@||safebrowsing.googleapis.com
-@@||storage.googleapis.com
-@@||tac.googleapis.com
-@@||update.googleapis.com
-@@||wear.googleapis.com
-@@||checkin.gstatic.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
-@@||www.gstatic.com
-@@||c.pki.goog
-@@||crl.pki.goog
-@@||i.pki.goog
-@@||o.pki.goog
-@@||ocsp.pki.goog
-!-------------------Other--------------------
-!################Whitelist End##################
+!####################Other######################
 !--------------------tiktok---------------------
 ||byteoversea.com
 ||ibytedtos.com
