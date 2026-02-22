@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-21 14:10:37 GMT+8
+! Last Modified: 2026-02-22 12:54:31 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1768,6 +1768,7 @@
 ||edupro.org
 ||eevpn.com
 ||efcc.org.hk
+||tor.eff.org
 ||efksoft.com
 ||efreenews.com
 ||efukt.com
@@ -4476,6 +4477,7 @@
 ||unification.net
 ||unification.org.tw
 ||unirule.cloud
+||uniswap.org
 ||unix100.com
 ||unodedos.com
 ||unpo.org
