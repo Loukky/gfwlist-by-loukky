@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-24 17:05:05 GMT+8
+! Last Modified: 2026-02-24 18:50:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -900,7 +900,6 @@
 ||agnesb.fr
 ||ai.ls
 ||aiph.net
-||airasia.com
 ||airitilibrary.com
 ||airvpn.org
 ||aisex.com
@@ -1500,6 +1499,7 @@
 ||clarionproject.org
 ||www.clashverge.dev
 ||claude.ai
+||claude.com
 ||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
@@ -1537,6 +1537,7 @@
 ||coinegg.com
 ||coinex.com
 ||coingi.com
+||coinmarketcap.com
 ||coinrail.co.kr
 ||cointiger.com
 ||coinut.com
@@ -2315,6 +2316,7 @@
 ||happy-vpn.com
 ||haproxy.org
 ||hardsextube.com
+||hardwarezone.com.sg
 ||harunyahya.com
 ||b.hatena.ne.jp
 ||hautelook.com
@@ -2466,6 +2468,7 @@
 ||ht.ly
 ||htkou.net
 ||htl.li
+||htx.com
 ||huaglad.com
 ||huanghuagang.org
 ||huangyiyu.com
@@ -2473,6 +2476,7 @@
 ||huaren4us.com
 ||huarenjie.com
 ||huashangnews.com
+||huasing.org
 ||huaxiabao.org
 ||huaxin.ph
 ||huayuworld.org
@@ -3191,6 +3195,7 @@
 ||namgyal.org
 ||namgyalmonastery.org
 ||namu.wiki
+||nandazhan.com
 ||nanhuyt.com
 ||nanyangpost.com
 ||naol.ca
@@ -3914,7 +3919,6 @@
 ||simplecd.org
 ||sina.com.hk
 ||sinchew.com.my
-||singaporepools.com.sg
 ||singfortibet.com
 ||singlelogin.me
 ||singpao.com.hk
@@ -4376,6 +4380,7 @@
 ||treemall.com.tw
 ||trendsmap.com
 ||tron.network
+||tronlink.org
 ||trouw.nl
 ||trt.net.tr
 ||truebuddha-md.org
