@@ -24,11 +24,11 @@ Jsdelivr(国内镜像，有封禁风险):https://cdn.jsdmirror.com/gh/Loukky/gfw
 2.http访问出现1.所说情况的，但https正常的  
 3.DNS污染（国内解析该域名指向不正确的IP（例如标为Facebook，Twitter，Dropbox所属的IP），而国外解析正常的）  
 4.该域名服务器IP在国内根本（此处根本指的是：国内ping不通（或者国内访问超时），国外正常的）无法访问的  
-5.如果是直接使用IP（不用域名）的网站或应用的IP出现4.所说情况的，请直接说IP + 应用（如果是网站直接报告IP）  
 ### 例子：
 google.com:出现了1和3情况  
 support.google.com:出现了4情况  
-Telegram:出现了5情况
+
+### 如果有域名被解除封锁需要移除列表的，请直接开issue说明并且列出该域名的规则内容
 ## 项目 Star 数增长趋势
 
 [![Stargazers over time](https://starchart.cc/Loukky/gfwlist-by-loukky.svg?variant=adaptive)](https://starchart.cc/Loukky/gfwlist-by-loukky)
