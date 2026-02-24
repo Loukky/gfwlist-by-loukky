@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-23 01:13:25 GMT+8
+! Last Modified: 2026-02-24 17:05:05 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1049,6 +1049,7 @@
 ||asianews.it
 ||asianfanfics.com
 ||asiansexdiary.com
+||asiaone.com
 ||asiatgp.com
 ||asiatimes.com
 ||ask.com
@@ -1285,6 +1286,7 @@
 ||busayari.com
 ||business.page
 ||businessinsider.com
+||businesstimes.com.sg
 ||businesstoday.com.tw
 ||businessweek.com
 ||businessweekly.com.tw
@@ -2666,7 +2668,6 @@
 ||javseen.com
 ||javtiful.com
 ||javtrailers.com
-||javzz.com
 ||jbtalks.cc
 ||jdwsy.com
 ||jex.com
@@ -4338,6 +4339,7 @@
 ||tmpp.org
 ||tnaflix.com
 ||tnp.org
+||tnp.sg
 ||to-porno.com
 ||togetter.com
 ||tokyo-247.com
@@ -4894,6 +4896,7 @@
 ||xmonk.net
 ||xnxx.com
 ||xnxx-cdn.com
+||xp1024.com
 ||xpdo.net
 ||xrentdvd.com
 ||xsden.info
