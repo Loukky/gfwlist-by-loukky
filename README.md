@@ -1,4 +1,5 @@
 # gfwlist-by-loukky<br>
+  [![HitCount](https://hits.dwyl.com/Loukky/gfwlist-by-loukky.svg?style=flat-square)](http://hits.dwyl.com/Loukky/gfwlist-by-loukky)
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Loukky/gfwlist-by-loukky?utm_source=oss&utm_medium=github&utm_campaign=Loukky%2Fgfwlist-by-loukky&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)  
 changed from [GFWlist](https://github.com/gfwlist/gfwlist) and self use
 主要适配于[ZeroOmega](https://github.com/zero-peak/ZeroOmega)/[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
