@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-26 17:20:36 GMT+8
+! Last Modified: 2026-02-27 15:46:19 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2433,6 +2433,7 @@
 ||homeperversion.com
 ||old.honeynet.org
 ||hongkongfp.com
+||hongkongwatch.org
 ||hongzhi.li
 ||hootsuite.com
 ||hopto.org
