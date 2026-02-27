@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-27 18:49:21 GMT+8
+! Last Modified: 2026-02-27 18:53:55 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4372,6 +4372,7 @@
 ||top.tv
 ||top10vpn.com
 ||top81.ws
+||topmso.com.tw
 ||toppornsites.com
 ||topsy.com
 ||torguard.net
