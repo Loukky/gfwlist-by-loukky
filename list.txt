@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-27 16:37:23 GMT+8
+! Last Modified: 2026-02-27 18:49:21 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -745,6 +745,7 @@
 ||chardb.iis.sinica.edu.tw
 ||xiaoxue.iis.sinica.edu.tw
 ||class.tn.edu.tw
+||tyc.edu.tw
 !!---Yahoo---
 ||flurry.com
 ||yahoo.co.jp
@@ -1515,6 +1516,7 @@
 /^https?:\/\/cloudflarestatus\.com/
 ||cloudfunctions.net
 ||cloudokyo.cloud
+||cltv.com.tw
 ||club1069.com
 ||clyp.it
 ||cmcn.org
@@ -1532,6 +1534,7 @@
 ||cnineu.com
 ||cnpolitics.org
 ||cnproxy.com
+||cnt.com.tw
 ||cnyes.com
 ||coat.co.jp
 ||cobinhood.com
@@ -1986,6 +1989,7 @@
 ||feitianacademy.org
 ||fengzhenghu.com
 ||fengzhenghu.net
+||fetc.net.tw
 ||fevernet.com
 ||ff.im
 ||fffff.at
@@ -4197,6 +4201,7 @@
 ||tcnynj.org
 ||tcsofbc.org
 ||tdm.com.mo
+||tdtv.com.tw
 ||teamamericany.com
 ||techcrunch.com
 ||technews.tw
@@ -4345,6 +4350,7 @@
 ||timsah.com
 ||tinc-vpn.org
 ||tineye.com
+||tinp.net.tw
 ||tiny.cc
 ||tinychat.com
 ||tma.co.jp
