@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-02-27 16:21:54 GMT+8
+! Last Modified: 2026-02-27 16:37:23 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -719,12 +719,14 @@
 @@||nmp.gov.tw
 @@||nstm.gov.tw
 @@||library.ntpc.gov.tw
+@@||ntpclib.gov.tw
 @@||ntsec.gov.tw
 @@||ntuh.gov.tw
 @@||nvri.gov.tw
 @@||post.gov.tw
 ||service.taipei
 @@||stdtime.gov.tw
+@@||tphcc.gov.tw
 @@||vghtc.gov.tw
 @@||vghtpe.gov.tw
 @@||www.gov.tw
@@ -734,6 +736,7 @@
 ||eq.ccu.edu.tw
 ||heeact.edu.tw
 ||mbct.mlc.edu.tw
+||nmns.edu.tw
 ||npm.edu.tw
 ||nqu.edu.tw
 ||cbs.ntu.edu.tw
@@ -4159,6 +4162,7 @@
 ||taiwanstay.net.tw
 ||taiwantoday.tw
 ||taiwantp.net
+||taiwantrip.com.tw
 ||taiwantt.org.tw
 ||taiwanus.net
 ||taiwanyes.com
