@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-06 22:04:24 GMT+8
+! Last Modified: 2026-03-07 23:27:55 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4209,6 +4209,7 @@
 ||tdm.com.mo
 ||tdtv.com.tw
 ||teamamericany.com
+||techbang.com
 ||techcrunch.com
 ||technews.tw
 ||technorati.com
