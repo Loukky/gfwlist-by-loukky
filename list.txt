@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-09 13:52:13 GMT+8
+! Last Modified: 2026-03-09 21:53:36 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2542,6 +2542,7 @@
 ||icoco.com
 ||icu-project.org
 ||idaiwan.com
+||idbi.bank.in
 ||idcflare.com
 ||idemocracy.asia
 ||idiomconnection.com
