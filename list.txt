@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-20 13:41:36 GMT+8
+! Last Modified: 2026-03-24 16:20:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2678,6 +2678,7 @@
 ||javbus.co
 ||javbus.com
 ||javbus.sbs
+||javchu.com
 ||javdb.com
 ||javfor.me
 ||javfree.me
