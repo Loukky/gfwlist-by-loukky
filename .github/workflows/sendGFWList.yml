@@ -46,21 +46,11 @@ jobs:
         run: |
           openssl base64 -in list.txt | tr -d '\r' > gfwlist.txt
 
-      - name: Configure Git commit identity
-        run: |
-          if [ "${GITHUB_ACTOR}" = "Loukky" ]; then
-            echo "Using my identity"
-            git config --global user.name "Loukky"
-            git config --global user.email "12481807+Loukky@users.noreply.github.com"
-          else
-            echo "Using default bot identity"
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          fi
-
       - name: save local changes to git & svn
         id: auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: gfwlist edited ${{ env.DATE }}
           file_pattern: 'gfwlist.txt'
+          commit_user_name: ${{ github.actor == 'Loukky' && 'Loukky' || 'github-actions[bot]' }}
+          commit_user_email: ${{ github.actor == 'Loukky' && '12481807+Loukky@users.noreply.github.com' || 'github-actions[bot]@users.noreply.github.com' }}
