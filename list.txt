@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-26 Thu 00:12:26 GMT+8
+! Last Modified: 2026-03-26 Thu 00:26:56 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3840,6 +3840,7 @@
 ||domainhelp.search.com
 ||search.xxx
 ||searchtruth.com
+||searx.space
 ||secretchina.com
 ||secretsline.biz
 ||secureservercdn.net
