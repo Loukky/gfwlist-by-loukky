@@ -40,7 +40,6 @@
 ||avmoo.com
 ||avmoo.net
 ||avmoo.pw
-||javmoo.xyz
 ||javtag.com
 ||javzoo.com
 ||tellme.pw
@@ -684,7 +683,6 @@
 ||telegram.me
 ||telegram.org
 ||telegram.space
-||telegramdownload.com
 ||telesco.pe
 ||tx.me
 
@@ -833,7 +831,6 @@
 ||55comic.com
 ||5657.com.tw
 ||5i01.com
-||611study.com
 ||611study.icu
 ||64museum.org
 ||64tianwang.com
@@ -981,7 +978,6 @@
 ||animeshippuuden.com
 ||animezilla.com
 ||aniscartujo.com
-||annas-archive.li
 ||anobii.com
 ||anontext.com
 ||anonymise.us
@@ -1429,7 +1425,6 @@
 ||chinagate.com
 ||chinageeks.org
 ||chinagfw.org
-||chinagonet.com
 ||chinahorizon.org
 ||chinahrc.org
 ||chinahush.com
@@ -1447,7 +1442,6 @@
 ||chinasocialdemocraticparty.com
 ||chinasoul.org
 ||chinasucks.net
-||chinatopsex.com
 ||chinatown.com.au
 ||chinaway.org
 ||chinaworker.info
@@ -1637,7 +1631,6 @@
 ||daftporn.com
 ||dagelijksestandaard.nl
 ||daidostup.ru
-||dailidaili.com
 ||dailymail.co.uk
 ||dailymotion.com
 ||dailyview.tw
@@ -1716,7 +1709,6 @@
 ||disqus.com
 ||dit-inc.us
 ||dizhidizhi.com
-||dizhuzhishang.com
 ||dlsite.com
 ||dlyoutube.com
 ||dmc.nico
@@ -1957,7 +1949,6 @@
 ||fangong.org
 ||fangongheike.com
 ||fanhaodang.com
-||fanqiang.network
 ||fanqiangdang.com
 ||fanqiangdang.org
 ||fanqianghou.com
@@ -1988,7 +1979,6 @@
 ||feedx.net
 ||feelssh.com
 ||feer.com
-||feitian-california.org
 ||feitianacademy.org
 ||fengzhenghu.com
 ||fengzhenghu.net
@@ -2027,7 +2017,6 @@
 ||firstrade.com
 ||flagsonline.it
 ||fleshbot.com
-||fleursdeslettres.com
 ||flgjustice.org
 ||flickr.com
 ||flickriver.com
@@ -2080,7 +2069,6 @@
 ||freelotto.com
 ||freeman2.com
 ||freemoren.com
-||freemorenews.com
 ||freenet-china.org
 ||freenetproject.org
 ||freenewscn.com
@@ -2121,7 +2109,6 @@
 ||fuckgfw.org
 ||fulione.com
 ||fulue.com
-||funf.tw
 ||funp.com
 ||fuq.com
 ||furhhdl.org
@@ -2308,7 +2295,6 @@
 ||h-china.org
 ||h-comic.com
 ||h-moe.com
-||h1n1china.org
 ||h528.com
 ||h5dm.com
 ||hacg.club
@@ -2400,7 +2386,6 @@
 ||hizb-ut-tahrir.org
 ||hizbuttahrir.org
 ||hjclub.info
-||hjd.tw
 ||hjd2048.com
 ||hk-pub.com
 ||hk01.com
@@ -2502,7 +2487,6 @@
 ||huggingface.co
 ||huhamhire.com
 ||huigui.tw
-||huiyi.in
 ||hulkshare.com
 ||hulu.com
 ||huluim.com
@@ -2637,7 +2621,6 @@
 ||ismaelan.com
 ||ismalltits.com
 ||issuu.com
-||istars.co.nz
 ||istef.info
 ||istiqlalhewer.com
 ||istockphoto.com
@@ -2650,7 +2633,6 @@
 ||itweet.net
 ||iu45.com
 ||iuhrdf.org
-||iuksky.com
 ||ivacy.com
 ||ivonblog.com
 ||ivpn.net
@@ -2696,7 +2678,6 @@
 ||jhelab.org
 ||jiangweiping.com
 ||jiehua.cz
-||jieshibaobao.com
 ||jifangge.com
 ||jigglegifs.com
 ||jigsy.com
@@ -2820,7 +2801,6 @@
 ||kusocity.com
 ||kwcg.ca
 ||kwongwah.com.my
-||kxsw.life
 ||kyofun.com
 ||kyohk.net
 ||kzeng.info
@@ -3056,7 +3036,6 @@
 ||metacubex.one
 ||metart.com
 ||metarthunter.com
-||metrolife.ca
 ||metroradio.com.hk
 ||mewe.com
 ||meyou.jp
@@ -3184,7 +3163,6 @@
 ||mybet.com
 ||mycanadanow.com
 ||bbs.mychat.to
-||mychinamyhome.com
 ||mychinanet.com
 ||mychinanews.com
 ||mychinese.news
@@ -3362,7 +3340,6 @@
 ||nyt.com
 ||static01.nyt.com
 ||nytchina.com
-||nytcn.me
 ||nytco.com
 ||nyti.ms
 ||nytimes.com
@@ -3391,7 +3368,6 @@
 ||okcoin.com
 ||okex.com
 ||okinawatimes.co.jp
-||okk.tw
 ||okx.com
 ||olehdtv.com
 ||olelive.com
@@ -3839,7 +3815,6 @@
 ||cn.sandscotaicentral.com
 ||sanmin.com.tw
 ||sapikachu.net
-||saveliuxiaobo.com
 ||savemedia.com
 ||savetibet.de
 ||savetibet.nl
@@ -3961,7 +3936,6 @@
 ||sitebro.tw
 ||sitekreator.com
 ||six-degrees.io
-||sjum.cn
 ||sketchappsources.com
 ||skimtube.com
 ||skybet.com
@@ -4919,7 +4893,6 @@
 ||xihua.es
 ||xinbao.de
 ||xing.com
-||xinhuanet.org
 ||xinmiao.com.hk
 ||xinsheng.net
 ||xinshijue.com
@@ -5007,7 +4980,6 @@
 ||youlucky.com
 ||youmaker.com
 ||youngpornvideos.com
-||youngspiration.hk
 ||youpai.org
 ||youporn.com
 ||youporngay.com
