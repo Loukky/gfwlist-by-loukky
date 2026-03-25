@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-26 Thu 00:09:08 GMT+8
+! Last Modified: 2026-03-26 Thu 00:12:26 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1519,6 +1519,7 @@
 ||cltv.com.tw
 ||club1069.com
 ||clubhouse.com
+||clubhouseapi.com
 ||clyp.it
 ||cmcn.org
 ||cmi.org.tw
