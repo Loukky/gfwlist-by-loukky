@@ -32,7 +32,7 @@ $data =~ s/^.*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n//gmi;
 $ENV{TZ} = 'Asia/Shanghai';
 tzset();
 setlocale(LC_TIME, "C");
-my $timestamp = strftime("%a, %d %b %Y %H:%M:%S %z", localtime(stat($file)->mtime));
+my $timestamp = strftime("%a, %Y-%m-%d %H:%M:%S %z", localtime(stat($file)->mtime));
 $data =~ s/^!\s*Last Modified:.*$/! Last Modified: $timestamp/mi;
 
 # Calculate new checksum: remove all CR symbols and empty
