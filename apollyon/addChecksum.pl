@@ -28,12 +28,13 @@ my $data = readFile($file);
 # Remove already existing checksum
 $data =~ s/^.*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n//gmi;
 
-# Update timestamp
-$ENV{TZ} = 'Asia/Shanghai';
-tzset();
-setlocale(LC_TIME, "C");
-my $timestamp = strftime("%Y-%m-%d %a %H:%M:%S %z", localtime(stat($file)->mtime));
-$data =~ s/^!\s*Last Modified:.*$/! Last Modified: $timestamp/mi;
+# 暂时注释掉
+# # Update timestamp
+# $ENV{TZ} = 'Asia/Shanghai';
+# tzset();
+# setlocale(LC_TIME, "C");
+# my $timestamp = strftime("%Y-%m-%d %a %H:%M:%S %z", localtime(stat($file)->mtime));
+# $data =~ s/^!\s*Last Modified:.*$/! Last Modified: $timestamp/mi;
 
 # Calculate new checksum: remove all CR symbols and empty
 # lines and get an MD5 checksum of the result (base64-encoded,
