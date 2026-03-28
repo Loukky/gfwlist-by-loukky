@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-26 Thu 00:39:37 GMT+8
+! Last Modified: 2026-03-28 Sat 21:04:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2291,7 +2291,6 @@
 ||guardster.com
 ||guishan.org
 ||gumroad.com
-||guo.media
 ||guruonline.hk
 ||gvm.com.tw
 ||gyalwarinpoche.com
@@ -3780,7 +3779,6 @@
 ||rocket-inc.net
 ||rojo.com
 ||rolia.net
-||rosechina.net
 ||rotten.com
 ||rou.video
 ||rri.ro
@@ -4139,7 +4137,6 @@
 ||taa-usa.org
 ||taaze.tw
 ||tabtter.jp
-||tacem.org
 ||taedp.org.tw
 ||tafm.org
 ||tagesschau.de
