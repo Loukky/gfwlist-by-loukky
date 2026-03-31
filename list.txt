@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-03-31 Tue 21:28:30 GMT+8
+! Last Modified: 2026-04-01 Wed 05:12:17 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -218,6 +218,7 @@
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
+@@/^https?:\/\/[^\/]+\.adtrafficquality\.google/
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -225,13 +226,12 @@
 ||admob.com
 @@||c.admob.com
 ||adsense.com
-@@||adtrafficquality.google
+/^https?:\/\/adtrafficquality\.google/
 ||agnss.goog
 ||agoogleaday.com
 ||ai.google
 ||ai.studio
-|http://ampproject.org
-|https://ampproject.org
+/^https?:\/\/ampproject\.org/
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org
 @@||www.ampproject.org
@@ -311,7 +311,6 @@
 ||gogle.de
 ||gogole.com
 ||golang.org
-@@||http2.golang.org
 ||goo.gl
 ||goo.gle
 ||googel.de
