@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-01 Wed 05:12:17 GMT+8
+! Last Modified: 2026-04-01 Wed 17:09:57 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -35,14 +35,6 @@
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-!!---AvMoo---
-||avmo.pw
-||avmoo.com
-||avmoo.net
-||avmoo.pw
-||javtag.com
-||javzoo.com
-||tellme.pw
 
 !!---BBC---
 ||bbc.co.uk
@@ -846,6 +838,7 @@
 ||6parknews.com
 ||7capture.com
 ||7cow.com
+||7mmtv.sx
 ||7mmtv.tv
 ||8-d.com
 ||85cc.net
@@ -1082,7 +1075,9 @@
 ||avg.com
 ||avgle.com
 ||avjb.com
+||avmoo.com
 ||avple.tv
+||avsox.click
 ||avyahoo.com
 ||azerbaycan.tv
 ||azurewebsites.net
@@ -3166,6 +3161,7 @@
 ||my-private-network.co.uk
 ||my-proxy.com
 ||myaudiocast.com
+||creative.myavlive.com
 ||mybbs.us
 ||mybet.com
 ||mycanadanow.com
@@ -4207,6 +4203,7 @@
 ||teensinasia.com
 ||teepr.com
 ||teldap.tw
+||tellme.pw
 ||tenor.com
 ||tenzinpalmo.com
 ||terabox.com
