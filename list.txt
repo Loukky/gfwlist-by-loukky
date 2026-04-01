@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-01 Wed 17:09:57 GMT+8
+! Last Modified: 2026-04-02 Thu 00:30:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3866,6 +3866,7 @@
 ||sexbot.com
 ||sexhu.com
 ||sexinsex.net
+||sextb.net
 ||sextvx.com
 ||sf.net
 ||sfileydy.com
