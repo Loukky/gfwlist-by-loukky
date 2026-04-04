@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-02 Thu 00:32:22 GMT+8
+! Last Modified: 2026-04-04 Sat 22:54:50 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2302,6 +2302,7 @@
 ||hacg.me
 ||hacken.cc
 ||hacker.org
+||hackmd.io
 ||hahlo.com
 ||haiwaikan.com
 ||haiwaiwai.com
