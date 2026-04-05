@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-04 Sat 22:54:50 GMT+8
+! Last Modified: 2026-04-05 Sun 14:38:16 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1582,7 +1582,6 @@
 ||creadersnet.com
 ||backend-v2.crixet.com
 ||crocotube.com
-||crossvpn.net
 ||crunchyroll.com
 ||crwdcntrl.net
 ||crypto.com
@@ -1727,7 +1726,6 @@
 ||documentingreality.com
 ||dogfartnetwork.com
 ||dojin.com
-||dok-forum.net
 ||dolc.de
 ||dolf.org.hk
 ||domain.glass
@@ -2408,7 +2406,6 @@
 ||hkgolden.com
 ||hkheadline.com
 ||hkhkhk.com
-||hkip.org.uk
 ||hkjc.com
 ||hkjp.org
 ||hklft.com
@@ -2467,7 +2464,6 @@
 ||hst.net.tw
 ||hstern.net
 ||hstt.net
-||ht.ly
 ||htkou.net
 ||htl.li
 ||htx.com
@@ -2738,7 +2734,6 @@
 ||kakaocdn.net
 ||kakaocorp.com
 ||kannewyork.com
-||kanshifang.com
 ||kantie.org
 ||kanzhongguo.com
 ||kanzhongguo.eu
@@ -2949,7 +2944,6 @@
 ||madthumbs.com
 ||magic-net.info
 ||mahabodhi.org
-||maiio.net
 ||cloud.mail.ru
 ||my.mail.ru
 ||mail-archive.com
