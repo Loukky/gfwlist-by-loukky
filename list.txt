@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-07 Tue 00:19:46 GMT+8
+! Last Modified: 2026-04-07 Tue 01:11:42 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2323,6 +2323,7 @@
 ||hautelook.com
 ||hautelookcdn.com
 ||have8.com
+||hayav.com
 ||hbg.com
 ||hbo.com
 ||hcaptcha.com
@@ -2659,6 +2660,7 @@
 ||javbus.com
 ||javbus.sbs
 ||javchu.com
+||javdatabase.com
 ||javdb.com
 ||javfor.me
 ||javfree.me
