@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-05 Sun 14:38:16 GMT+8
+! Last Modified: 2026-04-07 Tue 00:12:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -949,7 +949,7 @@
 ||am730.com.hk
 ||amazon.co.jp
 ||payments-jp.amazon.com
-/^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/
+/^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/$
 ||ameba.jp
 ||share.america.gov
 ||americangreencard.com
@@ -1872,6 +1872,7 @@
 ||erepublik.com
 ||erights.net
 ||erktv.com
+||ero-video.net
 ||eromangadouzin.com
 ||eromon.net
 ||eroprofile.com
