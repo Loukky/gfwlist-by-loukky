@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-07 Tue 18:29:10 GMT+8
+! Last Modified: 2026-04-07 Tue 18:34:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1494,6 +1494,7 @@
 ||chinadigitaltimes.net
 ||chinaelections.org
 ||chinafile.com
+||chinafirewalltest.com
 ||chinafreepress.org
 ||chinagate.com
 ||chinageeks.org
