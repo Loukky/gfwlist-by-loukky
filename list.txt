@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-07 Tue 01:11:42 GMT+8
+! Last Modified: 2026-04-07 Tue 18:24:12 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -207,10 +207,9 @@
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
-/^https?:\/\/[^\/]+blogspot\.(.*)/
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-@@/^https?:\/\/[^\/]+\.adtrafficquality\.google/
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com/$
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com/$
+@@/^https?:\/\/[^\/]+\.adtrafficquality\.google/$
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -218,13 +217,13 @@
 ||admob.com
 @@||c.admob.com
 ||adsense.com
-/^https?:\/\/adtrafficquality\.google/
+/^https?:\/\/adtrafficquality\.google/$
 ||agnss.goog
 ||agoogleaday.com
 ||ai.google
 ||ai.studio
-/^https?:\/\/ampproject\.org/
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
+/^https?:\/\/ampproject\.org/$
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/$
 @@|https://cdn.ampproject.org
 @@||www.ampproject.org
 ||android.com
@@ -234,6 +233,7 @@
 ||api.ai
 ||apigee.com
 ||appspot.com
+||belonging.google
 ||static.bevylabs.com
 ||bg-call-donation.goog
 ||bg-call-donation-alpha.goog
@@ -241,7 +241,80 @@
 ||bg-call-donation-dev.goog
 ||blog.google
 ||blogblog.com
+||blogger.com
+||blogspot.ae
+||blogspot.al
+||blogspot.am
+||blogspot.ba
+||blogspot.be
+||blogspot.bg
+||blogspot.bj
+||blogspot.ca
+||blogspot.cf
+||blogspot.ch
+||blogspot.cl
+||blogspot.co.at
+||blogspot.co.id
+||blogspot.co.il
+||blogspot.co.ke
+||blogspot.co.nz
+||blogspot.co.uk
+||blogspot.co.za
 ||blogspot.com
+||blogspot.com.ar
+||blogspot.com.au
+||blogspot.com.br
+||blogspot.com.by
+||blogspot.com.co
+||blogspot.com.cy
+||blogspot.com.ee
+||blogspot.com.eg
+||blogspot.com.es
+||blogspot.com.mt
+||blogspot.com.ng
+||blogspot.com.tr
+||blogspot.com.uy
+||blogspot.cv
+||blogspot.cz
+||blogspot.de
+||blogspot.dk
+||blogspot.fi
+||blogspot.fr
+||blogspot.gr
+||blogspot.hk
+||blogspot.hr
+||blogspot.hu
+||blogspot.ie
+||blogspot.in
+||blogspot.is
+||blogspot.it
+||blogspot.jp
+||blogspot.kr
+||blogspot.li
+||blogspot.lt
+||blogspot.lu
+||blogspot.md
+||blogspot.mk
+||blogspot.mx
+||blogspot.my
+||blogspot.nl
+||blogspot.no
+||blogspot.pe
+||blogspot.pt
+||blogspot.qa
+||blogspot.re
+||blogspot.ro
+||blogspot.rs
+||blogspot.ru
+||blogspot.se
+||blogspot.sg
+||blogspot.si
+||blogspot.sk
+||blogspot.sn
+||blogspot.td
+||blogspot.tw
+||blogspot.ug
+||blogspot.vn
 ||built-in.google
 ||business.site
 ||businessmessages.google
@@ -253,7 +326,7 @@
 ||chromeos.google
 ||chromercise.com
 ||chromestatus.com
-/^https?:\/\/chronicle\.security/
+/^https?:\/\/chronicle\.security/$
 ||cloud.run
 ||cloudpartnerservices.goog
 ||cloudskillsboost.google
@@ -482,6 +555,7 @@
 ||google.no
 ||google.nr
 ||google.nu
+||google.org
 ||google.pl
 ||google.pn
 ||google.ps
@@ -509,10 +583,10 @@
 ||google.tt
 ||google.vu
 ||google.ws
-/^https?:\/\/google-analytics\.com/
+/^https?:\/\/google-analytics\.com/$
 @@||www.google-analytics.com
 ||google-base.de
-/^https?:\/\/googleanalytics\.com/
+/^https?:\/\/googleanalytics\.com/$
 ||googleapis.com
 @@||clientservices.googleapis.com
 @@||crashlyticsreports-pa.googleapis.com
@@ -532,7 +606,7 @@
 ||googleblog.com
 ||googlebot.com
 ||googlechinawebmaster.com
-/^https?:\/\/googlecloudcommunity\.com/
+/^https?:\/\/googlecloudcommunity\.com/$
 ||googlecode.com
 ||googlecommerce.com
 ||googledomains.com
@@ -553,7 +627,7 @@
 ||googleplus.com
 ||googlescholar.com
 ||googlesource.com
-/^https?:\/\/googlesyndication\.com/
+/^https?:\/\/googlesyndication\.com/$
 ||googleusercontent.com
 ||googlevideo.com
 ||googleweblight.com
@@ -633,6 +707,7 @@
 ||usercontent.goog
 ||wallet.google
 ||waymo.com
+||waze.com
 ||web.dev
 ||webmproject.org
 ||webpkgcache.com
@@ -1207,7 +1282,6 @@
 ||blocktempo.com
 ||blogcatalog.com
 ||blogcity.me
-||blogger.com
 ||blogimg.jp
 ||blogjav.net
 ||bloglines.com
@@ -1545,6 +1619,7 @@
 ||coinrail.co.kr
 ||cointiger.com
 ||coinut.com
+||coinw.com
 ||collateralmurder.com
 ||collateralmurder.org
 ||comefromchina.com
@@ -3301,6 +3376,7 @@
 ||nordvpn.com
 ||note.com
 ||notepad-plus-plus.org
+||notion.com
 ||notion.site
 ||novelasia.com
 ||now.com
