@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-07 Tue 18:24:12 GMT+8
+! Last Modified: 2026-04-07 Tue 18:29:10 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3378,6 +3378,7 @@
 ||notepad-plus-plus.org
 ||notion.com
 ||notion.site
+||notion.so
 ||novelasia.com
 ||now.com
 ||nownews.com
