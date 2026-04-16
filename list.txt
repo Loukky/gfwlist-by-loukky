@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-16 Thu 17:34:00 GMT+8
+! Last Modified: 2026-04-16 Thu 17:43:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1049,6 +1049,9 @@
 ||animeshippuuden.com
 ||animezilla.com
 ||aniscartujo.com
+||annas-archive.gd
+||annas-archive.gl
+||annas-archive.pk
 ||anobii.com
 ||anontext.com
 ||anonymise.us
@@ -1101,6 +1104,7 @@
 ||archive.org
 ||archive.ph
 ||archive.today
+||archive-it.org
 ||archiveofourown.org
 ||arctosia.com
 ||areca-backup.org
@@ -1151,6 +1155,7 @@
 ||avfantasy.com
 ||avg.com
 ||avgle.com
+||avistaz.to
 ||avjb.com
 ||avmoo.com
 ||avple.tv
@@ -3496,6 +3501,7 @@
 ||orn.jp
 ||osfoora.com
 ||osm.tw
+||osmand.net
 ||otcbtc.com
 ||ourdearamy.com
 ||oursogo.com
@@ -4629,6 +4635,7 @@
 ||unodedos.com
 ||unpo.org
 ||unseen.is
+||sbti.unun.dev
 ||unwire.hk
 ||uocn.org
 ||up.audio
