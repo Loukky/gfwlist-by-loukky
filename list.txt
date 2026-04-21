@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-16 Thu 17:43:43 GMT+8
+! Last Modified: 2026-04-22 Wed 04:23:29 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1499,10 +1499,8 @@
 ||chinachristiantimes.com
 ||chinadialogue.net
 ||chinadigitaltimes.net
-||chinaelections.org
 ||chinafile.com
 ||chinafirewalltest.com
-||chinafreepress.org
 ||chinagate.com
 ||chinageeks.org
 ||chinagfw.org
@@ -1965,7 +1963,6 @@
 ||wiki.esu.im
 ||etaa.org.au
 ||etadult.com
-||etaiwannews.com
 ||ethermine.org
 ||etherscan.io
 ||ettoday.net
@@ -3158,7 +3155,6 @@
 ||mingpaosf.com
 ||mingpaotor.com
 ||mingpaovan.com
-||mingshengbao.com
 ||minhhue.net
 ||ministrybooks.org
 ||minjian-danganguan.org
@@ -3313,7 +3309,6 @@
 ||netflix.com
 ||netme.cc
 ||netsarang.com
-||netsneak.com
 ||network54.com
 ||networkedblogs.com
 ||networktunnel.net
@@ -3328,7 +3323,6 @@
 ||newipnow.com
 ||newlandmagazine.com.au
 ||newmitbbs.com
-||newnews.ca
 ||news.com.au
 ||news100.com.tw
 ||news18.com
@@ -3423,7 +3417,6 @@
 ||sukebei.nyaa.si
 ||nydailynews.com
 ||nylon-angel.com
-||nylonstockingsonline.com
 ||nypost.com
 ||nyt.com
 ||static01.nyt.com
@@ -4246,7 +4239,6 @@
 ||taiwantrip.com.tw
 ||taiwantt.org.tw
 ||taiwanus.net
-||taiwanyes.com
 ||talk853.com
 ||talkatone.com
 ||talkboxapp.com
@@ -4305,7 +4297,6 @@
 ||thechinabeat.org
 ||thechinaproject.com
 ||thechinastory.org
-||thedalailamamovie.com
 ||theepochtimes.com
 ||thegly.com
 ||theguardian.com
