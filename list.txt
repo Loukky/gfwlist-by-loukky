@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-22 Wed 17:28:45 GMT+8
+! Last Modified: 2026-04-23 Thu 00:06:57 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3810,6 +3810,7 @@
 ||realcourage.org
 ||realraptalk.com
 ||realsexpass.com
+||recordedfuture.com
 ||recovery.org.tw
 ||recoveryversion.com.tw
 ||online.recoveryversion.org
