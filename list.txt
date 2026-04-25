@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-26 Sun 01:51:45 GMT+8
+! Last Modified: 2026-04-26 Sun 02:01:29 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -804,6 +804,7 @@
 ||nmns.edu.tw
 ||npm.edu.tw
 ||nqu.edu.tw
+||ntl.edu.tw
 ||cbs.ntu.edu.tw
 ||gcc.ntu.edu.tw
 ||char.iis.sinica.edu.tw
@@ -2056,6 +2057,7 @@
 ||fdc64.de
 ||fdc64.jp
 ||fdc64.org
+||feebee.com.tw
 ||feedly.com
 ||feedx.net
 ||feelssh.com
@@ -3401,7 +3403,6 @@
 ||ntdtv.org
 ||ntdtv.ru
 ||ntdtvla.com
-||ntl.edu.tw
 ||ntrfun.com
 ||nubiles.net
 ||nudezz.com
