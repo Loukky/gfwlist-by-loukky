@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-04-26 Sun 02:08:39 GMT+8
+! Last Modified: 2026-04-28 Tue 15:30:27 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -209,6 +209,7 @@
 !...GFWList doesn't intend to support typosquatting...
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com/$
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com/$
+@@/(pek|sha)\d{2}s\d{2}-in-f\d{1,2}\.1e100\.net/$
 @@/^https?:\/\/[^\/]+\.adtrafficquality\.google/$
 ||1e100.net
 ||466453.com
@@ -4737,6 +4738,7 @@
 ||voatibetan.com
 ||voatibetanenglish.com
 ||vocativ.com
+||vocus.cc
 ||voi.id
 ||vot.org
 ||votetw.com
