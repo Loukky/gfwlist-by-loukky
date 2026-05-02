@@ -48,8 +48,8 @@ jobs:
             <English summary here>
 
             **中文总结**
-           <中文总结内容>
-           
+            <中文总结内容>
+
             ----
             Issue Title:
             ${{ steps.sanitize.outputs.title }}
