@@ -15,17 +15,16 @@ https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/refs/heads/master/gfw
 ```
 ## Pac规则（来自bocchi810）
 ### 转换过程中可能会丢失部分规则
-Jsdelivr(gcore(实际上是Cloudflare)):https://gcore.jsdelivr.net/gh/bocchi810/loukky-gfwlist-pac@master/gfwlist.json  
-Jsdelivr(Fastly):https://fastly.jsdelivr.net/gh/bocchi810/loukky-gfwlist-pac@master/gfwlist.json **(推荐使用)**  
+Jsdelivr gcore(Cloudflare)):https://gcore.jsdelivr.net/gh/bocchi810/loukky-gfwlist-pac@master/gfwlist.json  
+Jsdelivr Fastly:https://fastly.jsdelivr.net/gh/bocchi810/loukky-gfwlist-pac@master/gfwlist.json **(推荐使用)**  
 
-## Jsdelivr(可能有缓存): 
-Jsdelivr(gcore(实际上是Cloudflare)):https://gcore.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
-Jsdelivr(Fastly):https://fastly.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt **(推荐使用)**  
-Jsdelivr(国内镜像，有封禁风险):https://cdn.jsdmirror.com/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
+## gfwlist on jsdelivr(可能有缓存): 
+Jsdelivr gcore(Cloudflare):https://gcore.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
+Jsdelivr Fastly:https://fastly.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt **(推荐使用)**  
+Jsdelivr(国内镜像，仅供参考):https://cdn.jsdmirror.com/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt  
 
 ## 镜像站（仅供参考）:  
-镜像站1:https://gh-proxy.com/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt   
-镜像站2:https://raw.kkgithub.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt  
+镜像站1:https://gh-proxy.com/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 ## 提示
 ### 发现了有以下情况的网站，并且没在此列表的，请开issues  
 1.国内访问出现ERR_CONNECTION_RESET错误的  
