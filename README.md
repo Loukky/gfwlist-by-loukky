@@ -30,6 +30,9 @@ google.com:出现了1和3情况
 support.google.com:出现了4情况  
 
 ### 如果有域名被解除封锁需要移除列表的，请直接开issue说明并且列出该域名的规则内容
+## 如果您想要求匿名，您可以直接向我们发送报告 
+### Email to: gfwlistbyloukky@proton.me
+
 ## 项目 Star 数增长趋势
 
 [![Stargazers over time](https://starchart.cc/Loukky/gfwlist-by-loukky.svg?variant=adaptive)](https://starchart.cc/Loukky/gfwlist-by-loukky)
