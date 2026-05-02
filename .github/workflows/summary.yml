@@ -61,7 +61,7 @@ jobs:
         run: |
           echo "## 🤖 AI Summary" > comment.txt
           echo "" >> comment.txt
-          echo "$RESPONSE" >> comment.txt
+          printf "%s\n" "$RESPONSE" >> comment.txt
 
           gh issue comment $ISSUE_NUMBER --body-file comment.txt
         env:
