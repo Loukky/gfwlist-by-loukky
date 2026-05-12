@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-05-12 Tue 18:57:56 GMT+8
+! Last Modified: 2026-05-12 Tue 19:03:34 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3744,6 +3744,7 @@
 ||puffinbrowser.com
 ||puffstore.com
 ||pullfolio.com
+||pulsehknews.com
 ||punjab.gov.in
 ||punjab.gov.pk
 ||punyu.com
