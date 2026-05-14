@@ -9,9 +9,9 @@ changed from [GFWlist](https://github.com/gfwlist/gfwlist) and self use
 https://github.com/Loukky/gfwlist-by-loukky/blob/master/list.txt
 ```
 
-[gfwlist.txt](https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/refs/heads/master/gfwlist.txt) 则是通过base64转码过后的列表，一般使用这个即可
+[gfwlist.txt](https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt) 则是通过base64转码过后的列表，一般使用这个即可
 ```javascript copy
-https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/refs/heads/master/gfwlist.txt
+https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 ```
 ## Pac规则（来自bocchi810）
 ### 转换过程中可能会丢失部分规则
