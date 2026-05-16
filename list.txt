@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-05-12 Tue 23:41:55 GMT+8
+! Last Modified: 2026-05-17 Sun 01:33:48 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1044,7 +1044,6 @@
 ||ancsconf.org
 ||android-x86.org
 ||androidcombo.com
-||andygod.com
 ||angela-merkel.de
 ||angelfire.com
 ||angola.org
@@ -1295,7 +1294,6 @@
 ||blogjav.net
 ||bloglines.com
 ||bloglovin.com
-||blogtd.org
 ||bloodshed.net
 ||bloomberg.cn
 ||bloomberg.com
@@ -1532,7 +1530,6 @@
 ||chinese-memorial.org
 ||chinesedaily.com
 ||chinesedemocracy.com
-||chinesegay.org
 ||chinesen.de
 ||chinesenews.net.au
 ||chinesepen.org
@@ -1565,7 +1562,6 @@
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
-||circle19.org
 ||cirosantilli.com
 ||citizencn.com
 ||citizenlab.ca
@@ -1590,7 +1586,6 @@
 ||clipconverter.cc
 ||clipfish.de
 ||clips4sale.com
-||cloakpoint.com
 /^https?:\/\/cloudflarestatus\.com/
 ||cloudfunctions.net
 ||cloudokyo.cloud
@@ -1618,7 +1613,6 @@
 ||cnyes.com
 ||coat.co.jp
 ||cobinhood.com
-||cochina.co
 ||coinbase.com
 ||coinbene.com
 ||coinegg.com
@@ -1648,7 +1642,6 @@
 ||coolloud.org.tw
 ||coolncute.com
 ||coolstuffinc.com
-||corumcollege.com
 ||cos-moe.com
 ||costco.com
 ||cotweet.com
@@ -2032,7 +2025,6 @@
 ||fanglizhi.info
 ||fangong.org
 ||fangongheike.com
-||fanhaodang.com
 ||fanqiangdang.com
 ||fanqiangdang.org
 ||fanqianghou.com
@@ -2121,7 +2113,6 @@
 ||foreignpolicy.com
 ||forum4hk.com
 ||fotile.me
-||fourthinternational.org
 ||video.foxbusiness.com
 ||foxgay.com
 ||fpmt.org
@@ -2157,7 +2148,6 @@
 ||freemoren.com
 ||freenet-china.org
 ||freenetproject.org
-||freenewscn.com
 ||freenuts.com
 ||freeones.com
 ||freeopenvpn.com
@@ -3542,7 +3532,6 @@
 ||pandora.com
 ||pandora.tv
 ||pao-pao.net
-||paperb.us
 ||paradisehill.cc
 ||paradisepoker.com
 ||parler.com
@@ -3580,7 +3569,6 @@
 ||pemulihan.or.id
 ||pen.io
 ||penchinese.com
-||penchinese.net
 ||penthouse.com
 ||pentoy.hk
 ||peoplebookcafe.com
@@ -4191,7 +4179,6 @@
 ||suno.ai
 ||suno.com
 ||sunporno.com
-||sunskyforum.com
 ||sunta.com.tw
 ||sunvpn.net
 ||supchina.com
@@ -4226,7 +4213,6 @@
 ||t66y.com
 ||taa-usa.org
 ||taaze.tw
-||tabtter.jp
 ||taedp.org.tw
 ||tafm.org
 ||tagesschau.de
@@ -4550,7 +4536,6 @@
 ||tweetedtimes.com
 ||tweetmylast.fm
 ||tweetphoto.com
-||tweetrans.com
 ||tweetree.com
 ||tweettunnel.com
 ||tweetwally.com
@@ -5157,7 +5142,6 @@
 ||zoominfo.com
 ||zootool.com
 ||zorrovpn.com
-||zpn.im
 ||zsrhao.com
 ||zuo.la
 ||zuola.com
