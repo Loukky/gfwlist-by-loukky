@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-05-17 Sun 01:33:48 GMT+8
+! Last Modified: 2026-05-17 Sun 15:11:05 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -956,6 +956,7 @@
 ||acast.com
 ||aceros-de-hispania.com
 ||acevpn.com
+||acg.mn
 ||acg.rip
 ||acgbox.link
 ||acgkj.com
@@ -1027,6 +1028,7 @@
 ||alwaysvpn.com
 ||am730.com.hk
 ||amazon.co.jp
+||music.amazon.com
 ||payments-jp.amazon.com
 /^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/$
 ||ameba.jp
@@ -1282,6 +1284,7 @@
 ||bktai.com
 ||bl-doujinsouko.com
 ||blackvpn.com
+||bleepingcomputer.com
 ||blewpass.com
 ||blinkx.com
 ||blockcast.it
@@ -1317,6 +1320,7 @@
 ||books.com.tw
 ||booktopia.com.au
 ||bookwalker.jp
+||boomplay.com
 ||bootstrapcdn.com
 ||bot.nu
 ||botanwang.com
@@ -1603,6 +1607,7 @@
 ||cn-proxy.com
 ||cn6.eu
 ||cna.com.tw
+||cnbc.com
 ||cnd.org
 ||download.cnet.com
 ||cnex.org.cn
@@ -1670,6 +1675,7 @@
 ||ctee.com.tw
 ||ctinets.com
 ||ctinews.com
+||ctinsider.com
 ||ctitv.com.tw
 ||cts.com.tw
 ||ctwant.com
@@ -1891,6 +1897,7 @@
 ||ecstart.com
 ||edgecastcdn.net
 ||edicypages.com
+||edigest.hk
 ||edoors.com
 ||edrdg.org
 ||edubridge.com
@@ -2461,6 +2468,7 @@
 ||hinet.net
 ||hitbtc.com
 ||hitomi.la
+||hive.blog
 ||hizb-ut-tahrir.info
 ||hizb-ut-tahrir.org
 ||hizbuttahrir.org
@@ -2652,7 +2660,7 @@
 ||indiatoday.in
 ||indiemerch.com
 ||indsr.org.tw
-||info-graf.fr
+||infosec.exchange
 ||infura.io
 ||initiativesforchina.org
 ||inkbunny.net
@@ -2824,6 +2832,7 @@
 ||kards.com
 ||karmapa.org
 ||karmapa-teachings.org
+||kathmandupost.com
 ||kba-tx.org
 ||kbs.co.kr
 ||kebrum.com
@@ -2928,6 +2937,7 @@
 ||liaowangxizang.net
 ||liberal.org.hk
 ||libertytimes.com.tw
+||libgen.is
 ||library-access.sk
 ||lidecheng.com
 ||ligamx.net
@@ -3077,6 +3087,7 @@
 ||media.org.hk
 ||mediachinese.com
 ||mediafreakcity.com
+||mediamatters.org
 ||mediawiki.org
 ||medicalnewstoday.com
 ||medium.com
@@ -3329,8 +3340,10 @@
 ||newsancai.com
 ||newsdetox.ca
 ||newsdh.com
+||newshub.co.nz
 ||newstapa.org
 ||newstarnet.com
+||newstimes.com
 ||newswav.com
 ||newtaiwan.com.tw
 ||newtalk.tw
@@ -3347,6 +3360,8 @@
 ||nflximg.net
 ||nflxso.net
 ||nflxvideo.net
+||nfsc.press
+||nfscofficial.com
 ||nftstorage.link
 ||co.ng.mil
 ||nga.mil
@@ -3482,6 +3497,7 @@
 ||opendesktop.org
 ||opendn.xyz
 ||openleaks.org
+||umap.openstreetmap.fr
 ||openstreetmap.org
 ||openvpn.net
 ||openvpn.org
@@ -3501,6 +3517,7 @@
 ||oursteps.com.au
 ||oursweb.net
 ||ourtv.hk
+||overdrive.com
 ||overplay.net
 ||ow.ly
 ||owind.com
@@ -3569,6 +3586,7 @@
 ||pemulihan.or.id
 ||pen.io
 ||penchinese.com
+||penguin.com.au
 ||penthouse.com
 ||pentoy.hk
 ||peoplebookcafe.com
@@ -3866,6 +3884,7 @@
 ||rthk.hk
 ||rthk.org.hk
 ||rti.org.tw
+||rts.ch
 ||rukor.org
 ||rule34.xxx
 ||rumble.com
@@ -4290,6 +4309,7 @@
 ||textnow.me
 ||tfc-taiwan.org.tw
 ||tgstat.com
+||the-sun.com
 ||theage.com.au
 ||theaustralian.com.au
 ||theb.ai
@@ -4318,6 +4338,7 @@
 ||thetibetmuseum.org
 ||thetibetpost.com
 ||thetvdb.com
+||theweek.com
 ||theync.com
 ||thinkgeek.com
 ||thinkhk.com
@@ -4514,6 +4535,7 @@
 ||inews-api.tvb.com
 ||tvboxnow.com
 ||tvbs.com.tw
+||tvdy1.com
 ||tvider.com
 ||tvplayvideos.com
 ||tvr.ro
@@ -4636,6 +4658,7 @@
 ||upmedia.mg
 ||upornia.com
 ||uproxy.org
+||upsangel.com
 ||uptodown.com
 ||upwill.org
 ||ur7s.com
