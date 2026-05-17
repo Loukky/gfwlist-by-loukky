@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-05-17 Sun 15:11:05 GMT+8
+! Last Modified: 2026-05-17 Sun 15:58:49 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4535,7 +4535,6 @@
 ||inews-api.tvb.com
 ||tvboxnow.com
 ||tvbs.com.tw
-||tvdy1.com
 ||tvider.com
 ||tvplayvideos.com
 ||tvr.ro
