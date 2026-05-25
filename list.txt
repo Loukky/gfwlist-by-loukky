@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-05-17 Sun 20:42:24 GMT+8
+! Last Modified: 2026-05-25 Mon 14:26:45 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1247,7 +1247,6 @@
 ||bgme.me
 ||bgvpn.com
 ||biantailajiao.com
-||biantailajiao.in
 ||biblesforamerica.org
 ||bibox.com
 ||bidswitch.net
@@ -1925,7 +1924,6 @@
 ||enca.com
 ||encyclopedia.com
 ||enewstree.com
-||enfal.de
 ||engadget.com
 ||englishforeveryone.org
 ||englishpen.org
@@ -3048,7 +3046,6 @@
 ||makemymood.com
 ||makkahnewspaper.com
 ||malaysiakini.com
-||manchukuo.net
 ||manchustate.org
 ||mangabz.com
 ||manhuabika.com
@@ -3778,7 +3775,6 @@
 ||qiandao.today
 ||qiangwaikan.com
 ||qiangyou.org
-||qidian.ca
 ||qiwen.lu
 ||qkshare.com
 ||qoos.com
@@ -5198,5 +5194,4 @@
 ||xn--4gq171p.com
 ||xn--90wwvt03e.com
 ||xn--czq75pvv1aj5c.org
-||xn--i2ru8q2qg.com
 ||xn--u2u927b.com
