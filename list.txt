@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-05-25 Mon 14:26:45 GMT+8
+! Last Modified: 2026-05-26 Tue 22:06:24 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4323,6 +4323,7 @@
 ||thehousenews.com
 ||thehun.net
 ||theinitium.com
+||thelallantop.com
 ||thenewslens.com
 ||thepiratebay.ee
 ||thepiratebay.org
