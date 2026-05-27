@@ -15,7 +15,7 @@
 
 适合查看和对比规则变更。
 
-```
+```text
 https://github.com/Loukky/gfwlist-by-loukky/blob/master/list.txt
 ```
 
@@ -23,7 +23,7 @@ https://github.com/Loukky/gfwlist-by-loukky/blob/master/list.txt
 
 通过 Base64 编码的规则列表，常规使用推荐此文件。
 
-```
+```text
 https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 ```
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 
 ## 镜像站（仅供参考）
 
-```
+```text
 https://gh-proxy.com/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 ```
 
