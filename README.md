@@ -1,6 +1,6 @@
 # gfwlist-by-loukky
 
-[![HitCount](https://hits.dwyl.com/Loukky/gfwlist-by-loukky.svg?style=flat-square)](http://hits.dwyl.com/Loukky/gfwlist-by-loukky)
+[![Hits](https://hitcount.dev/p/Loukky/gfwlist-by-loukky.svg)](https://hitcount.dev/p/Loukky/gfwlist-by-loukky)
 [![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Loukky/gfwlist-by-loukky?utm_source=oss&utm_medium=github&utm_campaign=Loukky%2Fgfwlist-by-loukky&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)](https://coderabbit.ai)
 
 基于 [GFWlist](https://github.com/gfwlist/gfwlist) 修改，自用为主，欢迎提交 Issue 补充规则。
