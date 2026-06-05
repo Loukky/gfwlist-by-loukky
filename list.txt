@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-04 Thu 13:37:19 GMT+8
+! Last Modified: 2026-06-05 Fri 16:34:35 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -360,6 +360,7 @@
 ||firebaseio.com
 ||foofle.com
 ||froogle.com
+||g.ai
 ||g.co
 ||g-desktop.ru
 ||gcr.io
@@ -874,6 +875,7 @@
 ||233abc.com
 ||233v2.com
 ||24av.net
+||24hbook.com
 ||2du5.com
 ||2lipstube.com
 ||2shared.com
@@ -1190,6 +1192,7 @@
 ||bangchen.net
 ||bangdream.space
 ||bangumi.moe
+||bangumi.tv
 ||bangyoulater.com
 ||bankmobilevibe.com
 ||bannedbook.org
@@ -1244,6 +1247,7 @@
 ||bettween.com
 ||betvictor.com
 ||beyondfirewall.com
+||bgm.tv
 ||bgme.me
 ||bgvpn.com
 ||biantailajiao.com
@@ -1490,6 +1494,7 @@
 ||chengmingmag.com
 ||chenpokong.com
 ||chhongbi.org
+||chii.in
 ||china-review.com.ua
 ||china-week.com
 ||china101.com
@@ -3065,6 +3070,7 @@
 ||martsangkagyuofficial.org
 ||marxist.com
 ||marxists.org
+||mas.to
 ||mash.to
 ||maskedip.com
 ||mastodon.cloud
@@ -3315,6 +3321,7 @@
 ||ned.org
 ||nengcard.com
 ||neo.com.tw
+||neodb.social
 ||nephobox.com
 ||go.nesnode.com
 ||netbirds.com
@@ -4015,6 +4022,7 @@
 ||shutterstock.com
 ||shwchurch.org
 ||siddharthasintent.org
+||sider.ai
 ||sierrafriendsoftibet.org
 ||signal.org
 ||sijihuisuo.club
@@ -4948,6 +4956,7 @@
 ||wowrk.com
 ||woyaolian.org
 ||wozy.in
+||wplace.live
 ||wpoforum.com
 ||wrchina.org
 ||wretch.cc
