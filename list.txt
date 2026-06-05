@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-05 Fri 16:34:35 GMT+8
+! Last Modified: 2026-06-05 Fri 16:52:19 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2386,7 +2386,6 @@
 ||h-moe.com
 ||h528.com
 ||h5dm.com
-||hacg.club
 ||hacg.li
 ||hacg.me
 ||hacken.cc
@@ -3701,7 +3700,6 @@
 ||porntubenews.com
 ||pornvisit.com
 ||poskotanews.com
-||post01.com
 ||post76.com
 ||post852.com
 ||potato.im
