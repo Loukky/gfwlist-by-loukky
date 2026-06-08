@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-08 Mon 23:04:14 GMT+8
+! Last Modified: 2026-06-08 Mon 23:10:05 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1923,7 +1923,6 @@
 ||emorpm.com
 ||bitc.bme.emory.edu
 ||empfil.com
-||emule-ed2k.com
 ||emulefans.com
 ||emuparadise.me
 ||enanyang.my
@@ -2142,7 +2141,6 @@
 ||freebrowser.org
 ||freechina.net
 ||freechina.news
-||freedl.org
 ||freedom.gov
 ||freedomhongkong.org
 ||freedomhouse.org
@@ -2203,7 +2201,6 @@
 ||furinkan.com
 ||furrybar.com
 ||futurechinaforum.org
-||futuremessage.org
 ||fux.com
 ||fuyin.net
 ||fuyindiantai.org
@@ -2362,7 +2359,6 @@
 ||greenparty.org.tw
 ||greenpeace.com.tw
 ||greenvpn.net
-||greenvpn.org
 ||grindr.com
 ||grok.com
 ||grokipedia.com
@@ -2569,7 +2565,6 @@
 ||huaren.us
 ||huaren4us.com
 ||huarenjie.com
-||huashangnews.com
 ||huasing.org
 ||huaxiabao.org
 ||huaxin.ph
@@ -2869,7 +2864,6 @@
 ||kir.jp
 ||kissbbao.cn
 ||kissjav.com
-||kiwi.kz
 ||kk-whys.co.jp
 ||kkbox.com
 ||kmuh.org.tw
@@ -5005,7 +4999,6 @@
 ||xiaobaiwu.com
 ||xiaochuncnjp.com
 ||xiaohexie.com
-||xiaolan.me
 ||xiaoma.org
 ||xiaomi.eu
 ||xicons.org
@@ -5100,7 +5093,6 @@
 ||youjizz.com
 ||youlucky.com
 ||youmaker.com
-||youngpornvideos.com
 ||youpai.org
 ||youporn.com
 ||youporngay.com
@@ -5160,7 +5152,6 @@
 ||zhongguo.ca
 ||zhongguorenquan.org
 ||zhongguotese.net
-||zhoushuguang.com
 ||zhuatieba.com
 ||zhuichaguoji.org
 ||zhujiget.com
