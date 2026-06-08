@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-08 Mon 22:33:28 GMT+8
+! Last Modified: 2026-06-08 Mon 22:42:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4679,6 +4679,7 @@
 ||dalailama.usc.edu
 ||usefreevpn.com
 ||usfk.mil
+||usmart.hk
 ||usmc.mil
 ||usocctn.com
 ||ustream.tv
