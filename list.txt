@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-22 Mon 01:50:50 GMT+8
+! Last Modified: 2026-06-22 Mon 02:00:36 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -931,6 +931,7 @@
 ||888.com
 ||8964museum.com
 ||8news.com.tw
+||8tvnews.my
 ||8world.com
 ||91cg1.com
 ||91jinman.com
@@ -2191,6 +2192,7 @@
 ||ft.com
 ||ftchinese.com
 ||ftv.com.tw
+||ftvnews.com.tw
 ||fucd.com
 ||fuckgfw.org
 ||fulione.com
@@ -3199,6 +3201,7 @@
 ||mm-cg.com
 ||mmaaxx.com
 ||mmmca.com
+||mnews.tw
 ||mnewstv.com
 ||mobile01.com
 ||moby.to
@@ -4264,6 +4267,7 @@
 ||tampabay.com
 ||tanc.org
 ||tangben.com
+||tantannews.com
 ||taoism.net
 ||tapatalk.com
 ||rcam.target.com
