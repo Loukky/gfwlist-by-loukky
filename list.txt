@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-22 Mon 00:46:40 GMT+8
+! Last Modified: 2026-06-22 Mon 01:50:50 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5023,6 +5023,7 @@
 ||xt.com
 ||xt.pub
 ||xtube.com
+||xuan.com.my
 ||xuehua.us
 ||xuite.net
 ||xvideo.cc
