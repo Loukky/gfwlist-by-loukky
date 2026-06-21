@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-19 Fri 21:43:10 GMT+8
+! Last Modified: 2026-06-22 Mon 00:46:40 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -967,7 +967,6 @@
 ||acgkj.com
 ||acnw.com.au
 ||actfortibet.org
-||actimes.com.au
 ||activpn.com
 ||adelaidebbs.com
 ||adguard-vpn.com
@@ -1232,7 +1231,6 @@
 ||behindkink.com
 ||beijingspring.com
 ||belamionline.com
-||bell.wiki
 ||bemywife.cc
 ||beric.me
 ||berlintwitterwall.com
@@ -1470,7 +1468,6 @@
 ||cdnews.com.tw
 ||cdns.com.tw
 ||cdp1989.org
-||cdpeu.org
 ||cdpweb.org
 ||cdpwu.org
 ||cdw.com
@@ -3225,7 +3222,6 @@
 ||morningsun.org
 ||mos.ru
 ||mosavi.io
-||motherless.com
 ||mousebreaker.com
 ||movements.org
 ||moviefap.com
@@ -3843,7 +3839,6 @@
 ||redditmedia.com
 ||redditstatic.com
 ||redtube.com
-||referer.us
 ||relay.com.tw
 ||releaseinternational.org
 ||religioustolerance.org
