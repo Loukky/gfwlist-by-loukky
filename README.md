@@ -27,7 +27,8 @@
 </p>
 
 <div align="center">
-  基于 <a href="https://github.com/gfwlist/gfwlist">GFWlist</a> 修改，自用为主 · 欢迎提交 <a href="https://github.com/Loukky/gfwlist-by-loukky/issues/new">Issue</a> 补充规则
+  基于 <a href="https://github.com/gfwlist/gfwlist">GFWlist</a> 修改，自用为主 · 欢迎提交 <a href="https://github.com/Loukky/gfwlist-by-loukky/issues/new">Issue</a> 补充规则<br>
+  主要适配 <a href="https://github.com/zero-peak/ZeroOmega">ZeroOmega</a> / <a href="https://github.com/FelisCatus/SwitchyOmega">SwitchyOmega</a>
 </div>
 
 ---
