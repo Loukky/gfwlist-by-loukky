@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 
 1. 打开扩展选项页 → **新建情景模式** → 选择 **PAC 模式**
 2. PAC 配置 URL 填入以下地址：
-   ```
+   ```text
    https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
    ```
 3. 点击 **立即更新情景模式** → **应用选项**
