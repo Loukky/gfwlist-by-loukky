@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
 ### SwitchyOmega / ZeroOmega
 
 1. 打开扩展选项页 → **新建情景模式** → 选择 **自动切换模式**
-2. **规则列表格式**选择 **AutoProxy** 网址填入以下地址：
+2. **规则列表格式** 选择 **AutoProxy** 网址填入以下地址：
    ```text
    https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
    ```
