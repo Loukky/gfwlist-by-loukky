@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v7.0.0
 
       - name: Prepare sanitized input
         id: sanitize
@@ -32,7 +32,7 @@ jobs:
 
       - name: Run AI inference
         id: inference
-        uses: actions/ai-inference@v2
+        uses: actions/ai-inference@v2.1.1
         with:
           prompt: |
             You are a summarization assistant.
