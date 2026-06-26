@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-22 Mon 02:08:34 GMT+8
+! Last Modified: 2026-06-26 Fri 23:52:51 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2401,6 +2401,7 @@
 ||hanime.tv
 ||hanime1.com
 ||hanime1.me
+||hanimeone.me
 ||hao.news
 ||happy-vpn.com
 ||haproxy.org
