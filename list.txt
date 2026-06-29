@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-29 Mon 14:59:34 GMT+8
+! Last Modified: 2026-06-29 Mon 15:58:53 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2957,7 +2957,6 @@
 ||lingualeo.com
 ||link-o-rama.com
 ||linkedin.com
-||linkideo.com
 ||linksalpha.com
 ||linktr.ee
 ||linkuswell.com
