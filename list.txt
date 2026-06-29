@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-29 Mon 15:58:53 GMT+8
+! Last Modified: 2026-06-29 Mon 17:19:48 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4305,6 +4305,7 @@
 ||tenor.com
 ||tenzinpalmo.com
 ||terabox.com
+||terminus2049.xyz
 ||terobox.com
 ||tew.org
 ||textnow.me
@@ -4526,7 +4527,6 @@
 ||tunnelbear.com
 ||tunnelr.com
 ||tunsafe.com
-||tuo8.cc
 ||turansam.org
 ||turbobit.net
 ||turbohide.com
@@ -4625,7 +4625,6 @@
 ||udnbkk.com
 ||udndata.com
 ||uforadio.com.tw
-||ufreevpn.com
 ||ugo.com
 ||uhrp.org
 ||uighur.nl
