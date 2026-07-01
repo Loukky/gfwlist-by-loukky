@@ -35,13 +35,13 @@
 
 ## 📖 目录
 
-- [文件说明](#文件说明)
-- [快速使用](#快速使用)
-- [PAC 规则](#pac-规则来自-bocchi810)
-- [gfwlist 加速镜像](#gfwlist-加速镜像可能有缓存)
-- [镜像站](#镜像站仅供参考)
-- [规则提交指南](#规则提交指南)
-- [Star 历史](#star-历史)
+- [文件说明](#-文件说明)
+- [快速使用](#-快速使用)
+- [PAC 规则](#-pac-规则来自-bocchi810)
+- [gfwlist 加速镜像](#-gfwlist-加速镜像可能有缓存)
+- [镜像站](#-镜像站仅供参考)
+- [规则提交指南](#-规则提交指南)
+- [Star 历史](#-star-历史)
 
 ---
 
@@ -131,15 +131,15 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/
 
 ## ⭐ Star 历史
 
-[![Stargazers over time](https://starchart.cc/Loukky/gfwlist-by-loukky.svg?variant=adaptive)](https://starchart.cc/Loukky/gfwlist-by-loukky)
+<a href="https://www.star-history.com/?repos=Loukky%2Fgfwlist-by-loukky&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Loukky/gfwlist-by-loukky&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Loukky/gfwlist-by-loukky&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Loukky/gfwlist-by-loukky&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/Loukky/gfwlist-by-loukky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loukky&repo=gfwlist-by-loukky&theme=transparent&hide_border=true" alt="Repo Card">
-  </a>
-</p>
 
 <p align="center">
   <sub>Licensed under <a href="https://github.com/Loukky/gfwlist-by-loukky/blob/master/LICENSE">LGPL-2.1</a> · Built with ❤️ for the open internet</sub>
