@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-01 Wed 14:58:53 GMT+8
+! Last Modified: 2026-07-01 Wed 15:27:35 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5050,6 +5050,7 @@
 ||yande.re
 ||disk.yandex.com
 ||disk.yandex.ru
+||mc.yandex.ru
 ||yanghengjun.com
 ||yangjianli.com
 ||yangzhi.org
