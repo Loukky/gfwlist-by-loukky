@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-06-29 Mon 17:27:14 GMT+8
+! Last Modified: 2026-07-01 Wed 14:58:53 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3230,6 +3230,7 @@
 ||mp3ye.eu
 ||mpfinance.com
 ||mpinews.com
+||mrds66.com
 ||mrtweet.com
 ||msa-it.org
 ||msguancha.com
