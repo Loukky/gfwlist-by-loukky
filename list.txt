@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-01 Wed 15:27:35 GMT+8
+! Last Modified: 2026-07-01 Wed 17:20:52 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -935,7 +935,9 @@
 ||8world.com
 ||91cg1.com
 ||91jinman.com
+||91md.me
 ||91porn.com
+||91porna.com
 ||91porny.com
 ||91vps.club
 ||991.com
@@ -1870,6 +1872,7 @@
 ||dwnews.com
 ||dwnews.net
 ||dysfz.cc
+||dzmm.ai
 ||dzze.com
 
 !--------------------EE-------------------------
@@ -2417,6 +2420,7 @@
 ||hbo.com
 ||hcaptcha.com
 ||hclips.com
+||hdsex.org
 ||hdsky.me
 ||hdzog.com
 ||ordns.he.net
@@ -3282,6 +3286,7 @@
 ||myreadingmanga.info
 ||mysinablog.com
 ||mytalkbox.com
+||myvideo.net.tw
 ||mywife.cc
 
 !--------------------NN-------------------------
