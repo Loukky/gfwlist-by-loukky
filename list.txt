@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-03 Fri 00:09:49 GMT+8
+! Last Modified: 2026-07-03 Fri 00:58:28 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2306,6 +2306,7 @@
 ||globaljihad.net
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
+||globalnewstv.com.tw
 ||globalrescue.net
 ||globaltm.org
 ||globalvoices.org
