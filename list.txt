@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-03 Fri 00:58:28 GMT+8
+! Last Modified: 2026-07-03 Fri 01:56:24 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2609,6 +2609,7 @@
 ||i-cable.com
 ||i-part.com.tw
 ||i1.hk
+||i24news.tv
 ||iask.ca
 ||iav19.com
 ||iblist.com
@@ -3458,6 +3459,7 @@
 ||o3o.ca
 ||oaistatic.com
 ||oaiusercontent.com
+||oann.com
 ||observechina.net
 ||obutu.com
 ||obyte.org
@@ -4056,6 +4058,7 @@
 ||skyking.com.tw
 ||skykiwi.com
 ||skylinktv.us
+||skynews.com.au
 ||skyvegas.com
 ||skyxvpn.com
 ||slandr.net
@@ -4324,6 +4327,7 @@
 ||theage.com.au
 ||theaustralian.com.au
 ||theb.ai
+||theblaze.com
 ||thebobs.com
 ||thechinabeat.org
 ||thechinaproject.com
@@ -4501,6 +4505,7 @@
 ||tronlink.org
 ||trouw.nl
 ||trt.net.tr
+||trtworld.com
 ||truebuddha-md.org
 ||trulyergonomic.com
 ||trustwallet.com
@@ -4911,6 +4916,7 @@
 ||williamhill.com
 ||windscribe.com
 ||winning11.com
+||wionews.com
 ||wire.com
 ||wiredbytes.com
 ||wireguard.com
