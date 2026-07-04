@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-03 Fri 01:59:30 GMT+8
+! Last Modified: 2026-07-04 Sat 16:37:40 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1713,6 +1713,7 @@
 ||d2bay.com
 ||d2pass.com
 ||dabr.eu
+||dadabroadband.com
 ||dadazim.com
 ||dadi360.com
 ||dafabet.com
