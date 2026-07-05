@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-05 Sun 17:01:57 GMT+8
+! Last Modified: 2026-07-05 Sun 17:16:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1171,6 +1171,7 @@
 ||avple.tv
 ||avsox.click
 ||avyahoo.com
+||axios.com
 ||azerbaycan.tv
 ||azurewebsites.net
 ||a5.com.ru
@@ -2322,6 +2323,7 @@
 ||gmll.org
 ||gnci.org.hk
 ||gnews.org
+||c.go-mpulse.net
 ||go-to-zlibrary.se
 ||go5.dev
 ||goagentplus.com
@@ -4669,6 +4671,7 @@
 ||up.audio
 ||tor.updatestar.com
 ||upholdjustice.org
+||upi.com
 ||uploaded.net
 ||uploaded.to
 ||upmedia.mg
