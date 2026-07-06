@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-06 Mon 16:43:37 GMT+8
+! Last Modified: 2026-07-06 Mon 17:28:20 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -899,11 +899,13 @@
 ||51cg1.com
 ||51jav.org
 ||51luoben.com
+||521danmei.com
 ||5278.cc
 ||5299.tv
 ||55comic.com
 ||5657.com.tw
 ||5i01.com
+||60ks.info
 ||611study.icu
 ||64museum.org
 ||64tianwang.com
@@ -946,6 +948,7 @@
 ||9bis.net
 ||9cache.com
 ||9gag.com
+||9marks.org
 ||9news.com.au
 
 !--------------------AA-------------------------
@@ -1061,6 +1064,7 @@
 ||aniscartujo.com
 ||annas-archive.gd
 ||annas-archive.gl
+||annas-archive.li
 ||annas-archive.pk
 ||anobii.com
 ||anontext.com
@@ -1124,6 +1128,7 @@
 ||army.mil
 ||art4tibet1998.org
 ||arte.tv
+||articles.sk
 ||artofpeacefoundation.org
 ||artstation.com
 ||arunachalforests.gov.in
@@ -1153,6 +1158,7 @@
 ||atlanta168.com
 ||atnext.com
 ||atvnewsonline.com
+||audacy.com
 ||av.com
 ||av.movie
 ||av-e-body.com
@@ -1208,6 +1214,7 @@
 ||barton.de
 ||bartvpn.com
 ||bastillepost.com
+||battlemetrics.com
 ||bayvoice.net
 ||bb-chat.tv
 ||bbchat.tv
@@ -1254,6 +1261,7 @@
 ||bgm.tv
 ||bgme.me
 ||bgvpn.com
+||bi.org
 ||biantailajiao.com
 ||biblesforamerica.org
 ||bibox.com
@@ -1331,6 +1339,7 @@
 ||bootstrapcdn.com
 ||bot.nu
 ||botanwang.com
+||botasot.info
 ||bowenpress.com
 ||boxpn.com
 ||boxun.com
@@ -1452,6 +1461,7 @@
 ||cbsnews.com
 ||cbtc.org.hk
 ||cc.com
+||ccbiblestudy.net
 ||cccat.cc
 ||cchere.com
 ||ccim.org
@@ -1533,6 +1543,7 @@
 ||chinasmile.net
 ||chinasocialdemocraticparty.com
 ||chinasoul.org
+||chinasource.org
 ||chinasucks.net
 ||chinatown.com.au
 ||chinaway.org
@@ -1594,6 +1605,7 @@
 ||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
+||cli.re
 ||clickme.net
 ||clipconverter.cc
 ||clipfish.de
@@ -1761,7 +1773,9 @@
 ||ddc.com.tw
 ||ddns.net
 ||de-sci.org
+||debalie.nl
 ||deck.ly
+||deep.ai
 ||deepdiscount.com
 ||deezer.com
 ||definebabe.com
@@ -1769,6 +1783,7 @@
 ||depositphotos.com
 ||derpibooru.org
 ||desipro.de
+||desiringgod.org
 ||detroitnews.com
 ||deutsche-welle.de
 ||deviantart.com
@@ -1812,6 +1827,7 @@
 ||dnssec.net
 ||docker.com
 ||docker.io
+||dockerhub.icu
 ||dockerstatus.com
 ||doctorvoice.org
 ||documentingreality.com
@@ -1852,6 +1868,7 @@
 ||dstk.dk
 ||dtiblog.com
 ||dtic.mil
+||dtku41.xyz
 ||dubox.com
 ||duckdns.org
 ||duckduckgo.com
@@ -1888,6 +1905,7 @@
 ||earthcam.com
 ||earthvpn.com
 ||easternlightning.org
+||eastmojo.com
 ||eastturkestan.com
 ||eastturkistan.net
 ||eastturkistan-gov.org
@@ -1933,6 +1951,7 @@
 ||enanyang.my
 ||enca.com
 ||encyclopedia.com
+||enduyghurforcedlabour.org
 ||enewstree.com
 ||engadget.com
 ||englishforeveryone.org
@@ -2082,6 +2101,7 @@
 ||ffvpn.com
 ||fgmtv.net
 ||fgmtv.org
+||fileditch.com
 ||fileflyer.com
 ||fileforum.com
 ||fileserve.com
@@ -2267,6 +2287,7 @@
 ||geocities.co.jp
 ||geocities.com
 ||geocities.jp
+||geostrategy.org.uk
 ||geph.io
 ||gerefoundation.org
 ||getastrill.com
@@ -2311,6 +2332,7 @@
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
 ||globalnewstv.com.tw
+||globalr2p.org
 ||globalrescue.net
 ||globaltm.org
 ||globalvoices.org
@@ -2431,10 +2453,12 @@
 ||hdsky.me
 ||hdzog.com
 ||ordns.he.net
+||headtopics.com
 ||heartyit.com
 ||heavy-r.com
 ||hec.su
 ||hecaitou.net
+||hedra.com
 ||hegre.com
 ||hegre-art.com
 ||helloandroid.com
@@ -2481,6 +2505,7 @@
 ||himemix.com
 ||hindustantimes.com
 ||hinet.net
+||history-maps.com
 ||hitbtc.com
 ||hitomi.la
 ||hive.blog
@@ -2779,6 +2804,7 @@
 ||javtrailers.com
 ||jbtalks.cc
 ||jdwsy.com
+||jendow.com.tw
 ||jex.com
 ||jhelab.org
 ||jiangweiping.com
@@ -2867,6 +2893,7 @@
 ||khabdha.org
 ||kichiku-doujinko.com
 ||kik.com
+||killtv.me
 ||killwall.com
 ||kindleren.com
 ||kingdomsalvation.org
@@ -3084,6 +3111,7 @@
 ||mastodon.host
 ||mastodon.online
 ||mastodon.social
+||mataroa.blog
 ||matome-plus.com
 ||matome-plus.net
 ||matrix.org
@@ -3180,6 +3208,7 @@
 ||mingpaosf.com
 ||mingpaotor.com
 ||mingpaovan.com
+||mingzw.net
 ||minhhue.net
 ||ministrybooks.org
 ||minjian-danganguan.org
@@ -3263,6 +3292,7 @@
 ||muslimvideo.com
 ||muzi.com
 ||muzi.net
+||muzmi.org
 ||mvg.jp
 ||my-formosa.com
 ||my-private-network.co.uk
@@ -3370,6 +3400,7 @@
 ||next11.co.jp
 ||nextapple.com
 ||nextapple.tw
+||nextcli.com
 ||nextmag.com.tw
 ||nextmedia.com
 ||nexttv.com.tw
@@ -3404,6 +3435,7 @@
 ||nobel.se
 ||nodeseek.com
 ||fourface.nodesnoop.com
+||nodle.com
 ||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
@@ -3411,6 +3443,9 @@
 ||nordstrommedia.com
 ||nordstromrack.com
 ||nordvpn.com
+||nostr.build
+||nostr.land
+||nostr.wine
 ||note.com
 ||notepad-plus-plus.org
 ||notion.com
@@ -3449,6 +3484,7 @@
 ||nyaa.eu
 ||nyaa.si
 ||sukebei.nyaa.si
+||nycbar.org
 ||nydailynews.com
 ||nylon-angel.com
 ||nypost.com
@@ -3517,6 +3553,7 @@
 ||opendesktop.org
 ||opendn.xyz
 ||openleaks.org
+||opensocietyfoundations.org
 ||umap.openstreetmap.fr
 ||openstreetmap.org
 ||openvpn.net
@@ -3688,6 +3725,7 @@
 ||poloniex.com
 ||polymarket.com
 ||polymerhk.com
+||pop.org
 ||popo.tw
 ||popvote.hk
 ||popyard.com
@@ -3723,6 +3761,7 @@
 ||premeforwindows7.com
 ||premproxy.com
 ||presentationzen.com
+||presentdangerchina.org
 ||presidentlee.tw
 ||pressreader.com
 ||prestige-av.com
@@ -3738,6 +3777,7 @@
 ||privatevpn.com
 ||prohashing.com
 ||project-syndicate.org
+||prosperousamerica.org
 ||proton.me
 ||protonvpn.com
 ||provideocoalition.com
@@ -3758,6 +3798,7 @@
 ||psiphontoday.com
 ||pstatic.net
 ||pts.org.tw
+||ptt.best
 ||ptt.cc
 ||pttgame.com
 ||ptthito.com
@@ -3919,6 +3960,7 @@
 ||cdn1.lp.saboom.com
 ||sacks.com
 ||sacom.hk
+||sadistic.pl
 ||sadistic-v.com
 ||sadpanda.us
 ||saeima.lv
@@ -4003,6 +4045,7 @@
 ||shanxivideo.com
 ||shapeservices.com
 ||sharebee.com
+||sharpchina.fm
 ||sharpdaily.hk
 ||sharpdaily.tw
 ||shat-tibet.com
@@ -4141,12 +4184,14 @@
 ||speakerdeck.com
 ||speedify.com
 ||spendee.com
+||spicychat.ai
 ||spideroak.com
 ||spiegel.de
 ||spike.com
 ||spotflux.com
 ||spotify.com
 ||spotifycdn.com
+||spreadshirt.com
 ||spring-plus.net
 ||sproutcore.com
 ||ss-link.com
@@ -4162,6 +4207,7 @@
 ||standupfortibet.org
 ||starfishfx.com
 ||starp2p.com
+||start.me
 ||startpage.com
 ||startuplivingchina.com
 ||statearmor.org
@@ -4503,6 +4549,7 @@
 ||tpi.org.tw
 ||tracfone.com
 ||tradingview.com
+||traditional-odb.org
 ||traffichaus.com
 ||transparency.org
 ||treemall.com.tw
@@ -4544,6 +4591,7 @@
 ||tumblr.com
 ||tumutanzi.com
 ||tumview.com
+||tunebat.com
 ||tunnelbear.com
 ||tunnelr.com
 ||tunsafe.com
@@ -4720,6 +4768,7 @@
 ||v2fly.org
 ||v2ray.com
 ||v2raya.org
+||valorantinfo.com
 ||van001.com
 ||van698.com
 ||vanpeople.com
@@ -4748,6 +4797,7 @@
 ||videopediaworld.com
 ||videopress.com
 ||videopress.com
+||vidlii.com
 ||vietdaikynguyen.com
 ||vijayatemple.org
 ||vimeo.com
@@ -5152,6 +5202,7 @@
 ||zacebook.com
 ||zalmos.com
 ||zamimg.com
+||zanmei.ai
 ||zannel.com
 ||zaozon.com
 ||zapto.org
@@ -5183,6 +5234,7 @@
 ||ziporn.com
 ||zippyshare.com
 ||zkaip.com
+||zmp3.cc
 ||zmw.cn
 ||zodgame.us
 ||zomobo.net
