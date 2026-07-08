@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-08 Wed 22:11:33 GMT+8
+! Last Modified: 2026-07-08 Wed 22:15:23 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -35,13 +35,6 @@
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-
-!!---BBC---
-||bbc.co.uk
-||bbc.com
-||bbc.in
-||bbcchinese.com
-||bbci.co.uk
 
 !!---ChangeIP---
 ||25u.com
@@ -742,20 +735,6 @@
 |http://store.steampowered.com
 ||steamstatic.com
 
-!!---Telegram---
-!!!---Domain---
-||cdn-telegram.org
-||t.me
-||updates.tdesktop.com
-||telega.one
-||telegra.ph
-||telegram.dog
-||telegram.me
-||telegram.org
-||telegram.space
-||telesco.pe
-||tx.me
-
 !!---Taiwan---
 ||gov.tw
 @@||aftygh.gov.tw
@@ -815,17 +794,6 @@
 ||xiaoxue.iis.sinica.edu.tw
 ||class.tn.edu.tw
 ||tyc.edu.tw
-!!---Yahoo---
-||flurry.com
-||yahoo.co.jp
-||yahoo.com
-||yahoo.com.hk
-||yahoo.com.tw
-||yahoo.net
-||yahooinc.com
-||yahoosandbox.com
-||yimg.com
-||ylive.jp
 
 !------------------Numerics---------------------
 ||000aa.com
@@ -1218,7 +1186,12 @@
 ||battlemetrics.com
 ||bayvoice.net
 ||bb-chat.tv
+||bbc.co.uk
+||bbc.com
+||bbc.in
+||bbcchinese.com
 ||bbchat.tv
+||bbci.co.uk
 ||bbg.gov
 ||bbnradio.org
 ||bbs-tw.com
@@ -1479,6 +1452,7 @@
 ||ccw.org.tw
 ||cdef.org
 ||cdjp.org
+||cdn-telegram.org
 ||cdnews.com.tw
 ||cdns.com.tw
 ||cdp1989.org
@@ -2138,6 +2112,7 @@
 ||flipboard.com
 ||flitto.com
 ||flowhongkong.net
+||flurry.com
 ||flyvpn.com
 ||flyzy2005.com
 ||cn.fmnnow.com
@@ -4293,6 +4268,7 @@
 
 !--------------------TT-------------------------
 ||t.co
+||t.me
 ||t35.com
 ||t35hosting.com
 ||t66y.com
@@ -4353,6 +4329,7 @@
 ||tcmm.com.tw
 ||tcnynj.org
 ||tcsofbc.org
+||updates.tdesktop.com
 ||tdm.com.mo
 ||tdtv.com.tw
 ||teamamericany.com
@@ -4366,6 +4343,13 @@
 ||teensinasia.com
 ||teepr.com
 ||teldap.tw
+||telega.one
+||telegra.ph
+||telegram.dog
+||telegram.me
+||telegram.org
+||telegram.space
+||telesco.pe
 ||tellme.pw
 ||tenor.com
 ||tenzinpalmo.com
@@ -4672,6 +4656,7 @@
 ||twtkr.com
 ||twtrland.com
 ||twttr.com
+||tx.me
 ||txxx.com
 ||tycool.com
 ||typekit.net
@@ -5118,6 +5103,13 @@
 
 !--------------------YY-------------------------
 ||yadi.sk
+||yahoo.co.jp
+||yahoo.com
+||yahoo.com.hk
+||yahoo.com.tw
+||yahoo.net
+||yahooinc.com
+||yahoosandbox.com
 ||yam.org.tw
 ||yande.re
 ||disk.yandex.com
@@ -5152,6 +5144,7 @@
 ||yimg.com
 ||yipub.com
 ||yizhihongxing.com
+||ylive.jp
 ||yobit.net
 ||yobt.com
 ||yobt.tv
