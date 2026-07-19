@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-08 Wed 22:31:16 GMT+8
+! Last Modified: 2026-07-19 Sun 15:52:19 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1892,7 +1892,6 @@
 ||ebony-beauty.com
 ||ebookbrowse.com
 ||ebookee.com
-||ebtcbank.com
 ||ecfa.org.tw
 ||echofon.com
 ||ecimg.tw
@@ -2746,7 +2745,6 @@
 ||ixxx.com
 ||iyouport.org
 ||izaobao.us
-||izihost.org
 ||izlesem.org
 
 !--------------------JJ-------------------------
@@ -2870,7 +2868,6 @@
 ||kichiku-doujinko.com
 ||kik.com
 ||killtv.me
-||killwall.com
 ||kindleren.com
 ||kingdomsalvation.org
 ||kinghost.com
@@ -2931,7 +2928,6 @@
 ||laogai.org
 ||laomiu.com
 ||laowang.vip
-||laoyang.info
 ||laqingdan.net
 ||lastcombat.com
 ||lastfm.es
@@ -3275,7 +3271,6 @@
 ||my-proxy.com
 ||myaudiocast.com
 ||creative.myavlive.com
-||mybbs.us
 ||mybet.com
 ||mycanadanow.com
 ||bbs.mychat.to
@@ -3806,7 +3801,6 @@
 ||ss.pythonic.life
 
 !--------------------QQ-------------------------
-||qanote.com
 ||qgirl.com.tw
 ||qi-gong.me
 ||qiandao.today
@@ -3845,7 +3839,6 @@
 ||rangzen.com
 ||rangzen.net
 ||rangzen.org
-||ranyunfei.com
 ||rapbull.net
 ||rapidvpn.com
 ||rarbgprx.org
@@ -4263,6 +4256,7 @@
 ||sydneytoday.com
 ||sylfoundation.org
 ||syosetu.com
+||sysub.com
 ||sytes.net
 ||sz.de
 ||szetowah.org.hk
