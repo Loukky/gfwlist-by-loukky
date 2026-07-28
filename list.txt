@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-22 Wed 21:43:43 GMT+8
+! Last Modified: 2026-07-29 Wed 01:51:07 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1018,6 +1018,7 @@
 ||amnesty.org
 ||amnesty.org.hk
 ||amnesty.tw
+||amnesty-usa.org
 ||amnestyusa.org
 ||amtb-taipei.org
 ||anchorfree.com
@@ -1532,7 +1533,6 @@
 ||chinesenews.net.au
 ||chinesepen.org
 ||chineseupress.com
-||chingcheong.com
 ||chinman.net
 ||chithu.org
 ||chn.chosun.com
@@ -3545,7 +3545,6 @@
 ||oursogo.com
 ||oursteps.com.au
 ||oursweb.net
-||ourtv.hk
 ||overdrive.com
 ||overplay.net
 ||ow.ly
@@ -3663,7 +3662,6 @@
 ||pinterest.se
 ||pionex.com
 ||pipii.tv
-||piraattilahti.org
 ||piring.com
 ||pixiv.net
 ||pixiv.org
@@ -3671,7 +3669,6 @@
 ||pixnet.net
 ||tw.pixtastock.com
 ||pk.com
-||placemix.com
 ||play-asia.com
 ||playbeasts.com
 ||playboyplus.com
@@ -3728,7 +3725,6 @@
 ||potvpn.com
 ||pourquoi.tw
 ||powerapple.com
-||powerphoto.org
 ||pp.ru
 ||premeforwindows7.com
 ||premproxy.com
@@ -3776,7 +3772,6 @@
 ||ptthito.com
 ||pttvan.org
 ||pttweb.cc
-||pttyes.com
 ||ptwxz.com
 ||pubu.com.tw
 ||puffin.com
@@ -4403,7 +4398,6 @@
 ||tiananmenmother.org
 ||tiananmenuniv.com
 ||tiandixing.org
-||tianti.io
 ||tiantibooks.org
 ||tianzhu.org
 ||tiava.com
@@ -5012,7 +5006,6 @@
 ||wsimg.com
 ||wsj.com
 ||wsj.net
-||wsjhk.com
 ||wtbn.org
 ||wtfpeople.com
 ||wufafangwen.com
@@ -5239,7 +5232,6 @@
 ||zvereff.com
 ||zyxel.com
 ||zzcartoon.com
-||zzcloud.me
 !##############General List End#################
 !####################Other######################
 !--------------------tiktok---------------------
