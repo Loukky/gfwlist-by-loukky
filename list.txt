@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-29 Wed 02:21:16 GMT+8
+! Last Modified: 2026-07-29 Wed 02:38:04 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1689,6 +1689,7 @@
 ||cusu.hk
 ||cw.com.tw
 ||cwgv.com.tw
+||cxense.com
 ||cyberctm.com
 ||cyberghostvpn.com
 ||cynscribe.com
@@ -2693,7 +2694,6 @@
 ||inside.com.tw
 ||institut-tibetain.org
 ||internet.org
-||internetfreedom.org
 ||interseclab.org
 ||inthenameofconfuciusmovie.com
 ||invade.tw
