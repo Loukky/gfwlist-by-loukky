@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-07-29 Wed 02:58:31 GMT+8
+! Last Modified: 2026-08-10 Mon 17:22:39 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1567,7 +1567,6 @@
 ||citizenlab.ca
 ||citizenlab.org
 ||citizenpowerforchina.org
-||citizensradio.org
 ||city9x.com
 ||civicparty.hk
 ||civilhrfront.org
@@ -1579,7 +1578,6 @@
 ||www.clashverge.dev
 ||claude.ai
 ||claude.com
-||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
 ||cli.re
@@ -1844,7 +1842,6 @@
 ||notify.dropboxapi.com
 ||dropboxusercontent.com
 ||drtuber.com
-||dstk.dk
 ||dtiblog.com
 ||dtic.mil
 ||dtku41.xyz
@@ -1991,6 +1988,7 @@
 ||expekt.com
 ||experts-univers.com
 ||exploader.net
+||expressnews.com
 ||expressvpn.com
 ||extmatrix.com
 ||extrabux.com
@@ -2244,7 +2242,6 @@
 ||gather.com
 ||gatherproxy.com
 ||gaybubble.com
-||gaycn.net
 ||gayhub.com
 ||gaymap.cc
 ||gaymenring.com
@@ -2508,7 +2505,6 @@
 ||hkdf.org
 ||hkej.com
 ||hket.com
-||hkfreezone.com
 ||hkfront.org
 ||hkgalden.com
 ||hkgolden.com
@@ -3525,7 +3521,6 @@
 ||opencritic.com
 ||opendemocracy.net
 ||opendesktop.org
-||opendn.xyz
 ||openleaks.org
 ||opensocietyfoundations.org
 ||umap.openstreetmap.fr
@@ -3796,7 +3791,6 @@
 ||python.com
 ||python.com.tw
 ||pythonhackers.com
-||ss.pythonic.life
 
 !--------------------QQ-------------------------
 ||qgirl.com.tw
@@ -4602,7 +4596,6 @@
 ||tweetcs.com
 ||tweetdeck.com
 ||tweetedtimes.com
-||tweetmylast.fm
 ||tweetphoto.com
 ||tweetree.com
 ||tweettunnel.com
@@ -4907,7 +4900,6 @@
 ||welovecock.com
 ||wemigrate.org
 ||wengewang.com
-||wengewang.org
 ||wenxuecity.com
 ||wenyunchao.com
 ||wenzhao.ca
