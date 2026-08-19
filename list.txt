@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-08-10 Mon 17:22:39 GMT+8
+! Last Modified: 2026-08-20 Thu 01:19:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1310,6 +1310,7 @@
 ||bookmeter.com
 ||books.com.tw
 ||booktopia.com.au
+||bookwalker.com.tw
 ||bookwalker.jp
 ||boomplay.com
 ||bootstrapcdn.com
@@ -2155,6 +2156,7 @@
 ||freeilhamtohti.org
 ||freelotto.com
 ||freeman2.com
+||freemdict.com
 ||freemoren.com
 ||freenet-china.org
 ||freenetproject.org
@@ -3522,6 +3524,7 @@
 ||opendemocracy.net
 ||opendesktop.org
 ||openleaks.org
+||openlibrary.org
 ||opensocietyfoundations.org
 ||umap.openstreetmap.fr
 ||openstreetmap.org
@@ -4730,7 +4733,6 @@
 ||uyghurensemble.co.uk
 ||uyghurpress.com
 ||uyghurstudies.org
-||uygur.org
 ||uymaarip.com
 
 !--------------------VV-------------------------
@@ -5193,7 +5195,6 @@
 ||zergpool.com
 ||zeronet.io
 ||zeutch.com
-||zhangboli.net
 ||zhangtianliang.com
 ||zhanlve.org
 ||zhenghui.org
