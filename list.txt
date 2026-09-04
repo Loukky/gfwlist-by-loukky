@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-08-20 Thu 02:15:38 GMT+8
+! Last Modified: 2026-09-04 Fri 21:55:43 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -782,6 +782,7 @@
 !!---edu.tw----
 ||eq.ccu.edu.tw
 ||heeact.edu.tw
+||ksml.edu.tw
 ||mbct.mlc.edu.tw
 ||nmns.edu.tw
 ||npm.edu.tw
@@ -824,7 +825,6 @@
 ||18p2p.com
 ||18virginsex.com
 ||1949er.org
-||zhao.1984.city
 ||1984bbs.com
 ||1984bbs.org
 ||1bao.org
@@ -1045,7 +1045,6 @@
 ||anpopo.com
 ||answering-islam.org
 ||anthropic.com
-||antichristendom.com
 ||antisocial.science
 ||antiwave.net
 ||anuneko.com
@@ -1513,7 +1512,6 @@
 ||chinalawandpolicy.com
 ||chinalawtranslate.com
 ||chinamule.com
-||chinamz.org
 ||chinanewscenter.com
 ||chinapost.com.tw
 ||chinapress.com.my
@@ -1849,7 +1847,6 @@
 ||dubox.com
 ||duckdns.org
 ||duckduckgo.com
-||duckmylife.com
 ||dudupro.com
 ||duga.jp
 ||duihua.org
@@ -1909,7 +1906,6 @@
 ||eevpn.com
 ||efcc.org.hk
 ||tor.eff.org
-||efksoft.com
 ||efreenews.com
 ||efukt.com
 ||eic-av.com
@@ -2654,7 +2650,6 @@
 ||imageflea.com
 ||imageglass.org
 ||imagevenue.com
-||imagezilla.net
 ||imago-images.com
 ||imb.org
 ||imds-api.com
@@ -2876,7 +2871,6 @@
 ||kinmen.org.tw
 ||kinokuniya.com
 ||kir.jp
-||kissbbao.cn
 ||kissjav.com
 ||kk-whys.co.jp
 ||kkbox.com
@@ -3208,7 +3202,6 @@
 ||mixpod.com
 ||mixx.com
 ||mjj.today
-||mk5000.com
 ||mlcool.com
 ||mlzs.work
 ||mm-cg.com
@@ -3408,7 +3401,6 @@
 ||nodeseek.com
 ||fourface.nodesnoop.com
 ||nodle.com
-||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
 ||nordstrom.com
@@ -3419,6 +3411,7 @@
 ||nostr.land
 ||nostr.wine
 ||note.com
+||note.ms
 ||notepad-plus-plus.org
 ||notion.com
 ||notion.site
@@ -4210,7 +4203,6 @@
 ||strikingly.com
 ||stripchat.cam
 ||strongvpn.com
-||strongwindpress.com
 ||student.tw
 ||studentsforafreetibet.org
 ||studybuddhism.com
@@ -4378,7 +4370,6 @@
 ||thestar.com
 ||thetatoken.org
 ||thetibetcenter.org
-||thetibetconnection.org
 ||thetibetmuseum.org
 ||thetibetpost.com
 ||thetvdb.com
@@ -4930,7 +4921,6 @@
 ||wikileaks.com
 ||wikileaks.de
 ||wikileaks.org
-||wikileaks-forum.com
 ||wikimapia.org
 ||wikimedia.org
 ||wikinews.org
