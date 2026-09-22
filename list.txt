@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-09-04 Fri 21:55:43 GMT+8
+! Last Modified: 2026-09-23 Wed 02:03:54 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -831,6 +831,7 @@
 ||1eew.com
 ||1lib.domains
 ||1lib.sk
+||1point3acres.com
 ||1pondo.tv
 ||2-hand.info
 ||2008xianzhang.info
@@ -909,7 +910,6 @@
 ||91porn.com
 ||91porna.com
 ||91porny.com
-||91vps.club
 ||991.com
 ||996.icu
 ||99cn.info
@@ -1339,7 +1339,6 @@
 ||brizzly.com
 ||broadbook.com
 ||broadpressinc.com
-||brockbbs.com
 ||brucewang.net
 ||brutaltgp.com
 ||bsky.app
@@ -1352,7 +1351,6 @@
 ||btku.org
 ||btloader.com
 ||btspread.com
-||btsynckeys.com
 ||budaedu.org
 ||buddhistchannel.tv
 ||buffered.com
@@ -1513,6 +1511,7 @@
 ||chinalawtranslate.com
 ||chinamule.com
 ||chinanewscenter.com
+||chinanewsx.com
 ||chinapost.com.tw
 ||chinapress.com.my
 ||chinarightsia.org
@@ -1648,7 +1647,6 @@
 ||coursehero.com
 ||coze.com
 ||cpj.org
-||cq99.us
 ||crackle.com
 ||crazys.cc
 ||crazyshit.com
@@ -2096,7 +2094,6 @@
 ||fireofliberty.org
 ||firetweet.io
 ||firstfivefollowers.com
-||firstory.io
 ||open.firstory.me
 ||firstpost.com
 ||firstrade.com
@@ -2138,7 +2135,6 @@
 ||freebearblog.org
 ||freebrowser.org
 ||freechina.net
-||freechina.news
 ||freedom.gov
 ||freedomhongkong.org
 ||freedomhouse.org
@@ -2200,7 +2196,6 @@
 ||furhhdl.org
 ||furinkan.com
 ||furrybar.com
-||futurechinaforum.org
 ||fux.com
 ||fuyin.net
 ||fuyindiantai.org
@@ -2251,7 +2246,6 @@
 ||gcpnews.com
 ||gdaily.org
 ||gdbt.net
-||gdzf.org
 ||geek-art.net
 ||gekikame.com
 ||gelbooru.com
@@ -2364,7 +2358,6 @@
 ||greatfirewallofchina.org
 ||greenparty.org.tw
 ||greenpeace.com.tw
-||greenvpn.net
 ||grindr.com
 ||grok.com
 ||grokipedia.com
@@ -2437,7 +2430,6 @@
 ||hegre-art.com
 ||helloandroid.com
 ||helloavgirls.com
-||helloqueer.com
 ||hellotxt.com
 ||hellouk.org
 ||helpeachpeople.com
@@ -2693,6 +2685,7 @@
 ||invade.tw
 ||inxian.com
 ||iopenmall.tw
+||ipaddress.my
 ||ipdefenseforum.com
 ||ipfire.org
 ||ipfs.io
@@ -2723,7 +2716,6 @@
 ||istef.info
 ||istiqlalhewer.com
 ||istockphoto.com
-||isunaffairs.com
 ||isuntv.com
 ||italiatibet.org
 ||itch.io
@@ -3258,7 +3250,6 @@
 ||muslimvideo.com
 ||muzi.com
 ||muzi.net
-||muzmi.org
 ||mvg.jp
 ||my-formosa.com
 ||my-private-network.co.uk
@@ -3361,6 +3352,7 @@
 ||newswav.com
 ||newtaiwan.com.tw
 ||newtalk.tw
+||newyorker.com
 ||newyorktimes.com
 ||next11.co.jp
 ||nextapple.com
@@ -3382,6 +3374,7 @@
 ||nga.mil
 ||ngensis.com
 ||nhentai.net
+||www3.nhk.or.jp
 ||nhk-ondemand.jp
 ||nicovideo.jp
 ||nikkei.com
@@ -3407,6 +3400,7 @@
 ||nordstrommedia.com
 ||nordstromrack.com
 ||nordvpn.com
+||nordwangluo.com
 ||nostr.build
 ||nostr.land
 ||nostr.wine
@@ -3716,7 +3710,6 @@
 ||post76.com
 ||post852.com
 ||potato.im
-||potvpn.com
 ||pourquoi.tw
 ||powerapple.com
 ||pp.ru
@@ -3749,7 +3742,6 @@
 ||proxlet.com
 ||proxpn.com
 ||proxy.org
-||proxy1.xyz
 ||proxyanonimo.es
 ||proxynetwork.org.uk
 ||proxyroad.com
@@ -3779,6 +3771,7 @@
 ||api.pureapk.com
 ||pureinsight.org
 ||purevpn.com
+||purevpn.com.tw
 ||purplelotus.org
 ||pursuestar.com
 ||pussyspace.com
@@ -4501,7 +4494,6 @@
 ||topsy.com
 ||torguard.net
 ||torproject.org
-||torrentgalaxy.to
 ||torrentprivacy.com
 ||torrentz.eu
 ||tortoisesvn.net
@@ -4680,7 +4672,6 @@
 ||unix100.com
 ||unodedos.com
 ||unpo.org
-||unseen.is
 ||sbti.unun.dev
 ||unwire.hk
 ||uocn.org
@@ -4740,6 +4731,7 @@
 ||vansky.com
 ||vaticannews.va
 ||vatn.org
+||vava8.com
 ||vct.news
 ||vegasred.com
 ||velkaepocha.sk
@@ -4767,7 +4759,6 @@
 ||vijayatemple.org
 ||vimeo.com
 ||vimeocdn.com
-||vincnd.com
 ||vine.co
 ||vip-enterprise.com
 ||virtualrealporn.com
@@ -4866,7 +4857,6 @@
 ||watchpeopledie.tv
 ||wattpad.com
 ||wav.tv
-||wdf5.com
 ||wealth.com.tw
 ||wearehairy.com
 ||wearn.com
@@ -5025,7 +5015,6 @@
 ||xda-developers.com
 ||xdaforums.com
 ||xerotica.com
-||xfiles.to
 ||xgmyd.com
 ||xhamster.com
 ||xhcdn.com
@@ -5087,6 +5076,7 @@
 ||yahoo.net
 ||yahooinc.com
 ||yahoosandbox.com
+||yam.com
 ||yam.org.tw
 ||yande.re
 ||disk.yandex.com
