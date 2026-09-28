@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-09-27 Sun 00:00:03 GMT+8
+! Last Modified: 2026-09-28 Mon 16:21:37 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2142,7 +2142,6 @@
 ||freefq.com
 ||freefuckvids.com
 ||freegao.com
-||freegpt.es
 ||freegpt.tech
 ||freehongkong.org
 ||freeilhamtohti.org
@@ -3939,6 +3938,7 @@
 ||savevid.com
 ||sbme.me
 ||scasino.com
+||scdaily.com
 ||sclub.com.tw
 ||scmp.com
 ||scmpchinese.com
@@ -4527,7 +4527,6 @@
 ||tsemtulku.com
 ||tsquare.tv
 ||tssdnews.com.tw
-||tsu.org.tw
 ||tt1069.com
 ||tttan.com
 ||ttv.com.tw
