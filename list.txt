@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-09-28 Mon 17:11:35 GMT+8
+! Last Modified: 2026-10-07 Wed 13:36:38 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1577,6 +1577,7 @@
 ||ck101.com
 ||clarionproject.org
 ||www.clashverge.dev
+||clau.de
 ||claude.ai
 ||claude.com
 ||clearharmony.net
@@ -3612,7 +3613,6 @@
 ||peopo.org
 ||percy.in
 ||perfectgirls.net
-||perfectvpn.net
 ||periscope.tv
 ||perplexity.ai
 ||persecutionblog.com
@@ -3656,7 +3656,6 @@
 ||piring.com
 ||pixiv.net
 ||pixiv.org
-||pixnet.in
 ||pixnet.net
 ||tw.pixtastock.com
 ||pk.com
@@ -5064,7 +5063,6 @@
 ||xxlmovies.com
 ||xxx.com
 ||xxx.xxx
-||xxxfuckmom.com
 ||xxxx.com.au
 ||xxxymovies.com
 ||xys.org
@@ -5181,7 +5179,6 @@
 ||zeutch.com
 ||zhangtianliang.com
 ||zhanlve.org
-||zhenghui.org
 ||zhengjian.org
 ||zhengwunet.org
 ||zhenxiang.biz
