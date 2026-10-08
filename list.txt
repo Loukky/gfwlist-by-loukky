@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-10-08 Thu 01:02:39 GMT+8
+! Last Modified: 2026-10-08 Thu 18:08:58 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3179,6 +3179,7 @@
 ||miraheze.org
 ||mirror.xyz
 ||mirrorbooks.com
+||mirrordaily.news
 ||mirrormedia.com.tw
 ||mirrormedia.mg
 ||mirrormediagroup.com
@@ -4258,6 +4259,7 @@
 ||tagesschau.de
 ||tagwalk.com
 ||taipeitimes.com
+||taisounds.com
 ||taiwan-sex.com
 ||taiwanbible.com
 ||taiwancon.com
@@ -4370,6 +4372,7 @@
 ||thetibetpost.com
 ||thetvdb.com
 ||theweek.com
+||thewitnesshk.com
 ||theync.com
 ||thinkgeek.com
 ||thinkhk.com
