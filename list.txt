@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-10-08 Thu 18:29:01 GMT+8
+! Last Modified: 2026-10-08 Thu 18:30:27 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1244,6 +1244,7 @@
 ||bidswitch.net
 ||big.one
 ||bigfools.com
+||biggo.com
 ||biggo.com.tw
 ||bignews.org
 ||bignewsnetwork.com
