@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-10-08 Thu 18:30:27 GMT+8
+! Last Modified: 2026-10-20 Tue 04:12:55 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -185,7 +185,10 @@
 ||instagram.com
 ||m.me
 ||messenger.com
+||meta.ai
 ||meta.com
+||metaaivm.com
+||muse.ai
 ||oculus.com
 ||oculuscdn.com
 ||sl-reverse.com
@@ -896,6 +899,7 @@
 ||7cow.com
 ||7mmtv.sx
 ||7mmtv.tv
+||7x24hrs.com
 ||8-d.com
 ||85cc.net
 ||85cc.us
@@ -956,6 +960,7 @@
 ||agemys.net
 ||agnesb.fr
 ||ai.ls
+||aihub.top
 ||aiph.net
 ||airitilibrary.com
 ||airvpn.org
@@ -1067,7 +1072,6 @@
 ||apetube.com
 ||apk.tw
 ||apk-dl.com
-||apkcombo.com
 ||apkmirror.com
 ||apkmonk.com
 ||apkplz.com
@@ -1082,6 +1086,9 @@
 ||appspot-preview.com
 ||appsto.re
 ||aptoide.com
+||basemaps.arcgis.com
+||experience.arcgis.com
+||livingatlas.arcgis.com
 ||archive.fo
 ||archive.is
 ||archive.li
@@ -1339,6 +1346,7 @@
 ||breaking911.com
 ||breakingtweets.com
 ||breakwall.net
+||briarproject.org
 ||briian.com
 ||brizzly.com
 ||broadbook.com
@@ -1483,6 +1491,7 @@
 ||chaoex.com
 ||chat.com
 ||chatgpt.com
+||chatgpt.site
 ||chaturbate.com
 ||chengmingmag.com
 ||chenpokong.com
@@ -1493,7 +1502,6 @@
 ||china101.com
 ||china21.org
 ||china5000.us
-||chinaaffairs.org
 ||chinaaid.net
 ||chinaaid.org
 ||chinaaid.us
@@ -1642,7 +1650,6 @@
 ||coolaler.com
 ||coolder.com
 ||coolloud.org.tw
-||coolncute.com
 ||coolstuffinc.com
 ||cos-moe.com
 ||costco.com
@@ -1774,7 +1781,6 @@
 ||dfn.org
 ||dharamsalanet.com
 ||dharmakara.net
-||diaoyuislands.org
 ||difangwenge.org
 ||digg.com
 ||digitalarchives.tw
@@ -2202,6 +2208,7 @@
 ||furrybar.com
 ||fux.com
 ||fuyin.net
+||fuyin116.com
 ||fuyindiantai.org
 ||fuyu.org.tw
 ||fw.cm
@@ -2476,6 +2483,7 @@
 ||hindustantimes.com
 ||hinet.net
 ||history-maps.com
+||historylines.net
 ||hitbtc.com
 ||hitomi.la
 ||hive.blog
@@ -2562,7 +2570,6 @@
 ||hst.net.tw
 ||hstern.net
 ||hstt.net
-||htkou.net
 ||htl.li
 ||htx.com
 ||huaglad.com
@@ -2751,7 +2758,6 @@
 ||jav321.com
 ||jav777.cc
 ||javakiba.org
-||javbus.co
 ||javbus.com
 ||javbus.sbs
 ||javchu.com
@@ -2853,7 +2859,6 @@
 ||kenengba.com
 ||kepard.com
 ||kex.com
-||g.kfd.me
 ||wiki.kfd.me
 ||khabdha.org
 ||kichiku-doujinko.com
@@ -2868,6 +2873,7 @@
 ||kinokuniya.com
 ||kir.jp
 ||kissjav.com
+||kiwix.org
 ||kk-whys.co.jp
 ||kkbox.com
 ||kmuh.org.tw
@@ -2966,6 +2972,7 @@
 ||abitno.linpie.com
 ||linux.do
 ||linux.org.hk
+||linux.sb
 ||linuxtoy.org
 ||lionsroar.com
 ||lipuman.com
@@ -3086,6 +3093,7 @@
 ||mayimayi.com
 ||mcadforums.com
 ||mcaf.ee
+||mceindex.com
 ||mcfog.com
 ||mcusercontent.com
 ||mail.me.com
@@ -3129,7 +3137,6 @@
 ||merlinblog.xyz
 ||meshrep.com
 ||mesotw.com
-||meta.ai
 ||metacafe.com
 ||metacubex.one
 ||metart.com
@@ -3489,6 +3496,7 @@
 ||okinawatimes.co.jp
 ||oklink.com
 ||okx.com
+||oldmapsonline.org
 ||olehdtv.com
 ||olelive.com
 ||olemovienews.com
@@ -3681,7 +3689,6 @@
 ||points-media.com
 ||pokerstars.com
 ||pokerstars.net
-||politicalchina.org
 ||politico.eu
 ||politiscales.net
 ||poloniex.com
@@ -3761,7 +3768,6 @@
 ||ptt.cc
 ||pttgame.com
 ||ptthito.com
-||pttvan.org
 ||pttweb.cc
 ||ptwxz.com
 ||pubu.com.tw
@@ -3785,7 +3791,6 @@
 ||pximg.net
 ||python.com
 ||python.com.tw
-||pythonhackers.com
 
 !--------------------QQ-------------------------
 ||qgirl.com.tw
@@ -3798,6 +3803,7 @@
 ||qoos.com
 ||qstatus.com
 ||qtrac.eu
+||quakemachinex.com
 ||quitccp.org
 ||quora.com
 ||qwant.com
@@ -3941,6 +3947,7 @@
 ||savetibet.ru
 ||savetibetstore.org
 ||savevid.com
+||sb.sb
 ||sbme.me
 ||scasino.com
 ||scdaily.com
@@ -4029,6 +4036,7 @@
 ||shopping.com
 ||showhaotu.com
 ||showtime.jp
+||shuaiapi.com
 ||shutterstock.com
 ||shwchurch.org
 ||siddharthasintent.org
@@ -4092,7 +4100,6 @@
 ||snowlionpub.com
 ||soav.com
 ||soc.mil
-||social.edu.ci
 ||socialism.hk
 ||socks-proxy.net
 ||sockscap64.com
@@ -4681,7 +4688,6 @@
 ||unpo.org
 ||sbti.unun.dev
 ||unwire.hk
-||uocn.org
 ||up.audio
 ||tor.updatestar.com
 ||upholdjustice.org
@@ -4933,6 +4939,7 @@
 ||wildammo.com
 ||williamhill.com
 ||windscribe.com
+||windy.com
 ||winning11.com
 ||wionews.com
 ||wire.com
@@ -4986,6 +4993,7 @@
 ||wpoforum.com
 ||wrchina.org
 ||wretch.cc
+||write.as
 ||writesonic.com
 ||wsimg.com
 ||wsj.com
@@ -5065,7 +5073,6 @@
 ||xvideos-cdn.com
 ||xvideos2.com
 ||xvideos3.com
-||xxlmovies.com
 ||xxx.com
 ||xxx.xxx
 ||xxxx.com.au
