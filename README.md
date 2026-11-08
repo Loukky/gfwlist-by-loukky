@@ -15,9 +15,6 @@
   <a href="https://github.com/Loukky/gfwlist-by-loukky/commits/master">
     <img src="https://img.shields.io/github/last-commit/Loukky/gfwlist-by-loukky?label=Last%20Commit&labelColor=22272e&color=success" alt="Last Commit">
   </a>
-  <a href="https://github.com/Loukky/gfwlist-by-loukky/actions/workflows/sendGFWList.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/Loukky/gfwlist-by-loukky/sendGFWList.yml?label=Build&labelColor=22272e&logo=github" alt="Build">
-  </a>
   <a href="https://hitcount.dev/p/Loukky/gfwlist-by-loukky">
     <img src="https://hitcount.dev/p/Loukky/gfwlist-by-loukky.svg" alt="Hits">
   </a>
