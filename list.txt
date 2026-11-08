@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-10-20 Tue 04:12:55 GMT+8
+! Last Modified: 2026-11-08 Sun 23:52:12 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -985,7 +985,6 @@
 ||akow.org
 ||al-islam.com
 ||alabout.com
-||alanhou.com
 ||alarab.qa
 ||alasbarricadas.org
 ||alforattv.net
@@ -1292,7 +1291,6 @@
 ||blockless.com
 ||blocktempo.com
 ||blogcatalog.com
-||blogcity.me
 ||blogimg.jp
 ||blogjav.net
 ||bloglines.com
@@ -1954,7 +1952,6 @@
 ||epochtimes-bg.com
 ||epochtimes-romania.com
 ||epochtimestr.com
-||epochweek.com
 ||epochweekly.com
 ||eporner.com
 ||eprice.com.hk
@@ -2095,7 +2092,6 @@
 ||findbooks.info
 ||findmespot.com
 ||findresultsquick.com
-||findyoutube.com
 ||findyoutube.net
 ||fingerdaily.com
 ||finler.net
@@ -2108,6 +2104,7 @@
 ||open.firstory.me
 ||firstpost.com
 ||firstrade.com
+||fish.audio
 ||flagsonline.it
 ||fleshbot.com
 ||flgjustice.org
@@ -2159,7 +2156,6 @@
 ||freelotto.com
 ||freeman2.com
 ||freemdict.com
-||freemoren.com
 ||freenet-china.org
 ||freenetproject.org
 ||freenuts.com
@@ -3118,7 +3114,6 @@
 ||megaproxy.com
 ||megarotic.com
 ||megavideo.com
-||megurineluka.com
 ||melon365.com
 ||meltoday.com
 ||memehk.com
@@ -3304,7 +3299,6 @@
 ||nakido.com
 ||nakuz.com
 ||namgyal.org
-||namgyalmonastery.org
 ||namu.wiki
 ||nandazhan.com
 ||nanhuyt.com
@@ -3544,7 +3538,6 @@
 ||osm.tw
 ||osmand.net
 ||otcbtc.com
-||ourdearamy.com
 ||oursogo.com
 ||oursteps.com.au
 ||oursweb.net
@@ -4302,7 +4295,6 @@
 ||rcam.target.com
 ||taup.net
 ||taweet.com
-||tbi.org.hk
 ||tbjyt.org
 ||tbrc.org
 ||tbs.co.jp
@@ -4609,7 +4601,6 @@
 ||twibs.com
 ||twicsy.com
 ||twiends.com
-||twifan.com
 ||twilog.org
 ||twimbow.com
 ||twimg.com
@@ -4719,7 +4710,6 @@
 ||uukanshu.com
 ||uvwxyz.xyz
 ||uwants.com
-||uwants.net
 ||uyghur.co.uk
 ||uyghur-archive.com
 ||uyghur-j.org
@@ -4818,7 +4808,6 @@
 ||vpngate.net
 ||vpngratis.net
 ||vpnhq.com
-||vpninja.net
 ||vpnintouch.com
 ||vpnjack.com
 ||vpnmaster.com
@@ -5051,7 +5040,6 @@
 ||xizang-zhiye.org
 ||xjp.cc
 ||xm.com
-||xmart.tw
 ||xmonk.net
 ||xnxx.com
 ||xnxx-cdn.com
@@ -5115,7 +5103,6 @@
 ||yesasia.com.hk
 ||yespornplease.com
 ||yeyeclub.com
-||yfsp.tv
 ||yhcw.net
 ||yibaochina.com
 ||yidio.com
