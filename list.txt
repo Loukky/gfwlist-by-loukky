@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2026-11-08 Sun 23:52:12 GMT+8
+! Last Modified: 2026-11-14 Sat 17:54:04 GMT+8
 
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1084,6 +1084,7 @@
 ||appshopper.com
 ||appspot-preview.com
 ||appsto.re
+||appteka.store
 ||aptoide.com
 ||basemaps.arcgis.com
 ||experience.arcgis.com
